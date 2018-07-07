@@ -3,12 +3,21 @@
  ## is an < h2 > tag  ,
  ###### is an < h6 > tag  
 
+## New Line (ENTER)
+one new line
+two new line
+
+three new line
+
+
+ok
+
 ## Emphasis
 
  *Mark down renders HTML tags either*  ,
  _Mark down renders HTML tags either_  
 
- **Mark down renders HTML tags either** 
+ **Mark down renders HTML tags either**  ,
  __Mark down renders HTML tags either__ 
 
   _You **can** combine italic and bold_ 
