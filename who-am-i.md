@@ -1,6 +1,6 @@
  ## 1. Who am I?
         
-       *    **The gross body** 
+       *  **The gross body** 
             which is composed of 
            the seven humours(dhatus),
 	   [ plasma, blood,muslce,fat,bone
@@ -8,32 +8,23 @@
 
 	   I am not; 
    
-       *     the five cognitive sense organs, viz., the senses of 
+       *  the five cognitive sense organs, viz., the senses of 
              hearing, touch, sight, taste, and smell, 
             which apprehend their respective objects, viz.,
             sound, touch, colour, taste, and odour, I am not;
       
        * the five conative sense organs, viz., the organs of
-	speech,
-	
-	locomotion, 
-	
-	grasping,
-	
-	excretion
-	
-	and procreation, 
-	
+	speech,	
+	locomotion, 	
+	grasping,	
+	excretion	
+	and procreation, 	
         which have as their respective functions, 
 
         speaking, 
-
         moving, 
-
         grasping,
-
         excreting
-
         and enjoying, 
 
        I am not; 
