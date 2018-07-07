@@ -1,6 +1,6 @@
  ## 1. Who am I?
         
-*          The **gross body** which is composed of 
+*          The __gross body__ which is composed of 
        
 *         the seven humours(dhatus), I am not; 
    
