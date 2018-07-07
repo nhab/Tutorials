@@ -1,19 +1,14 @@
- ## 1. Who am I? 
-<ul>
-	 <dl>
+ ## 1. Who am I?
         
-          The **gross body** which is composed of 
+*          The **gross body** which is composed of 
        
-         the seven humours(dhatus), I am not; 
-      </dl>
-      <dl>
-        <br>
-              the five cognitive sense organs, viz., the senses of 
+*         the seven humours(dhatus), I am not; 
+   
+*         the five cognitive sense organs, viz., the senses of 
              hearing, touch, sight, taste, and smell, 
             which apprehend their respective objects, viz.,
             sound, touch, colour, taste, and odour, I am not;
-       </dl>
-      <br>
+      
  * the five conative sense organs, viz., the organs of
 	speech,
 	locomotion, 
@@ -22,10 +17,9 @@
 	
 	and procreation, 
 which have as their respective functions, speaking, moving, grasping, excreting and enjoying, I am not; 
+* the five vital airs,prana, etc., which perform respectively the five functions of inbreathing, etc., I am not;
 
-the five vital airs,prana, etc., which perform respectively the five functions of inbreathing, etc., I am not;
-
- even the mind which thinks, I am not; 
+* even the mind which thinks, I am not;
  
 the nescience too, which is endowed only with the residual impressions of objects, and in which there are no objects and no functionings, I am not.
 
