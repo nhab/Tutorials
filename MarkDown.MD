@@ -41,8 +41,9 @@
 
  As Kanye West said: 
 
- > We're living the future so 
- > the present is our past. 
+ > a man of knowledge lives by acting, not by thinking about acting,
+ > nor by thinking about what he will think when he has finished 
+ 
 
 ## Inline code
 
