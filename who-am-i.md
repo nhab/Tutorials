@@ -24,35 +24,35 @@
 	
 	and procreation, 
 	
-    which have as their respective functions, 
+        which have as their respective functions, 
 
-    speaking, 
+        speaking, 
 
-    moving, 
+        moving, 
 
-    grasping,
+        grasping,
 
-    excreting
+        excreting
 
-    and enjoying, 
+        and enjoying, 
 
-    I am not; 
+       I am not; 
 
-  * the five vital airs,prana, etc.
+     * the five vital airs,prana, etc.
 
-   which perform respectively the five functions of inbreathing, etc., 
+       which perform respectively the five functions of inbreathing, etc., 
 
-   I am not;
+      I am not;
 
-  * even the mind which thinks, I am not;
+     * even the mind which thinks, I am not;
  
-   the nescience too, 
+      the nescience too, 
 
-    which is endowed only with the residual impressions of objects,
+      which is endowed only with the residual impressions of objects,
 
-   and in which there are no objects and no functionings, 
+      and in which there are no objects and no functionings, 
 
-   I am not.
+      I am not.
 
 
 ## 2. If I am none of these, then Who am I?
