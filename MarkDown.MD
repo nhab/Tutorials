@@ -5,13 +5,13 @@
 
 ## Emphasis
 
- *This text will be italic*  ,
- _This will also be italic_  
+ *Mark down renders HTML tags either*  ,
+ _Mark down renders HTML tags either_  
 
- **This text will be bold** 
- __This will also be bold__ 
+ **Mark down renders HTML tags either** 
+ __Mark down renders HTML tags either__ 
 
-  _You **can** combine them_ 
+  _You **can** combine italic and bold_ 
 
 ## Unordered List : 
 
