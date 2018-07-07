@@ -24,10 +24,10 @@ _You **can** combine italic and bold_   `_You **can** combine italic and bold_`
 
 ## Unordered List : 
 
- * Item 1  `* Item 1 `
- * Item 2  `* Item 2`
-   * Item 2a `* Item 2a`
-   * Item 2b `* Item 2a`
+ * Item 1    `* Item 1 `
+ * Item 2    `* Item 2`
+   * Item 2a `*   Item 2a`
+   * Item 2b `*   Item 2a`
 
 ## Ordered List : 
 
@@ -75,6 +75,9 @@ Markdown | Less | Pretty Markdown
 1 | 2 | 3                       
 
   `| Less | Pretty`
+  
   `--- | :---: | ---:`
+  
   `*Still* | `renders` | **nicely**`
+  
   `1 | 2 | 3`
