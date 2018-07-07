@@ -39,11 +39,11 @@
        I am not; 
 
        * the 5 vital airs
-         (1) Prana, 
-	 (2) Apana, 
-	 (3) Samana,
-	 (4) Udana
-	 (5)prana
+          Prana
+	  Apana
+	  Samana
+	  Udana
+	  prana
 
        which perform respectively the five functions of
        inbreathing, etc., 
