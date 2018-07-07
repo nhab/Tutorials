@@ -1,4 +1,4 @@
-** 1. Who am I? 
+## 1. Who am I? 
 <ul>
 	 <dl>
         <br>
@@ -16,16 +16,15 @@
       <br>
  the five conative sense organs, viz., the organs of speech, locomotion, grasping, excretion and procreation, 
 which have as their respective functions, speaking, moving, grasping, excreting and enjoying, I am not; 
-<br>
+
 the five vital airs,prana, etc., which perform respectively the five functions of inbreathing, etc., I am not;
-<br>
+
  even the mind which thinks, I am not; 
- <br>
+ 
 the nescience too, which is endowed only with the residual impressions of objects, and in which there are no objects and no functionings, I am not.
 
 
-
-** 2. If I am none of these, then Who am I?
+## 2. If I am none of these, then Who am I?
 
 After negating all of the above mentioned as ‘not this’, ‘not this’, that Awareness which alone remains — that I am.
 
