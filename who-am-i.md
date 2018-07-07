@@ -2,7 +2,7 @@
 <ul>
 	 <dl>
         
-          The ** gross body ** which is composed of 
+          The **gross body** which is composed of 
        
          the seven humours(dhatus), I am not; 
       </dl>
