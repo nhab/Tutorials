@@ -74,7 +74,7 @@ Markdown | Less | Pretty Markdown
 *Still* | `renders` | **nicely** 
 1 | 2 | 3                       
 
-  `| Less | Pretty`
+  `Markdown | Less | Pretty Markdown `
   
   `--- | :---: | ---:`
   
