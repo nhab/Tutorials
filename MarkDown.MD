@@ -1,10 +1,11 @@
-﻿## Headers : ` ` 
- # is an < h1 > tag  ,
+﻿## Headers : 
+ | # is an < h1 > tag   | `# is an < h1 > tag  ` |
+ |---|---|
  
- ## is an < h2 > tag  ,
- 
- ###### is an < h6 > tag  
- 
+ | ## is an < h2 > tag  | `## is an < h2 > tag ` |
+  |---|---|
+ | ###### is an < h6 > tag  | `###### is an < h6 > tag` |
+  |---|---|
 
 ## New Line (ENTER)
 
@@ -58,7 +59,7 @@ this is the next line
 
 ## Inline code
 
- should use an `<addr>` element 
+ should use an |<addr>` element 
 ## javascript syntax highlighting
  ```javascript
 function fancyAlert(arg) {
