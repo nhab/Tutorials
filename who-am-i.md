@@ -14,7 +14,7 @@
 	     sight, 
 	     taste,
 	     and smell, 
-            which apprehend their respective objects, viz.,
+           which apprehend their respective objects, viz.,
             sound,
 	    touch,
 	    colour,
@@ -28,15 +28,14 @@
 	   grasping,
 	   excretion
 	   and procreation, 	
-        which have as their respective functions, 
-
+          which have as their respective functions, 
           speaking, 
           moving, 
           grasping,
           excreting
           and enjoying, 
 
-       I am not; 
+         I am not; 
 
        * the 5 vital airs
           Prana
