@@ -2,7 +2,11 @@
         
        *    **The gross body** 
             which is composed of 
-           the seven humours(dhatus), I am not; 
+           the seven humours(dhatus),
+	   [ plasma, blood,muslce,fat,bone
+            bone-marrow, reproductive fluid. ]
+
+	   I am not; 
    
        *     the five cognitive sense organs, viz., the senses of 
              hearing, touch, sight, taste, and smell, 
