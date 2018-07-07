@@ -1,8 +1,8 @@
 ﻿## Headers : 
-  # This is an < h1 > tag   | `# This is an < h1 > tag  ` 
+  # This is an < h1 > tag    `# This is an < h1 > tag  ` 
 
-  ## This is an < h2 > tag  | `## This is an < h2 > tag ` |
-  ###### This is an < h6 > tag  | `###### This is an < h6 > tag` |
+  ## This is an < h2 > tag   `## This is an < h2 > tag ` 
+  ###### This is an < h6 > tag   `###### This is an < h6 > tag` 
 
 ## New Line (ENTER)
 
@@ -12,39 +12,41 @@ this is the next line
 
 ## Emphasis
 
- |*Mark down renders HTML tags either*   | ` *Mark down renders HTML tags either* ` |
+ *Mark down renders HTML tags either*    ` *Mark down renders HTML tags either* ` 
  
- | _Mark down renders HTML tags either_  | `_Mark down renders HTML tags either_`|
+  _Mark down renders HTML tags either_   `_Mark down renders HTML tags either_`
 
- |**Mark down renders HTML tags either** | `**Mark down renders HTML tags either**` |
+ **Mark down renders HTML tags either**  `**Mark down renders HTML tags either**` 
  
- |__Mark down renders HTML tags either__ | `__Mark down renders HTML tags either__`|
+ __Mark down renders HTML tags either__  `__Mark down renders HTML tags either__`
 
- |_You **can** combine italic and bold_  | `_You **can** combine italic and bold_` |
+_You **can** combine italic and bold_   `_You **can** combine italic and bold_` 
 
 ## Unordered List : 
 
- * Item 1 
- * Item 2 
-  * Item 2a 
-  * Item 2b 
+ * Item 1  `* Item 1 `
+ * Item 2  `* Item 2`
+  * Item 2a `* Item 2a`
+  * Item 2b `* Item 2a`
 
 ## Ordered List : 
 
- 1. Item 1 
- 1. Item 2 
- 1. Item 3 
-    1. Item 3a 
-    1. Item 3b 
+ 1. Item 1 `1. Item 1`
+ 1. Item 2 `1. Item 2 `
+ 1. Item 3 `1. Item 3`
+    1. Item 3a `1. Item 3a`
+    1. Item 3b `1. Item 3b`
 
 ## Images
 
   ![GitHub Logo](https://avatars0.githubusercontent.com/u/6296819?s=40&v=4) 
-  Format: ![Alt Text](url) 
+  Format: ![Alt Text](url)  `![GitHub Logo](https://avatars0.githubusercontent.com/u/6296819?s=40&v=4) 
+  Format: ![Alt Text](url) `
 
 ## Links
   http://github.com - automatic! 
- [GitHub](http://github.com) 
+ [GitHub](http://github.com)  `http://github.com - automatic! 
+ [GitHub](http://github.com)`
 
 ## Blockquotes
 
@@ -67,7 +69,7 @@ function fancyAlert(arg) {
 ```
 ## Tables
 
-Markdown | Less | Pretty
---- | :---: | ---:
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Markdown | Less | Pretty Markdown `| Less | Pretty`
+--- | :---: | ---:                `--- | :---: | ---:`
+*Still* | `renders` | **nicely** `*Still* | `renders` | **nicely**`
+1 | 2 | 3                        `1 | 2 | 3`
