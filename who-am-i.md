@@ -1,9 +1,9 @@
-## 1. Who am I? 
+ ## 1. Who am I? 
 <ul>
 	 <dl>
-        <br>
-          The gross body which is composed of 
-       <br>
+        
+          The ** gross body ** which is composed of 
+       
          the seven humours(dhatus), I am not; 
       </dl>
       <dl>
