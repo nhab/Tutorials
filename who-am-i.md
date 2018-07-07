@@ -9,29 +9,39 @@
 	   I am not; 
    
        *  the five cognitive sense organs, viz., the senses of 
-             hearing, touch, sight, taste, and smell, 
+             hearing,
+	     touch,
+	     sight, 
+	     taste,
+	     and smell, 
             which apprehend their respective objects, viz.,
-            sound, touch, colour, taste, and odour, I am not;
+            sound,
+	    touch,
+	    colour,
+	    taste, 
+	    and odour
+	    , I am not;
       
-       * the five conative sense organs, viz., the organs of
-	speech,	
-	locomotion, 	
-	grasping,	
-	excretion	
-	and procreation, 	
+       * the five conative sense organs, viz., the organs of  
+           speech,
+	   locomotion, 
+	   grasping,
+	   excretion
+	   and procreation, 	
         which have as their respective functions, 
 
-        speaking, 
-        moving, 
-        grasping,
-        excreting
-        and enjoying, 
+          speaking, 
+          moving, 
+          grasping,
+          excreting
+          and enjoying, 
 
        I am not; 
 
      * the five vital airs,prana, etc.
 
-       which perform respectively the five functions of inbreathing, etc., 
+       which perform respectively the five functions of
+       inbreathing, etc., 
 
       I am not;
 
