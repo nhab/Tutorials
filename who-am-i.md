@@ -10,48 +10,112 @@
             sound, touch, colour, taste, and odour, I am not;
       
  * the five conative sense organs, viz., the organs of
+	
 	speech,
+	
 	locomotion, 
+	
 	grasping,
+	
 	excretion
 	
 	and procreation, 
-which have as their respective functions, speaking, moving, grasping, excreting and enjoying, I am not; 
-* the five vital airs,prana, etc., which perform respectively the five functions of inbreathing, etc., I am not;
+	
+which have as their respective functions, 
+
+speaking, 
+
+moving, 
+
+grasping,
+
+excreting
+
+and enjoying, 
+
+I am not; 
+
+* the five vital airs,prana, etc.,
+
+which perform respectively the five functions of inbreathing, etc., 
+
+I am not;
 
 * even the mind which thinks, I am not;
  
-the nescience too, which is endowed only with the residual impressions of objects, and in which there are no objects and no functionings, I am not.
+the nescience too, 
+
+which is endowed only with the residual impressions of objects,
+
+and in which there are no objects and no functionings, 
+
+I am not.
 
 
 ## 2. If I am none of these, then Who am I?
 
-After negating all of the above mentioned as ‘not this’, ‘not this’, that Awareness which alone remains — that I am.
+After negating all of the above mentioned as ‘not this’, ‘not this’,
 
-<h1>
-3. What is the nature of Awareness?
-</h1>
+that Awareness which alone remains —
+
+that I am.
+
+
+## 3. What is the nature of Awareness?
+
 The nature of Awareness is Existence-Consciousness-Bliss.
-<h1>
-4. When will the realization of the Self be gained?
-</h1>
-When the world which is what-is-seen has been removed, there will be realization of the Self which is the seer.
-<h1>
-5. Will there not be realization of the Self even while the world is there (taken as real)?
-</h1>
+
+## 4. When will the realization of the Self be gained?
+
+When the world which is what-is-seen has been removed,
+
+there will be realization of the Self which is the seer.
+
+## 5. Will there not be realization of the Self even while the world is there (taken as real)?
+
 There will not be.
 
 ##   6. Why?
 
-The seer and the object seen are like the rope and the snake. Just as the knowledge of the rope which is the substrate will not arise unless the false knowledge of the illusory serpent goes, so the realization of the Self which is the substrate will not be gained unless the belief that the world is real is removed.
+The seer and the object seen are like the rope and the snake. 
+
+Just as the knowledge of the rope 
+
+which is the substrate will not arise unless
+
+the false knowledge of the illusory serpent goes,
+
+so the realization of the Self which is the substrate will not be gained unless 
+
+the belief that the world is real is removed.
 <h1>
 ##   7. When will the world which is the object seen be removed?
 
-When the mind, which is the cause of all cognition and of all actions, becomes quiescent, the world will disappear.
+When the mind, which is the cause of all cognition and of all actions,
+
+becomes quiescent, the world will disappear.
 
 ##    8. What is the nature of the mind?
 
-What is called ‘mind’ is a wondrous power residing in the Self. It causes all thoughts to arise. Apart from thoughts, there is no such thing as mind. Therefore, thought is the nature of mind. Apart from thoughts, there is no independent entity called the world. In deep sleep there are no thoughts, and there is no world. In the states of waking and dream, there are thoughts, and there is a world also. Just as the spider emits the thread (of the web) out of itself and again withdraws it into itself, likewise the mind projects the world out of itself and again resolves it into itself. When the mind comes out of the Self, the world appears. Therefore, when the world appears (to be real), the Self does not appear; and when the Self appears (shines) the world does not appear. When one persistently inquires into the nature of the mind, the mind will end leaving the Self (as the residue). What is referred to as the Self is the Atman. The mind always exists only in dependence on something gross; it cannot stay alone. It is the mind that is called the subtle body or the soul (jiva).
+What is called ‘mind’ is a wondrous power residing in the Self. 
+
+It causes all thoughts to arise.
+
+Apart from thoughts, there is no such thing as mind.
+
+Therefore, thought is the nature of mind.
+
+Apart from thoughts, there is no independent entity called the world. 
+
+In deep sleep there are no thoughts, 
+
+and there is no world. 
+
+In the states of waking and dream,
+
+there are thoughts, and there is a world also.
+
+Just as the spider emits the thread (of the web) out of itself and again withdraws it into itself, likewise the mind projects the world out of itself and again resolves it into itself. When the mind comes out of the Self, the world appears. Therefore, when the world appears (to be real), the Self does not appear; and when the Self appears (shines) the world does not appear. When one persistently inquires into the nature of the mind, the mind will end leaving the Self (as the residue). What is referred to as the Self is the Atman. The mind always exists only in dependence on something gross; it cannot stay alone. It is the mind that is called the subtle body or the soul (jiva).
 
 ##   9. What is the path of enquiry for understanding the nature of the mind?
 
