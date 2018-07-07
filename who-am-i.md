@@ -38,7 +38,7 @@
 
        I am not; 
 
-     * the 5 vital airs
+       * the 5 vital airs
          (1) Prana, 
 	 (2) Apana, 
 	 (3) Samana,
