@@ -3,22 +3,22 @@ At a shell or DOS prompt, enter: "sqlite3 test.db"
 
 ## Example
 
-` $ sqlite3 ex1 
+` $ sqlite3 ex1 `
 
- SQLite version 3.8.5 2014-05-29 12:36:14 
+ ` SQLite version 3.8.5 2014-05-29 12:36:14 `
  
- Enter ".help" for usage hints. 
+ ` Enter ".help" for usage hints. ` 
  
- sqlite> create table tbl1(one varchar(10), two smallint);
+ ` sqlite> create table tbl1(one varchar(10), two smallint); `
  
- sqlite> insert into tbl1 values('hello!',10);
+ ` sqlite> insert into tbl1 values('hello!',10); `
  
-sqlite> insert into tbl1 values('goodbye', 20);
+` sqlite> insert into tbl1 values('goodbye', 20); `
 
-sqlite> select * from tbl1;
+` sqlite> select * from tbl1; `
 
-hello!|10
+` hello!|10 `
 
-goodbye|20
+` goodbye|20 `
 
-sqlite> `
+` sqlite> `
