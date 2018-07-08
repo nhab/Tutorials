@@ -11,7 +11,7 @@ At a shell or DOS prompt, enter: "sqlite3 test.db"
  
  ` sqlite> create table tbl1(one varchar(10)  primary key, two smallint, f2 text, f3 real); `
  
- ` sqlite> insert into tbl1 values('hello!',10); `
+ ` sqlite> insert into tbl1 (one,two) values('hello!',10); `
  
 ` sqlite> insert into tbl1 values('goodbye', 20); `
 
