@@ -57,8 +57,16 @@ _You **can** combine italic and bold_   `_You **can** combine italic and bold_`
  
 
 ## Inline code
-
  should use an |<addr>` element 
+  
+## Code block
+  Indent every line of the block by at least 4 spaces.
+  Alternatively, you can use 3 backtick quote marks before and after the block, like this:
+
+```
+This is a code 
+block
+```
 ## javascript syntax highlighting
  ```javascript
 function fancyAlert(arg) {
