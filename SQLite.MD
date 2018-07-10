@@ -1,5 +1,5 @@
 ### Create A New Database
-At a shell or DOS prompt, enter: "sqlite3 test.db"
+ At a shell command prompt, enter: "sqlite3 test.db"
 
 ### Examples for Create,insert and select Table
      $ sqlite3 ex1 
