@@ -1,4 +1,4 @@
-### Create A New Database
+### Create A New Database ( or connects to existing one)
  At a shell command prompt, enter: "sqlite3 test.db"
 
 ### Examples for Create,insert and select Table
@@ -11,6 +11,10 @@
      sqlite> select * from tbl1; 
      hello!|10 
      goodbye|20 
+### Show list of the tables
+    .tables
+### Show the structure of a table
+    .schema table
 ### File I/O
     sqlite> CREATE TABLE images(name TEXT, type TEXT, img BLOB); 
     sqlite> INSERT INTO images(name,type,img) 
