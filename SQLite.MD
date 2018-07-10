@@ -35,9 +35,15 @@
     FROM _table1_old;
     COMMIT;
     PRAGMA foreign_keys=on;
-### Rename the Table name
+### Rename table , delete  Table 
     ALTER TABLE table_name
      RENAME TO new_table_name;
+
+    drop Table tbl1;
+### Insert DateTime
+    insert into tbl1(id, enterDate) values (1,DateTime());           // Now
+    insert into tbl1(id, enterDate) values (2,'2007-01-01 10:00:00');// the right format of DateTime
+    
 ### File I/O
     sqlite> CREATE TABLE images(name TEXT, type TEXT, img BLOB); 
     sqlite> INSERT INTO images(name,type,img) 
