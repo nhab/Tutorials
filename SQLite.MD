@@ -15,6 +15,26 @@
     .tables
 ### Show the structure of a table
     .schema table
+### Add column in table
+    ALTER TABLE table_name
+     ADD new_column_name column_definition;
+### Modify column in table
+  You can not use the ALTER TABLE statement to modify a column in SQLite. 
+  Instead you will need to rename the table, create a new table, and copy the data into the new table.
+#### Syntax
+    PRAGMA foreign_keys=off;
+    BEGIN TRANSACTION;
+    ALTER TABLE table1 RENAME TO _table1_old;
+    CREATE TABLE table1 (
+    ( column1 datatype [ NULL | NOT NULL ],
+     column2 datatype [ NULL | NOT NULL ],
+     ...
+    );
+    INSERT INTO table1 (column1, column2, ... column_n)
+    SELECT column1, column2, ... column_n
+    FROM _table1_old;
+    COMMIT;
+    PRAGMA foreign_keys=on;
 ### File I/O
     sqlite> CREATE TABLE images(name TEXT, type TEXT, img BLOB); 
     sqlite> INSERT INTO images(name,type,img) 
