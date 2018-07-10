@@ -11,11 +11,10 @@ At a shell or DOS prompt, enter: "sqlite3 test.db"
      sqlite> select * from tbl1; 
      hello!|10 
      goodbye|20 
-## Write to File 
+## File I/O
     sqlite> CREATE TABLE images(name TEXT, type TEXT, img BLOB); 
     sqlite> INSERT INTO images(name,type,img) 
     ...>   VALUES('icon','jpeg',readfile('icon.jpg')); 
-## Read from file
     sqlite> SELECT writefile('icon.jpg',img) FROM images WHERE name='icon'; 
 ## Querying the database schema
     SELECT name FROM sqlite_master 
