@@ -3,8 +3,9 @@ At a shell or DOS prompt, enter: "sqlite3 test.db"
 
 ## Examples for Create,insert and select Table
 
-` $ sqlite3 ex1 `
- ` SQLite version 3.8.5 2014-05-29 12:36:14 `
+` $ sqlite3 ex1 
+
+  SQLite version 3.8.5 2014-05-29 12:36:14 `
  
  ` Enter ".help" for usage hints. ` 
  
