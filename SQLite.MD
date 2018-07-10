@@ -35,6 +35,9 @@
     FROM _table1_old;
     COMMIT;
     PRAGMA foreign_keys=on;
+### Rename the Table name
+    ALTER TABLE table_name
+     RENAME TO new_table_name;
 ### File I/O
     sqlite> CREATE TABLE images(name TEXT, type TEXT, img BLOB); 
     sqlite> INSERT INTO images(name,type,img) 
