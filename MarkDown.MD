@@ -8,10 +8,13 @@
 this is the next line
 
 ### Emphasis
-*Mark down renders HTML tags either*    ` *Mark down renders HTML tags either* ` 
-_Mark down renders HTML tags either_   `_Mark down renders HTML tags either_`
+   *Mark down renders HTML tags either*    ` *Mark down renders HTML tags either* ` 
+   _Mark down renders HTML tags either_   `_Mark down renders HTML tags either_`
+
 **Mark down renders HTML tags either**  `**Mark down renders HTML tags either**` 
+
 __Mark down renders HTML tags either__  `__Mark down renders HTML tags either__`
+
 _You **can** combine italic and bold_   `_You **can** combine italic and bold_` 
 ### Unordered List : 
  * Item 1    `* Item 1 `
