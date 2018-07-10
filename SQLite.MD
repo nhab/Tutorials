@@ -1,7 +1,7 @@
-## Create A New Database
+### Create A New Database
 At a shell or DOS prompt, enter: "sqlite3 test.db"
 
-## Examples for Create,insert and select Table
+### Examples for Create,insert and select Table
      $ sqlite3 ex1 
      SQLite version 3.8.5 2014-05-29 12:36:14 
      Enter ".help" for usage hints. 
@@ -11,16 +11,19 @@ At a shell or DOS prompt, enter: "sqlite3 test.db"
      sqlite> select * from tbl1; 
      hello!|10 
      goodbye|20 
-## File I/O
+### File I/O
     sqlite> CREATE TABLE images(name TEXT, type TEXT, img BLOB); 
     sqlite> INSERT INTO images(name,type,img) 
     ...>   VALUES('icon','jpeg',readfile('icon.jpg')); 
     sqlite> SELECT writefile('icon.jpg',img) FROM images WHERE name='icon'; 
-## Querying the database schema
+### Querying the database schema
     SELECT name FROM sqlite_master 
     WHERE type IN ('table','view') AND name NOT LIKE 'sqlite_%'
     ORDER BY 1
-## CSV Export
+### CSV Export /Import
     sqlite> SELECT * FROM tab1;
     sqlite> .system c:/work/dataout.csv 
+    
+    sqlite> .mode csv
+    sqlite> .import C:/work/somedata.csv tab1
 
