@@ -89,8 +89,11 @@ Markdown | Less | Pretty Markdown
 you can define a css without using < Style > tag
 
 `	  . table-of-contents ul {`
+
 `	  list-style-type: none;`
+
 `	}`
+
 `<nav class="table-of-contents">`
 
 `  	this is a normal line of text`
