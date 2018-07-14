@@ -10,8 +10,16 @@ The pattern is introduced in a __regular expression__
 | __syntax__  | /pattern/modifiers;  |
 | __Example__ | var n = str.search(/[03]/i); |
 
+ ### Modifier
+| Modifier |  modifies the search | 
+| :------------- |:------------- |
+| i | 	Perform case-insensitive matching| 
+| g | 	Perform a global match (find all matches rather than stopping after the first match)| 
+| m | 	Perform multiline matching| 
 
-The meaning of Charachters is decribed below
+### Charachters in the pattern
+
+The meaning of Charachters in the pattern is decribed below
 
 ### To find a range of characters : __Brackets__ []
 Examples
