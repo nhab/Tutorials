@@ -4,8 +4,9 @@ the pattern is introduced in a __regular expression__
 #### __regular expression__
 A __regular expression__ is an expression that describes a pattern of characters.
 
-| concept  | code |
+|  __regular expression__  |  __regular expression__ |
 | :------------- |:------------- |
+| __regular expression__  | is an expression that describes a pattern of characters. |
 | __syntax__  | /pattern/modifiers;  |
 | __Example__ | var n = str.search(/[03]/i); |
 
