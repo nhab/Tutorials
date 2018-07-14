@@ -25,8 +25,9 @@ Examples
 
 ### To Find a specified single characters
 Examples
- | char  | Description  |
- |:----- |:------------ |
+
+| char  | Description  |
+|:----- |:------------ |
 | . 	| Find a single character, except newline or line terminator |
 | \w 	| Find a word character |
 | \W 	| Find a non-word character |
