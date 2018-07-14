@@ -17,6 +17,9 @@ this is the next line
    __Mark down renders HTML tags either__  `__Mark down renders HTML tags either__`
 
   _You **can** combine italic and bold_   `_You **can** combine italic and bold_` 
+  ### Comment
+     [comment]: <> (This is a comment, it will not be included)  `[comment]: <> (This is a comment, it will not be included)`
+     [//]: <> (This is also a comment.)  `[//]: <> (This is also a comment.)`
 ### Unordered List : 
  * Item 1    `* Item 1 `
  * Item 2    `* Item 2`
