@@ -85,8 +85,4 @@ Markdown | Less | Pretty Markdown
 	
 		+ another do tab, then the + sign, then space, then your content
 
-Line 1
-
-> line 2 
-
->> line 3
+$\qquad$ My line of text ...
