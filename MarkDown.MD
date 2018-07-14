@@ -19,7 +19,7 @@
   &nbsp;&nbsp; _You **can** combine italic and bold_   `_You **can** combine italic and bold_` 
 ## Comment
    &nbsp;&nbsp; [comment]: <> (The comment)  `[comment]: <> (The comment)`
-   &nbsp;&nbsp;  [//]: <> (This is also a comment.)  `[//]: <> (This is also a comment.)`
+   &nbsp;&nbsp;  [//]: <> (also comment.)  `[//]: <> (also a comment.)`
 ## Unordered List : 
  * Item 1    `* Item 1 `
  * Item 2    `* Item 2`
