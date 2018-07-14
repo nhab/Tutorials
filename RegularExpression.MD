@@ -1,3 +1,8 @@
+<style>
+.level-2 {
+    padding-left: 5em;
+}
+</style>
 ## javascript regular expression
 The whole idea is to finds a pattern in an _string_
 
