@@ -85,4 +85,6 @@ Markdown | Less | Pretty Markdown
 	
 		+ another do tab, then the + sign, then space, then your content
 
-$\qquad$ My line of text ...
+.table-of-contents ul {
+  list-style-type: none;
+}
