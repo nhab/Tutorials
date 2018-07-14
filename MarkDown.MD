@@ -78,4 +78,5 @@ Markdown | Less | Pretty Markdown
   
   ### Indentation
   &nbsp;&nbsp; Can be managed by inserting a number of `&nbsp;&nbsp;`
+  
   &nbsp;&nbsp;&nbsp;&nbsp; Can be managed by inserting a number of `&nbsp;&nbsp;&nbsp;&nbsp;`
