@@ -1,6 +1,7 @@
 ## javascript regular expression
-The whole idea is to finds a pattern in an string
-the pattern is introduced in a __regular expression__
+The whole idea is to finds a pattern in an _string_
+
+The pattern is introduced in a __regular expression__
 ### __regular expression__
 
 
