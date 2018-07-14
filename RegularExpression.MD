@@ -1,4 +1,4 @@
-** javascript regular expression
+## javascript regular expression
 The whole idea is to finds a pattern in an string
 
 A __regular expression__ is an expression that describes a pattern of characters.
