@@ -1,7 +1,14 @@
 ## javascript regular expression
 The whole idea is to finds a pattern in an string
-
+the pattern is introduced in a __regular expression__
+#### __regular expression__
 A __regular expression__ is an expression that describes a pattern of characters.
+
+| :------------- |:-------------
+| __syntax__  | /pattern/modifiers; 
+
+| __Example__ | var n = str.search(/[03]/i);
+
 
 The meaning of Charachters is decribed below
 
@@ -17,7 +24,7 @@ Examples
 | (x\|y) | Find any of the alternatives specified |
 
 ### To Find a specified single characters
-
+Examples
  char  | Description 
  :----- |:------------
 . 	| Find a single character, except newline or line terminator
