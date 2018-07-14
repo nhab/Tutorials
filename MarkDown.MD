@@ -97,10 +97,11 @@ Markdown | Less | Pretty Markdown
     * this is more indented, composed of <space><space><space><space>*<space>
 	
 </nav>
+you can define a css without using < Style > tag
 
-`	  .table-of-contents ul {`
-`	  list-style-type: none;`
-`	}`
+    `	  . table-of-contents ul {`
+    `	  list-style-type: none;`
+    `	}`
 `	<nav class="table-of-contents">`
 
 `  	this is a normal line of text`
