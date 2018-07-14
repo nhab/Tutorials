@@ -18,7 +18,8 @@ Examples
 
 ### specified single characters
 
-| char |  	Description | 
+ char  | Description 
+ ------------- |:-------------:
 . 	| Find a single character, except newline or line terminator
 \w 	| Find a word character
 \W 	| Find a non-word character
