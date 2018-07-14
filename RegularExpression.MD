@@ -5,7 +5,7 @@ A __regular expression__ is an expression that describes a pattern of characters
 
 The meaning of Charachters is decribed below
 
-*** find a range of characters : Brackets
+### To find a range of characters : __Brackets__
 
 Expression | 	Description
 [abc] 		| Find any character between the brackets
