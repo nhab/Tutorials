@@ -9,7 +9,7 @@ The meaning of Charachters is decribed below
 Examples
 
 | Expression  | Description |
-| ------------- |:-------------:|
+| :------------- |:-------------|
 | [abc] | Find any character between the brackets |
 | [^abc] | Find any character NOT between the brackets |
 | [0-9]  | Find any character between the brackets (any digit) |
@@ -19,7 +19,7 @@ Examples
 ### To Find a specified single characters
 
  char  | Description 
- ----- |:------------:
+ :----- |:------------
 . 	| Find a single character, except newline or line terminator
 \w 	| Find a word character
 \W 	| Find a non-word character
