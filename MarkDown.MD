@@ -85,6 +85,22 @@ Markdown | Less | Pretty Markdown
 	
 		+ another do tab, then the + sign, then space, then your content
 
+## using css
 .table-of-contents ul {
   list-style-type: none;
 }
+<nav class="table-of-contents">
+  this is a normal line of text
+  * this is the first level of bullet points, made up of <space><space>*<space>
+    * this is more indented, composed of <space><space><space><space>*<space>
+</nav>
+	<pre>
+	  .table-of-contents ul {
+	  list-style-type: none;
+	}
+	<nav class="table-of-contents">
+  	this is a normal line of text
+  	* this is the first level of bullet points, made up of <space><space>*<space>
+    		* this is more indented, composed of <space><space><space><space>*<space>
+	</nav>
+	</pre>	
