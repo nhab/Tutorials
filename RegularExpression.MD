@@ -8,6 +8,7 @@ The meaning of Charachters is decribed below
 ### To find a range of characters : __Brackets__
 
 | Expression  | Description |
+| ------------- |:-------------:|
 | [abc] | Find any character between the brackets |
 | [^abc] | Find any character NOT between the brackets |
 | [0-9]  | Find any character between the brackets (any digit) |
