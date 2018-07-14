@@ -86,6 +86,22 @@ Markdown | Less | Pretty Markdown
 		+ another do tab, then the + sign, then space, then your content
 
 ## using css
+you can define a css without using < Style > tag
+
+`	  . table-of-contents ul {`
+`	  list-style-type: none;`
+`	}`
+`<nav class="table-of-contents">`
+
+`  	this is a normal line of text`
+	
+`  	* this is the first level of bullet points, made up of <space><space>*<space>`
+	
+`    		* this is more indented, composed of <space><space><space><space>*<space>`
+	
+`</nav>`
+
+
 .table-of-contents ul {
   list-style-type: none;
 }
@@ -97,18 +113,5 @@ Markdown | Less | Pretty Markdown
     * this is more indented, composed of <space><space><space><space>*<space>
 	
 </nav>
-you can define a css without using < Style > tag
 
-    `	  . table-of-contents ul {`
-    `	  list-style-type: none;`
-    `	}`
-`	<nav class="table-of-contents">`
-
-`  	this is a normal line of text`
-	
-`  	* this is the first level of bullet points, made up of <space><space>*<space>`
-	
-`    		* this is more indented, composed of <space><space><space><space>*<space>`
-		
-`</nav>`
 
