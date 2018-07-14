@@ -18,8 +18,8 @@ this is the next line
 
   _You **can** combine italic and bold_   `_You **can** combine italic and bold_` 
   ### Comment
-     [comment]: <> (The comment)  `[comment]: <> (The comment)`
-     [//]: <> (This is also a comment.)  `[//]: <> (This is also a comment.)`
+   [comment]: <> (The comment)  `[comment]: <> (The comment)`
+  [//]: <> (This is also a comment.)  `[//]: <> (This is also a comment.)`
 ### Unordered List : 
  * Item 1    `* Item 1 `
  * Item 2    `* Item 2`
@@ -75,3 +75,7 @@ Markdown | Less | Pretty Markdown
   `*Still* | `renders` | **nicely**`
   
   `1 | 2 | 3`
+  
+  ### Indentation
+  &nbsp&nbsp Can be managed by inserting a number of `&nbsp&nbsp`
+  &nbsp&nbsp&nbsp&nbsp Can be managed by inserting a number of `&nbsp&nbsp&nbsp&nbsp`
