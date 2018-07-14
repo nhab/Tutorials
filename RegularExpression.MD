@@ -10,14 +10,14 @@ The pattern is introduced in a __regular expression__
 | __syntax__  | /pattern/modifiers;  |
 | __Example__ | var n = str.search(/[03]/i); |
 
- ### Modifier
+ ### The Modifier
 | Modifier |  modifies the search | 
 | :------------- |:------------- |
 | g | 	Find all matches rather than stopping after the first match ( global match ) | 
 | i | 	Perform case-insensitive matching| 
 | m | 	Perform multiline matching| 
 
-### Charachters in the pattern
+### The pattern
 
 The meaning of Charachters in the pattern is decribed below
 
