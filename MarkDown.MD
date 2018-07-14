@@ -80,3 +80,5 @@ Markdown | Less | Pretty Markdown
   &nbsp;&nbsp; Can be managed by inserting a number of `&nbsp;&nbsp;`
   
   &nbsp;&nbsp;&nbsp;&nbsp; Can be managed by inserting a number of `&nbsp;&nbsp;&nbsp;&nbsp;`
+  	+ or do tab, then the + sign, then space, then your content
+		+ another do tab, then the + sign, then space, then your content
