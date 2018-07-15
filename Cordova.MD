@@ -5,8 +5,7 @@
 
 |   |   |
 |:---			|:---|
-|		WebView: |	you will see your app interface through the WebView component.|
-|			|Think of it as a browser that displays Web pages (user interface).|
+|		WebView: |	you will see your app interface through the WebView component.Think of it as a browser that displays Web pages (user interface).|
 |			|In fact, WebView is an HTML rendering engine, which renders HTML pages.|
 |			|   |
 |		Web App: |	This is where your application code is stored.|
