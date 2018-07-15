@@ -1,14 +1,12 @@
+## Cordova
+	is a  Free and open source platform for building hybrid mobile applications using HTML, CSS and JavaScript Targetting multiple platforms with one code base
 
-	:Mobile apps with HTML, CSS & JS Target multiple platforms 
-	with one code base Free and open source
-  
-	:{
-		WebView: 
+|		WebView: |
 			you will see your app interface through the WebView component.
 			Think of it as a browser that displays Web pages (user interface).
 			In fact, WebView is an HTML rendering engine, which renders HTML pages.
 
-		Web App: 
+|		Web App: |
 			This is where your application code is stored.
 			The app is implemented as an HTML Web page and is typically named index.html
 			, which points to external files such as CSS, JavaScript 
@@ -18,7 +16,7 @@
 			, such as its name, description and some specific parameters 
 			affecting the working of the app.
 
-		Plugins:
+|		Plugins:|
 			-they enable you to invoke native code from JavaScript.
 			-Plugins are an important component of the Cordova ecosystem. 
 			-They provide an interface for Cordova and native components 
