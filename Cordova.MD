@@ -3,7 +3,7 @@
 	
 	using HTML, CSS and JavaScript Targetting multiple platforms with one code base
 
-|   |   |
+|Concept   | Description   |
 |:---			|:---|
 |		WebView: |	you will see your app interface through the WebView component.Think of it as a browser that displays Web pages (user interface).|
 |			|In fact, WebView is an HTML rendering engine, which renders HTML pages.|
