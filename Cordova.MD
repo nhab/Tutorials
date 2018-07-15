@@ -1,20 +1,18 @@
 ## Cordova
 	is a  Free and open source platform for building hybrid mobile applications using HTML, CSS and JavaScript Targetting multiple platforms with one code base
-
-|		WebView: |
-			you will see your app interface through the WebView component.
-			Think of it as a browser that displays Web pages (user interface).
-			In fact, WebView is an HTML rendering engine, which renders HTML pages.
-
-|		Web App: |
-			This is where your application code is stored.
-			The app is implemented as an HTML Web page and is typically named index.html
-			, which points to external files such as CSS, JavaScript 
-			and other important resources required for it to run.
-			This component also has a very crucial file called config.xml
-			, which stores all-important metadata information about the app
-			, such as its name, description and some specific parameters 
-			affecting the working of the app.
+|:---			|:---
+|		WebView: |	you will see your app interface through the WebView component.
+|			|Think of it as a browser that displays Web pages (user interface).
+|			|In fact, WebView is an HTML rendering engine, which renders HTML pages.
+|			|
+|		Web App: |	This is where your application code is stored.
+|			|The app is implemented as an HTML Web page and is typically named index.html
+|			|, which points to external files such as CSS, JavaScript 
+|			|and other important resources required for it to run.
+|			|This component also has a very crucial file called config.xml
+|			|, which stores all-important metadata information about the app
+|			|, such as its name, description and some specific parameters 
+|			|affecting the working of the app.
 
 |		Plugins:|
 			-they enable you to invoke native code from JavaScript.
