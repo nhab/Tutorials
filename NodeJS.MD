@@ -1,7 +1,9 @@
 # Node.js
 	  Has a command-line tool that can be run as a regular web server 
 	  and lets one run JavaScript programs
-				
+	
+	Node.js has lot of libraries called pacckages that can be searched here :
+	 https://www.npmjs.com/
 
 ## nvm
    	Is node version manager
@@ -10,17 +12,15 @@
 	  $ nvm alias default 0.10.31      
 
 ## npm 
-        :is a package manager for javascript and the Node.js server platform
+   Is the __package__ manager for javascript and the Node.js server platform
   
-	 -Npm is included in nodejs installs by default.
-  
-	 -you can search online for your neede package here https://www.npmjs.com/
+	it is included in nodejs installation by default.
    
-	 :Features
+__Features__
    
-		 - local dependencies:
+	- local dependencies:
      
-		 	It installs application dependencies locally, not globally.
+	 It installs application dependencies locally, not globally.
       
 		 - multiple versions of the same dependency:
      
@@ -36,37 +36,32 @@
     
 ## Example of shell scripts in Node.js 		
 
-	-running the first hello world
+Running the first hello world
+		
+		1. create a file named h.js
+		2. write this line inside it and save: console.log("Hello World");
+		3. in command prompt run this command : node h.js
+		4. finished!this will prints Hello world.
+    
+Running a script with arguments
   
-		1.create a file named h.js
-    
-		2.write this line inside it and save: console.log("Hello World");
-    
-		3.in command prompt run this command : node h.js
-    
-		4.finished!this will prints Hello world.
-    
-	-running a script with arguments
-  
-		1.put this content inside your script 
+		1. put this content inside your script 
     
 			process.argv.forEach((val, index) => {
 				console.log(`${index}: ${val}`);
 			});
       
-		2.run your script by proving arguments:
+		2. run your script by proving arguments:
     
 			 node h.js one two=three four
        
 ## Modules (or packages or libraries)
 
-	- are set of libraries for doing real things.
+are set of libraries for doing real things.
   
 	- Node implements the CommonJS interface for modules. 
   
-	:proccesses:
-  
-		-loading depencies (using the require keyword):
+__loading depencies__ (using the require keyword):
 			
 			For example, we can require some native modules:
       
@@ -78,7 +73,7 @@
         
 				var myFile = require('./myFile'); // loads myFile.js
         
-		-Installing modules from npm:
+__Installing modules from npm:__
     
 			either search for them on the website or on Github. 
       
@@ -103,7 +98,7 @@
     
 		that have functions with the same name.
 
-		- creating your own modules
+__creating your own modules__
     
 			1-
 				configure npm
