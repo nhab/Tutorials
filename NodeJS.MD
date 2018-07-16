@@ -262,20 +262,25 @@
 	$ nvm list
 - getting the version(in command line):
 		node -v
+		
 - Hello world Example:
 	Writing a node.js program is as simple as creating a new file with a '.js' extension.
+	
 	For example you could create a simple 'hello_world.js' file with the following content:
-
+	
 	console.log('Hello World');
 
 	After you have saved the file, you can execute it from your terminal like so:
 
 	$ node hello.js
+	
 	Hello World
+	
 - A hello world http server:
-	program that responds to hello world via http.
-	We'll call the file 'hello_http.js' and put the following code into it:
 
+	 program that responds to hello world via http.
+	 We'll call the file 'hello_http.js' and put the following code into it:
+```javascript
 		var http = require('http');
 
 		var server = http.createServer(function(req, res) {
@@ -283,12 +288,16 @@
 		res.end('Hello Http');
 		});
 		server.listen(8080);
+```
 
 	Now lets run this program from the terminal by typing:
 
 		$ node hello_http.js
+		
 	Testing the server is as simple as opening a new browser tab,
+	
 	and navigating to the following url: http://localhost:8080/. 
+	
 	As expected, you should see a response that reads: 'Hello Http'.
 
 	Alternatively, you could also open up a new terminal and use curl to test your server:
@@ -299,7 +308,8 @@
 - directory structure
 	C:\Program Files\nodejs\node_modules\npm\node_modules
 	
-:using node commands{
+:using node commands
+
 	1. with no arguments. 
 		This will open an interactive shell 
 		where you can execute raw JavaScript code.
@@ -307,6 +317,7 @@
 			> console.log('Hello World');
 			Hello World
 			undefined
+			
 	2. by providing it a JavaScript file to execute.
 		This is almost always how you will be using it.
 			hello.js
@@ -315,14 +326,13 @@
 			Hello World
 	
 -file operations
-	fs:
 		readFile : 
 			takes a file path and a callback.
 			The callback will be invoked when the file is done being read.
 			The file data comes in the form of a Buffer,
 			which is basically a byte array. 
 			We can convert it to a string using the toString() function.
-														
+```javascript										
 				// Load the fs (filesystem) module.
 				var fs = require('fs');// 
 
@@ -356,24 +366,26 @@
 				console.log(results);
 				// { A: 2, B: 14, C: 6 }
 				});
-		HTTP server
-			:X
-				var http = require('http');
+```javascript
+HTTP server example
+```javascript
+	var http = require('http');
 
-				http.createServer(function (req, res) {
-				res.writeHead(200, {'Content-Type': 'text/plain'});
-				res.end('Hello World\n');
-				}).listen(8080);
+	http.createServer(function (req, res) {
+		res.writeHead(200, {'Content-Type': 'text/plain'});
+		res.end('Hello World\n');
+	}).listen(8080);
 
-				console.log('Server running on port 8080.');
+	console.log('Server running on port 8080.');
 
-				// This is not a full-featured HTTP server.
-				// It can't serve any HTML file or images.
-					// In fact, no matter what you request, it will return 'Hello World'.
-					// However, you can run this and hit http://localhost:8080 in your browser and you'll see the text.
+	// This is not a full-featured HTTP server.
+	// It can't serve any HTML file or images.
+	// In fact, no matter what you request, it will return 'Hello World'.
+	// However, you can run this and hit http://localhost:8080 in your browser and you'll see the text.
 				
-				// If you want this to be a full-featured web server, then you have to do that work.
-				
+	// If you want this to be a full-featured web server, then you have to do that work.
+```
+
 -Creating a realtime application with Express and Socket.io
 
 	Express is the most popular web framework for Node, while Socket.IO is a realtime framework that enables bi-directional communication between web clients and the server. We are going to create a basic tracking pixel application using the two that has a dashboard which reports realtime visits.
@@ -381,7 +393,7 @@
 	Besides Express and Socket.IO we will need to install the emptygif module. When the user visits http://localhost:1337/tpx.gif, a message will be sent to all the users that are viewing the homepage. The message will contain information related to the clients, mainly their IP address and user agent.
 
 	Below is the code for the server.js file:
-
+```javascript
 	var emptygif = require('emptygif');
 	var express = require('express');
 	var app = express();
@@ -404,6 +416,7 @@
 	app.use(express.static(__dirname + '/public'));
 
 	server.listen(1337);
+```javascript
 
 	Now on the frontend all we have to do is listen for that 'visit' event emitted by the server and modify the UI accordingly, like so:
 ```html
