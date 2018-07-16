@@ -6,13 +6,11 @@
 ## nvm
    	Is node version manager
   
-	:procs
-		- making this version the default one.
-			$ nvm alias default 0.10.31
-      
+	to this version the default one:
+	  $ nvm alias default 0.10.31      
 
 ## npm 
-  	:is a package manager for javascript and the Node.js server platform
+        :is a package manager for javascript and the Node.js server platform
   
 	 -Npm is included in nodejs installs by default.
   
@@ -369,7 +367,7 @@
 				console.log(results);
 				// { A: 2, B: 14, C: 6 }
 				});
-```javascript
+```
 HTTP server example
 ```javascript
 	var http = require('http');
@@ -391,11 +389,13 @@ HTTP server example
 
 ## Creating a realtime application with Express and Socket.io
 
-	Express is the most popular web framework for Node, while Socket.IO is a realtime framework that enables bi-directional communication between web clients and the server. We are going to create a basic tracking pixel application using the two that has a dashboard which reports realtime visits.
+Express is the most popular web framework for Node,<br>
+while Socket.IO is a realtime framework that enables bi-directional communication between web clients and the server. <br>
+We are going to create a basic tracking pixel application using the two that has a dashboard which reports realtime visits.
 
-	Besides Express and Socket.IO we will need to install the emptygif module. When the user visits http://localhost:1337/tpx.gif, a message will be sent to all the users that are viewing the homepage. The message will contain information related to the clients, mainly their IP address and user agent.
+Besides Express and Socket.IO we will need to install the emptygif module. When the user visits http://localhost:1337/tpx.gif, a message will be sent to all the users that are viewing the homepage. The message will contain information related to the clients, mainly their IP address and user agent.
 
-	Below is the code for the server.js file:
+Below is the code for the server.js file:
 ```javascript
 	var emptygif = require('emptygif');
 	var express = require('express');
@@ -419,9 +419,10 @@ HTTP server example
 	app.use(express.static(__dirname + '/public'));
 
 	server.listen(1337);
-```javascript
+```
 
-	Now on the frontend all we have to do is listen for that 'visit' event emitted by the server and modify the UI accordingly, like so:
+Now on the frontend all we have to do is listen for that 'visit' event emitted by the server and modify the UI accordingly, like so:
+
 ```html
     	<!DOCTYPE HTML>
 	    <html lang="en">
@@ -467,7 +468,9 @@ HTTP server example
 	  </body>
 	   </html>
 
-	Now start up the application, open the dashboard in a tab and the tracking pixel URL in different browsers. The dashboard should be similar to this one:
+Now start up the application, open the dashboard in a tab and the tracking pixel URL in different browsers.
+
+The dashboard should be similar to this one:
 
 ### Resources :
 	
