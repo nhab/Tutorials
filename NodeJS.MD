@@ -144,7 +144,7 @@
 			4. Create an index.js file to hold the primary module code.
       
 			FOR EXAMPLE:
-      ```javascript
+```javascript
 				/**
 				* Escape special characters in the given string of html.
 				*
@@ -176,7 +176,7 @@
 					}
 				};
 			....
-      ```
+```
       
 -callbak
 
