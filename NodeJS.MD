@@ -279,8 +279,9 @@
 	
 ## A hello world http server:
 
-	 program that responds to hello world via http.
-	 We'll call the file 'hello_http.js' and put the following code into it:
+program that responds to hello world via http.
+ We'll call the file 'hello_http.js' and put the following code into it:
+ 
 ```javascript
 		var http = require('http');
 
@@ -291,22 +292,21 @@
 		server.listen(8080);
 ```
 
-	Now lets run this program from the terminal by typing:
+Now lets run this program from the terminal by typing:
 
-		$ node hello_http.js
+	$ node hello_http.js
 		
-	Testing the server is as simple as opening a new browser tab,
+Testing the server is as simple as opening a new browser tab,<br>
+and navigating to the following url: http://localhost:8080/. 
 	
-	and navigating to the following url: http://localhost:8080/. 
-	
-	As expected, you should see a response that reads: 'Hello Http'.
+you should see  : 'Hello Http'.
 
-	Alternatively, you could also open up a new terminal and use curl to test your server:
+Alternatively, you could also open up a new terminal and use curl to test your server:
 
 	$ curl localhost:8080
 	Hello Http
 
-- directory structure
+Directory structure
 	C:\Program Files\nodejs\node_modules\npm\node_modules
 	
 ## using node commands
@@ -393,7 +393,9 @@ Express is the most popular web framework for Node,<br>
 while Socket.IO is a realtime framework that enables bi-directional communication between web clients and the server. <br>
 We are going to create a basic tracking pixel application using the two that has a dashboard which reports realtime visits.
 
-Besides Express and Socket.IO we will need to install the emptygif module. When the user visits http://localhost:1337/tpx.gif, a message will be sent to all the users that are viewing the homepage. The message will contain information related to the clients, mainly their IP address and user agent.
+Besides Express and Socket.IO we will need to install the emptygif module.<br>
+When the user visits http://localhost:1337/tpx.gif, a message will be sent to all the users that are viewing the homepage. <br>
+The message will contain information related to the clients, mainly their IP address and user agent.
 
 Below is the code for the server.js file:
 ```javascript
@@ -421,7 +423,7 @@ Below is the code for the server.js file:
 	server.listen(1337);
 ```
 
-Now on the frontend all we have to do is listen for that 'visit' event emitted by the server and modify the UI accordingly, like so:
+The frontend :
 
 ```html
     	<!DOCTYPE HTML>
@@ -467,10 +469,8 @@ Now on the frontend all we have to do is listen for that 'visit' event emitted b
 	   </script>
 	  </body>
 	   </html>
+```
 
-Now start up the application, open the dashboard in a tab and the tracking pixel URL in different browsers.
-
-The dashboard should be similar to this one:
 
 ### Resources :
 	
