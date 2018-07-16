@@ -254,3 +254,168 @@
 	-your first app 	https://www.toptal.com/mobile/developing-mobile-applications-with-apache-cordova
 	:res https://cordova.apache.org/
 
+	If you want to build a release version of an APK from the command line for production, this is also possible.
+						However, this does not sign your release:
+							$ cordova build android --release
+
+	signing an APK :
+		tools: 
+		    there are many tools for signing:
+			- jarsigner
+			-android studio itself
+			-  apk-signer https://bitbucket.org/haibison/apk-signer/
+			- https://shatter-box.com/knowledgebase/android-apk-signing-tool-apk-signer/
+			- signer and aligner :http://lukealderton.com/projects/programs/android-apk-signer-aligner.aspx
+			Generate a private key 
+				http://docs.oracle.com/javase/6/docs/technotes/tools/solaris/keytool.html
+
+		terms:
+			Certificate:(Public key)
+				-Android requires that all APKs be digitally signed with a certificate
+					before they can be installed
+
+				-public-key certificate = digital certificate = identity certificate 
+					are to ensure that any future updates to your APK are authentic 
+					and come from the original author.
+
+				-it contains the public key of a public/private key pair
+				, as well as some other metadata identifying the owner of the key 
+				(for example, name and location). 
+				The owner of the certificate holds the corresponding private key.
+									
+			-When you sign an APK, the signing tool attaches the public-key certificate to the APK.
+			
+			-The public-key certificate serves as as a "fingerprint" 
+					that uniquely associates the APK to you
+						and your corresponding private key.
+						
+			-This helps Android ensure that any future updates to your APK are authentic and come from the original author.  
+				keystore file (private key)
+				:is a binary file that contains one or more PRIVATE keys.
+			- You are branding your application with your credentials. 
+			You can brand multiple applications with the same key.
+			
+			-a certificate, using a public/private key mechanism (the certificate is signed with your private key)						 
+			When you sign an APK for release ,you can choose to generate a new keystore and private key 
+								(or use a keystore and private key you already have)
+		:process
+			Steps of Sign Your App Manually
+				1-	Generate a private key using keytool. For example:
+					$ keytool -genkey -v -keystore my-release-key.keystore
+					-alias alias_name -keyalg RSA -keysize 2048 -validity 10000
+				2-Compile your app in release mode to obtain an unsigned APK.
+				3-Sign your app with your private key using jarsigner
+					Example:
+					$ jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1
+				
+					-keystore my-release-key.keystore my_application.apk alias_name
+				
+				4-Verify that your APK is signed. For example:
+					$ jarsigner -verify -verbose -certs my_application.apk
+				5-Align the final APK package using zipalign.
+					$ zipalign -v 4 your_project_name-unaligned.apk your_project_name.apk
+					zipalign ensures that all uncompressed data starts with a particular byte alignment
+					relative to the start of the file, which reduces the amount of RAM consumed by an app.
+				
+			Securing Your Private Key
+				Your reputation as a developer entity depends on your securing your private key properly,<br>
+				at all times, until the key is expired. Here are some tips for keeping your key secure:
+
+					-Select strong passwords for the keystore and key.
+					-Do not give or lend anyone your private key, and do not let unauthorized persons<br>
+					know your keystore and key passwords.
+					
+					-Keep the keystore file containing your private key in a safe, secure place.
+						Remove Signing Information from Your Build Files
+						When you create a signing configuration,<br>
+						Android Studio adds your signing information in plain text to the module's build.<br>
+						gradle files. If you are working with a team or open-sourcing your code,<br>
+						you should move this sensitive information out of the build files so<br>
+						it is not easily accessible to others.<br> To do this, you should create a separate 
+						properties file to store secure information and refer 
+						to that file in your build files as follows:
+
+						Create a signing configuration, and assign it to one or more build types. <br>
+						These instructions assume you have configured a single signing configuration
+						for your release build type, as described in Configure the Build Process to 
+						Automatically Sign Your APK, above.
+						
+						Create a file named keystore.properties in the root directory of your project.
+						This file should contain your signing information, as follows:
+						
+							storePassword=myStorePassword
+							
+							keyPassword=mykeyPassword
+							
+							keyAlias=myKeyAlias
+							
+							storeFile=myStoreFileLocation
+							
+						In your module's build.gradle file, add code to load your keystore.<br>
+						properties file before the android {} block.
+								...
+
+						// Create a variable called keystorePropertiesFile, and initialize it to your
+						// keystore.properties file, in the rootProject folder.
+						def keystorePropertiesFile = rootProject.file("keystore.properties")
+
+						// Initialize a new Properties() object called keystoreProperties.
+						def keystoreProperties = new Properties()
+
+						// Load your keystore.properties file into the keystoreProperties object.
+						keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+
+						android {
+							...
+						}
+						Note: You could choose to store your keystore.properties file in another location<br>
+						(for example, in the module folder rather than the root folder for the project,<br>
+						or on your build server if you are using a continuous integration tool).<br>
+						In that case, you should modify the code above to correctly initialize 
+						keystorePropertiesFile using your actual keystore.properties file's location.
+
+						You can refer to properties stored in keystoreProperties using the syntax 
+						keystoreProperties['propertyName']. Modify the signingConfigs block of your module's 
+						build.gradle file to reference the signing information stored in keystoreProperties 
+						using this syntax.
+						android {
+							signingConfigs {
+								config {
+									keyAlias keystoreProperties['keyAlias']
+									keyPassword keystoreProperties['keyPassword']
+									storeFile file(keystoreProperties['storeFile'])
+									storePassword keystoreProperties['storePassword']
+									}
+									}
+									...
+								}
+						Open the Build Variants tool window and ensure that the release build type is selected.
+						
+						Click Build > Build APK to build your release build, and confirm that Android Studio
+						has created a signed APK in the build/outputs/apk/ directory for your module.
+						
+						Because your build files no longer contain sensitive information,
+						you can now include them in source control or upload them to a shared codebase.
+						Be sure to keep the keystore.properties file secure. This may include removing 
+						it from your source control system.
+							
+						how to create signed APK ?( using cordova command line interface)
+							res:
+			http://stackoverflow.com/questions/26449512/how-to-create-signed-apk-file-using-cordova-command-line-interface
+									http://ilee.co.uk/Sign-Releases-with-Cordova-Android/
+
+						res:https://developer.android.com/studio/publish/app-signing.html 
+						
+### publishinng on googlePaly
+
+		1.Registering for a Google Play publisher account (it has $25 registration fee! )
+			visit https://play.google.com/apps/publish/signup/ 
+		2.Setting up a Google payments merchant account, if you will sell apps or in-app products.
+		3.Exploring the Google Play Developer Console and publishing tools.
+		Add an APK
+			Go to your Google Play Developer Console.
+			Select All applications > Add new application.
+			Using the drop down menu, select a default language and add a title for your app. ...
+			Select Upload APK.
+			Choose from the Production, Beta, or Alpha channels and select Upload your APK.
+						
