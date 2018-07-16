@@ -117,4 +117,13 @@ you can define a css without using < Style > tag
 	
 </nav>
 
-
+## Horizontal Rule
+	Three or more
+	...
+	---
+	***
+	___
+## mentioning someone ( @mentions )
+	Typing an @ symbol, followed by a username, will notify that person to come
+	and view the comment. This is called an “@mention”, because you’re mentioning the individual.
+	You can also @mention teams within an organization.
