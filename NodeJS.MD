@@ -1,4 +1,4 @@
-# Node.js/#nodejs
+# Node.js
 	  Has a command-line tool that can be run as a regular web server 
 	  and lets one run JavaScript programs
 				
