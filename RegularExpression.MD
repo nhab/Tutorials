@@ -1,8 +1,4 @@
 
-.level-2 {
-    padding-left: 5em;
-}
-
 ## javascript regular expression
 The whole idea is to finds a pattern in an _string_
 
@@ -61,39 +57,41 @@ Examples
 | \xdd 	| Find the character specified by a hexadecimal number dd |
 | \uxxxx 	| Find the Unicode character specified by a hexadecimal number xxxx |
 | \t         |  horizontal tab (0x09)  |
-							| \v          | vertical tab   (0x0B) |
-							| \n          | newline        (0x0A) |
-							| \r          | return         (0x0D) |
-							| \b          | back space     (0x08) |
-							| \f          | form feed      (0x0C) |
-							| \a          | bell           (0x07) |
-							| \e          | escape         (0x1B) |
-							| \nnn         | octal char            (encoded byte value) |
-							| \xHH         | hexadecimal char      (encoded byte value) |
-							| \x{7HHHHHHH} | wide hexadecimal char (character code point value) |
-							| \cx          | control char          (character code point value) |
-							| \C-x         | control char          (character code point value) |
-							| \M-x         | meta  (x|0x80)        (character code point value) |
-							| \M-\C-x      | meta control char     (character code point value) |
-match Control/operations
+| \v          | vertical tab   (0x0B) |
+| \n          | newline        (0x0A) |
+| \r          | return         (0x0D) |
+| \b          | back space     (0x08) |
+| \f          | form feed      (0x0C) |
+| \a          | bell           (0x07) |
+| \e          | escape         (0x1B) |
+| \nnn         | octal char            (encoded byte value) |
+| \xHH         | hexadecimal char      (encoded byte value) |
+| \x{7HHHHHHH} | wide hexadecimal char (character code point value) |
+| \cx          | control char          (character code point value) |
+| \C-x         | control char          (character code point value) |
+| \M-x         | meta  (x|0x80)        (character code point value) |
+| \M-\C-x      | meta control char     (character code point value) |
+
+## match Control/operations
+
 | char  | Description  |
 |:----- |:------------ |
-								| ^ 		| Start of line |
-								| $ 		| End   of line |
-								| \A 		| Start of string |
-								| \z 		| End   of string |
+| ^ 		| Start of line |
+| $ 		| End   of line |
+| \A 		| Start of string |
+| \z 		| End   of string |
 
- match preceeding character related  :
+## match preceeding character related  :
 
-								a? 		Zero or one   of  a
-								a* 		Zero or more of a
-								a+ 		One or more of a
-								a{3} 	Exactly 3 of a
-								a{3,} 	3 or more of a
-								a{3,6} 	Between 3 and 6 of a
-								options: i case insensitive m make dot match newlines
-								x ignore whitespace in regex o perform #{...} substitutions only once
-								(...) 	Capture every 3 charachter  enclosed
-								(....) 	Capture every 4 charachter  enclosed
+	a? 		Zero or one   of  a
+	a* 		Zero or more of a
+	a+ 		One or more of a
+	a{3} 	Exactly 3 of a
+	a{3,} 	3 or more of a
+	a{3,6} 	Between 3 and 6 of a
+	options: i case insensitive m make dot match newlines
+	x ignore whitespace in regex o perform #{...} substitutions only once
+	(...) 	Capture every 3 charachter  enclosed
+	(....) 	Capture every 4 charachter  enclosed
 
 
