@@ -62,6 +62,15 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+     ```javascript
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+    ```
+    
 ## Tables
 Markdown | Less | Pretty Markdown
 --- | :---: | ---:               
