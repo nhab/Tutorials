@@ -36,7 +36,7 @@
     
 		- Easy creation of CLI utilities that others can install (with npm).
     
--Example of shell scripts in Node.js 		
+## Example of shell scripts in Node.js 		
 
 	-running the first hello world
   
@@ -60,7 +60,7 @@
     
 			 node h.js one two=three four
        
--Modules (or packages or libraries)
+## Modules (or packages or libraries)
 
 	- are set of libraries for doing real things.
   
@@ -178,7 +178,7 @@
 			....
 ```
       
--callbak
+## callbak
 
 		-you are telling it to do something and when it is done it will call your function 		(callback).
     
@@ -186,7 +186,7 @@
     
 			but instead we use the continuation-passing style (CPS)
       
--Events
+## Events
 
 	The standard callback pattern works well for the use cases 
   
@@ -196,7 +196,7 @@
   
 	that do not occur at the same time.
   
--Streams 
+## Streams 
 
 	represent an abstract interface for asynchronously manipulating a continuous flow of data.
   
@@ -212,11 +212,11 @@
     
 		and "classic".
 
-- Reference it:
+##  Reference it:
 
 		<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.2/angular.js"></script>
     
-- Installing  Node.js and NPM
+##  Installing  Node.js and NPM
 
 	How to install NVM (node version manager) on an Ubuntu system.
   
@@ -244,7 +244,8 @@
 			$ node -v &amp;&amp; npm -v
 			v0.10.31
 			1.4.23
-	-Install From source
+
+## Install From source
 		wget http://nodejs.org/dist/node-v0.4.4.tar.gz
 		$ tar -xzf node-v0.4.4.tar.gz
 		$ cd node-v0.4.4
@@ -253,17 +254,19 @@
 
 
 
-- switching between node versions
+##  switching between node versions
 
 	$ nvm install v0.8.10
 	$ nvm use v0.8.10
-- show you the full list of versions and also the current and default versions :
+	
+    - show you the full list of versions and also the current and default versions :
 
 	$ nvm list
-- getting the version(in command line):
+	
+##  getting the version(in command line):
 		node -v
 		
-- Hello world Example:
+##  Hello world Example:
 	Writing a node.js program is as simple as creating a new file with a '.js' extension.
 	
 	For example you could create a simple 'hello_world.js' file with the following content:
@@ -276,7 +279,7 @@
 	
 	Hello World
 	
-- A hello world http server:
+## A hello world http server:
 
 	 program that responds to hello world via http.
 	 We'll call the file 'hello_http.js' and put the following code into it:
@@ -308,7 +311,7 @@
 - directory structure
 	C:\Program Files\nodejs\node_modules\npm\node_modules
 	
-:using node commands
+## using node commands
 
 	1. with no arguments. 
 		This will open an interactive shell 
@@ -325,7 +328,7 @@
 			$ node hello.js
 			Hello World
 	
--file operations
+## file operations
 		readFile : 
 			takes a file path and a callback.
 			The callback will be invoked when the file is done being read.
@@ -386,7 +389,7 @@ HTTP server example
 	// If you want this to be a full-featured web server, then you have to do that work.
 ```
 
--Creating a realtime application with Express and Socket.io
+## Creating a realtime application with Express and Socket.io
 
 	Express is the most popular web framework for Node, while Socket.IO is a realtime framework that enables bi-directional communication between web clients and the server. We are going to create a basic tracking pixel application using the two that has a dashboard which reports realtime visits.
 
