@@ -1,13 +1,13 @@
 ## Cordova
-	is a  Free and open source platform for building hybrid mobile applications
+	Is an open source platform for building hybrid mobile applications
 	
 	using HTML, CSS and JavaScript Targetting multiple platforms with one code base
 
 |Concept   | Description   |
 |:---			|:---|
-|		WebView: | shows  app interface ,<br>just like a browser that displays Web pages .<br>In fact, WebView is an HTML rendering engine, which renders HTML pages.|
-|		Web App: |	Stores your application code .<br>The app is implemented as an HTML Web page and is typically named index.html<br>, which points to external files such as CSS, JavaScript <br>and other important resources required for it to run.<br>This component also has a very crucial file called config.xml<br>, which stores all-important metadata information about the app<br>, such as its name, description and some specific parameters <br>affecting the working of the app.|
-|		Plugins:|-they enable you to invoke native code from JavaScript.<br>Plugins are an important component of the Cordova ecosystem. <br>-They provide an interface for Cordova and native components <br>	to communicate with each other, and are bound to standard device APIs. <br>Apache Cordova maintains such a set of plugins called the Core Plugins<br>, which allow your application to access core device capabilities <br>such as the battery, camera, accelerometer, etc. |
+|		__WebView:__ | shows  app interface ,<br>just like a browser that displays Web pages .<br>In fact, WebView is an HTML rendering engine, which renders HTML pages.|
+|		__Web App:__ | Stores your application code .<br>The app is implemented as an HTML Web page and is typically named index.html<br>, which points to external files such as CSS, JavaScript <br>and other important resources required for it to run.<br>This component also has a very crucial file called config.xml<br>, which stores all-important metadata information about the app<br>, such as its name, description and some specific parameters <br>affecting the working of the app.|
+|		__Plugins:__| Are used to __invoke native code__ from JavaScript.<br>Plugins are an important component of the Cordova ecosystem. <br> They provide an interface for Cordova and native components <br>	to communicate with each other, and are bound to standard device APIs. <br>Apache Cordova maintains such a set of plugins called the __Core Plugins__<br>, which allow your application to access core device capabilities <br>such as the __battery, camera, accelerometer, etc__. |
 
 
 ## process:
