@@ -1,6 +1,6 @@
 # Node.js
 	  Has a command-line tool that can be run as a regular web server 
-	  and lets one run JavaScript programs
+	  It can also run a JavaScript programs
 	
 	Node.js has lot of libraries called pacckages that can be searched here :
 	 https://www.npmjs.com/
