@@ -74,20 +74,6 @@ ALL I ACHIEVE IS HIS SERVICE:
 WHEN I LIE DOWN, I LIE PROSTRATE AT HIS FEET. 
 
 
-The Path of Love 
-
-
-3 
-
-
-Osho 
-
-
-
-
-CHAPTER 1. LOVE IS THE MASTER KEY 
-
-
 HE IS THE ONLY ADORABLE ONE TO ME: 
 
 I HAVE NONE OTHER. 
@@ -109,15 +95,31 @@ AND I DISCLOSE IN MY SOUL WHAT IS HIDDEN.
 I AM IMMERSED IN THAT ONE GREAT BLISS 
 WHICH TRANSCENDS ALL PLEASURE AND PAIN. 
 
-RELIGION HAS VERY RARELY EXISTED in a healthy way - only when a Buddha walks on the 
-earth, or a Christ, or a Krishna, or a Kabir. Otherwise, religion has existed as a pathology, as 
-illness, as neurosis. One who has realized religion through his own being has a totally different 
-understanding of it. One who has been imitating others, his understanding is not understanding at 
-all. Truth cannot be imitated. You cannot become true by becoming a carbon-copy. 
 
-Truth is original, and to attain to it you have to be original too. Truth is not attained by following 
-somebody, truth is attained by understanding your life. Truth is not in any creed, in any argument; 
-truth is in the deepest core of your being, hidden as love. Truth is not logic; it is not a syllogism, it is 
+RELIGION HAS VERY RARELY EXISTED in a healthy way
+- only when a Buddha walks on the 
+earth, or a Christ, or a Krishna, or a Kabir.
+
+Otherwise, religion has existed as a pathology, as 
+illness, as neurosis. 
+
+One who has realized religion through his own being has a totally different 
+understanding of it.
+
+One who has been imitating others, his understanding is not understanding at 
+all. Truth cannot be imitated. 
+
+You cannot become true by becoming a carbon-copy. 
+
+Truth is original, and to attain to it you have to be original too.
+
+Truth is not attained by following 
+somebody, truth is attained by understanding your life.
+
+Truth is not in any creed, in any argument; 
+truth is in the deepest core of your being, hidden as love.
+
+Truth is not logic; it is not a syllogism, it is 
 an explosion of love. 
 
 And whenever truth explodes in you, you attain to a totally different vision of life, of God, of religion. 
@@ -134,19 +136,6 @@ lose your being... you lose yourself. You are no more true, real, authentic. A C
 dead, and religion is concerned with a rebirth. Yes, it is a crucifixion too: the old has to die for the 
 new to be born. 
 
-
-The Path of Love 
-
-
-4 
-
-
-Osho 
-
-
-
-
-CHAPTER 1. LOVE IS THE MASTER KEY 
 
 
 But following a dead creed, dogma, a church, you never allow the old to die - and you never allow 
@@ -199,18 +188,6 @@ have not done anything, you have not chosen anything consciously, you have not m
 There has been no pilgrimage, you have not searched. 
 
 
-The Path of Love 
-
-
-5 
-
-
-Osho 
-
-
-
-
-CHAPTER 1. LOVE IS THE MASTER KEY 
 
 
 Of course then religion can only be just a label, and these labels become pathological. Why do they 
