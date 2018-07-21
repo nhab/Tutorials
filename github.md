@@ -13,9 +13,10 @@
 1. Run
 
        git add --a 
-1. Run
+1. Run (see your github profile for your email address)
 
        git config --global user.email yourname@yahoo.com
+    
 1. Run
 
        git commit -m "Update the folder" 
