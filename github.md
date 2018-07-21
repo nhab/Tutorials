@@ -9,8 +9,7 @@
 1. Add a folder to your respository
 1. 
 
-       git status 
-       
+       git status      
 1.
 
        git add --a 
