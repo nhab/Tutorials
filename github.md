@@ -1,15 +1,16 @@
 ﻿1. Go to Github.com and sign up
- 2. Install Git in your system
- 3. Create a Repository on Github
- 4. Go to terminal and type :
+ 1. Install Git in your system
+ 1. Create a Repository on Github
+ 1. Go to terminal and type :
  
-      git clone https://github.com/yogeshdarji99/Abc.git ---- paste the link which you copied :
- from the page of your repository >Code tab (default tab) > "Clone or download" dropdown button 
+        git clone https://github.com/yogeshdarji99/Abc.git 
+        ---- paste the link which you copied from :        
+        the page of your repository > Code tab (default tab) > "Clone or download" dropdown button 
  
- 5. Add a foldgier to your respository
- 6. git status 
-7. git add --a 
-8. git config --global user.email yourname@yahoo.com
-9. git commit -m "Update the folder" 
-10. git push // to push commits made on your local branch to a remote repository. it prompts for your username and password
+1. Add a foldgier to your respository
+1. git status 
+1. git add --a 
+1. git config --global user.email yourname@yahoo.com
+1. git commit -m "Update the folder" 
+1. git push // to push commits made on your local branch to a remote repository. it prompts for your username and password
  
