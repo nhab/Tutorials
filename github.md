@@ -4,8 +4,8 @@
  1. Go to terminal and type :
  
         git clone https://github.com/yogeshdarji99/Abc.git 
-        ---- paste the link which you copied from :        
-        the page of your repository > Code tab (default tab) > "Clone or download" dropdown button 
+   --- paste the link which you copied from :        
+       the page of your repository > Code tab (default tab) > "Clone or download" dropdown button 
  
 1. Add a foldgier to your respository
 1. 
