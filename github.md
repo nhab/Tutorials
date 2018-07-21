@@ -7,19 +7,19 @@
         --- paste the link which you copied from :        
         --- the page of your repository > Code tab (default tab) > "Clone or download" dropdown button 
 1. Add a folder to your respository
-1. 
+1. Run
 
        git status      
-1.
+1. Run
 
        git add --a 
-1. 
+1. Run
 
        git config --global user.email yourname@yahoo.com
-1. 
+1. Run
 
        git commit -m "Update the folder" 
-1.
+1.Run
 
        git push
         // to push commits made on your local branch to a remote repository. it prompts for your username and password
