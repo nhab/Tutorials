@@ -1,16 +1,16 @@
-﻿1. Go to Github.com and sign up
- 1. Install Git in your system
- 1. Create a Repository on Github
- 1. Go to terminal and type :
+1. Go to Github.com and sign up
+1. Install Git in your system
+1. Create a Repository on Github
+1. Go to terminal and type :
  
         git clone https://github.com/yogeshdarji99/Abc.git 
         --- paste the link which you copied from :        
         --- the page of your repository > Code tab (default tab) > "Clone or download" dropdown button 
- 
 1. Add a folder to your respository
 1. 
 
        git status 
+       
 1.
 
        git add --a 
