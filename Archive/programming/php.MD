@@ -101,7 +101,7 @@
 ### Uploading files
 ```php
         <form enctype="multipart/form-data" action="upload.php" method="post">
-        فایل خود را انتخاب کنید :
+        Choose the file :
         <input name="uploaded" type="file" /><br />
         <input type="submit" value="Upload" />
         </form>
