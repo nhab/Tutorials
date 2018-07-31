@@ -27,4 +27,5 @@
   <h2> Culture </h2>
   <h2> Security </h2>
   <h2> Spirtual awakening and Environment </h2>
+   <h2> fairness of rules and regulations </h2>
 </html>
