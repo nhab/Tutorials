@@ -18,9 +18,9 @@
 &nbsp;&nbsp;		Inflation rate
 	</a>     <br>
 	</h3>
-&nbsp;&nbsp; -Initial Expenses to immigrate<br>
-&nbsp;&nbsp; -Savings Power <br>
-&nbsp;&nbsp; - Buying Power <br>
+&nbsp;&nbsp; Initial Expenses to immigrate<br>
+&nbsp;&nbsp; Savings Power <br>
+&nbsp;&nbsp;  Buying Power <br>
   <h2> Freedom</h2>
   <h2> polution </h2>
   <h2>Language and communication </h2>
