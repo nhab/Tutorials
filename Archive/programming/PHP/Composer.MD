@@ -42,3 +42,46 @@ so the ``` composer.lock ``` file  should be commited into the version control.
 ```
 php composer.phar update
 ```
+
+## AutoLoading
+
+Whenever I use a class, I go and load it, so my application doesn’t have to load all classes each request,<br>
+this is called “Autoloading”. 
+
+## How to autoload the PSR-4 way?
+PSR-4 is the newest standard of autoloading in PHP, and it compels us to use namespaces.
+__steps__
+__a. Put the classes that we want to autoload in a dedicated directory,  For example:__
+```
+your-website/
+  src/
+    Db.php
+    Page.php
+    User.php
+```
+__b. Give the classes a namespace:__
+``
+<?php
+namespace Acme;
+
+class Page {
+    public function __construct()
+    {
+        echo "hello, i am a page.";
+    }
+}
+```
+
+We give the same namespace Acme to all of the classes in the src/ directory.
+
+__c. Point the namespace to the src/ directory in the composer.json file__
+```json
+{
+  "autoload": {
+    "psr-4": {
+      "Acme\\":"src/"
+    }
+  }
+}
+```
+
