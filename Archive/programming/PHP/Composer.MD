@@ -23,3 +23,6 @@ You are simply telling Composer which packages your project depends on.
     }
 }
 ```
+As you see,it maps package name to its version.<br>
+The required packages will be downloaded to the project directory <br>
+from the packaglist online repository: https://packagist.org/
