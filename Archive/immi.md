@@ -26,5 +26,5 @@
   <h2>Language and communication </h2>
   <h2> Culture </h2>
   <h2> security </h2>
-  <h2> Spirtual growth and Environment </h2>
+  <h2> Spirtual awakening and Environment </h2>
 </html>
