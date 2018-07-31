@@ -23,6 +23,22 @@ You are simply telling Composer which packages your project depends on.
     }
 }
 ```
-As you see,it maps package name to its version.<br>
+As you see,it maps the package name to its version.<br>
 The required packages will be downloaded to the project directory <br>
 from the packaglist online repository: https://packagist.org/
+
+## Getting Dependencies
+To install the defined dependencies for your project,<br>
+based on what is specified in composer.json file, run the install command.
+
+```php composer.phar install ```
+
+running the above command will download dependencies into the project<br>
+it will also creates or updates a file named ``` composer.lock ``` file  into your project<br>
+to maintain the proper version of dependencies among diffrent programmers of the project,
+so the ``` composer.lock ``` file  should be commited into the version control.
+
+## To update dependencies to their latest version :
+```
+php composer.phar update
+```
