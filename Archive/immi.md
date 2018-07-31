@@ -3,15 +3,14 @@
 	<h2>
 	Climate	
    </h2>
-		<h3>
-		Temprature <br>
-		Rain and humidity  <br>
-		Pressure  <br>
-		G and hieght from sea level <br>
-		</h3>
-	
-	<h2>مالی :</h2>
-	<h3>>
+	<h3>
+	Temprature <br>
+	Rain and humidity  <br>
+	Pressure  <br>
+	G and hieght from sea level <br>
+	</h3>	
+  <h2>مالی :</h2>
+	<h3>
 		<a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>
 			currency to u.s. dollar currencychart
 		</a>		<br>
