@@ -244,9 +244,9 @@ Global variables:
 ```
 
 ## phpMysql:
- Open a Connection to MySQL 
+ __Open a Connection to MySQL __<br>
+  //Example (MySQLi Object-Oriented)
  ```php 
-            //Example (MySQLi Object-Oriented)
                 <?php
                     $servername = "localhost";
                     $username = "username";
@@ -260,8 +260,10 @@ Global variables:
                         die("Connection failed: " . $conn->connect_error);
                     }
                     echo "Connected successfully";
-                    ?>   
-                //Example (MySQLi Procedural)
+                    ?> 
+```                    
+ //Example (MySQLi Procedural)
+  ```php 
                     <?php
                     $servername = "localhost";
                     $username = "username";
@@ -276,7 +278,9 @@ Global variables:
                     }
                     echo "Connected successfully";
                     ?> 
-                //Example (PDO)
+```                    
+//Example (PDO)
+ ```php 
                     <?php
                     $servername = "localhost";
                     $username = "username";
