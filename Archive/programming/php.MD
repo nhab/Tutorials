@@ -10,34 +10,41 @@
             .
         ?>
 ```
-### Comments
-  are like c++: ``` // و /*...*/ ```<br>
+### Comments  are like c++: ``` // و /*...*/ ```<br>
             
 
-### To print a statement :
-```    __Echo__ و  __PRINT__ : ```<br>
+### To print a statement : use  Echo and PRINT
     ````
         <?php echo "i like it" ?>
         <?php print "I like it" ?>
     ````
     
 ### Variables:
-        نیاز به تعریف کردن ندارند و هرجا استفاده شوند ازآن به بعد شناخته میشوند فقط نامشان باید با $ شروع شوند:
+        - Don`t need definition.Wherever used ,are known everafter.
+        - Variable names must begin with $
+        - Are case sensitive
+```
         <?php
             $like="I like it";
             print $like;
         ?>
-        متغیرها کیس سنسیتیو اند.
-    -برای ترکیب متغیرها و استرینگها از . استفاده میکنیم :
+```        
+      To combine Strings and variables in and statement use __dot(.)__
+```    
         print $like ." " .$num;
-    -با {} میتوانیم نام متغیر را هم داینامیک کنیم:
+```        
+   Even variable name can be dynamic:
+```    
         $test="success";
         $primary="test";
         $ID=${$primary};
         echo $ID;
+```        
 ### Arrays :
+```
         $a=array{1,2,3,4,5};
         <?php f[0]="j";f[1]="a";f[2]="r"; 
+```        
 ### Operators:
   are like c
 ### if 
