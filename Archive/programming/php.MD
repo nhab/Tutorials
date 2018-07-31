@@ -46,13 +46,13 @@
         <?php f[0]="j";f[1]="a";f[2]="r"; 
 ```        
 ### Operators:
-  are like c
-### if 
+  are like c : + -/ * ....
+### If 
  Is  like c
  ```
         if ($arr){$price=0.90;}else{..}
 ```
-### Loopa
+### Loops
     are like c
 ```     
         <?php
@@ -87,14 +87,19 @@
             print $s;
         ?>
 ```        
-###        - آرگومان های  با ریفرنس توابع :
-        &:
+  Passsing reference arguments to functions :
+```          
         function add_some(&$str1){...}
-###        -مقدار دیفالت آرگومان تابع:
+```                
+   Default Argument in the function:
+```           
         function makeCoffe($types=array("cappuccino",$coffeMaker=Null)){..}
-###    -تابع یافتن آی پی شخص بازدید کننده :
+```        
+###  Function to find IP of the Visitors:
+```        
         Getenv("REMOTE_ADDR")
-###    -آپلود یک فایل :
+```                
+### Uploading files
 ```
         <form enctype="multipart/form-data" action="upload.php" method="post">
         فایل خود را انتخاب کنید :
@@ -102,16 +107,18 @@
         <input type="submit" value="Upload" />
         </form>
 ```        
-###    -برای استفاده از متغیرهای در سطح سشن ابتدا آنها را تعریف می کنیم:
+###    Session level variables
+    first define them
 ```
         <?php
-            session_start();تابع لازم
+            session_start();
             $_SESSION['Color']='red';
             $_SESSION['size']='small';
             ...
         ?>
-```        
-    سپس در صغحه دوم  از آن متغیرها استفاده می کنیم:
+``` 
+     Then use those variables in the second page :
+
 ```    
         <?php
          session_start();
@@ -119,7 +126,10 @@
          echo $_SESSION['size'];
          ?>
 ```         
-###    -print_r($SESSION)  کل سشن را چاپ میکند
+### print the whole session
+```         
+ print_r($SESSION)  
+```         
 ###    -برای تغییر یک متغیر سشن کافیست به آن مقدار جدید بدهیم و برای حذف آن از 
     unset 
     استفاده کنیم:
