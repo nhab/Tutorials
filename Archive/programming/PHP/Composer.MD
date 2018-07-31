@@ -74,7 +74,7 @@ class Page {
 
 We give the same namespace Acme to all of the classes in the src/ directory.
 
-__c. Point the namespace to the src/ directory in the composer.json file__
+__c. Point the namespace to the src/ directory in the composer.json file. for example:__
 ```json
 {
   "autoload": {
@@ -85,3 +85,24 @@ __c. Point the namespace to the src/ directory in the composer.json file__
 }
 ```
 
+We use the psr-4 key.
+The namespace Acme points to the src/ directory.
+The namespace has to end with \\. For example, "Acme\\".
+You can replace the generic Acme with the name of your brand or website.
+
+d. Update the Composer autoloader:
+```
+$ composer dumpautoload -o
+```
+
+e. Import the namespace to your scripts. The scripts need to import the namespace as well as the autoloader, e.g., index.php:
+```php
+<?php 
+require "vendor/autoload.php";
+
+use Acme\Db;
+use Acme\User;
+use Acme\Page;
+ 
+$page1 = new Page();
+```
