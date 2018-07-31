@@ -298,7 +298,7 @@ Global variables:
                         }
                     ?> 
 ```
-  __Insert__       Example (PDO) and get last id
+ ####  __Insert__       Example (PDO) and get last id
   ```php
                         <?php
                         $servername = "localhost";
