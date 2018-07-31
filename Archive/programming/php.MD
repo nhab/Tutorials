@@ -13,7 +13,7 @@
             
 
 ### To print a statement : use  Echo and PRINT
-    ````
+    ````html
         <?php echo "i like it" ?>
         <?php print "I like it" ?>
     ````
@@ -22,25 +22,25 @@
  - Don`t need definition.Wherever used ,are known everafter.
  - Variable names must begin with $
  - Are case sensitive
-```
+```php
         <?php
             $like="I like it";
             print $like;
         ?>
 ```        
  To combine Strings and variables in and statement use __dot(.)__
-```    
+```php    
         print $like ." " .$num;
 ```        
  Even variable name can be dynamic:
-```    
+```php    
         $test="success";
         $primary="test";
         $ID=${$primary};
         echo $ID;
 ```        
 ### Arrays :
-```
+```php
         $a=array{1,2,3,4,5};
         <?php f[0]="j";f[1]="a";f[2]="r"; 
 ```        
@@ -48,12 +48,12 @@
  are like c : + -/ * ....
 ### If 
  Is  like c
- ```
+ ```php
         if ($arr){$price=0.90;}else{..}
 ```
 ### Loops
  are like c
-```     
+```php     
         <?php
             for($num=1;$num<=10;$num++)
             {
@@ -74,7 +74,7 @@
             ?>
  ```
  ### Functions 
- ```
+ ```php
         <$php
             function examplefunc()
             {
@@ -87,7 +87,7 @@
         ?>
 ```        
  Passsing reference arguments to functions :
-```          
+```php          
         function add_some(&$str1){...}
 ```                
   Default Argument in the function:
@@ -95,11 +95,11 @@
         function makeCoffe($types=array("cappuccino",$coffeMaker=Null)){..}
 ```        
 ###  Function to find IP of the Visitors:
-```        
+```php        
         Getenv("REMOTE_ADDR")
 ```                
 ### Uploading files
-```
+```php
         <form enctype="multipart/form-data" action="upload.php" method="post">
         فایل خود را انتخاب کنید :
         <input name="uploaded" type="file" /><br />
@@ -108,7 +108,7 @@
 ```        
 ###    Session level variables
 First define them
-```
+```php
         <?php
             session_start();
             $_SESSION['Color']='red';
@@ -118,7 +118,7 @@ First define them
 ``` 
 Then use those variables in the second page :
 
-```    
+```php    
         <?php
          session_start();
          echo $_SESSION['color'];
@@ -126,11 +126,11 @@ Then use those variables in the second page :
          ?>
 ```         
 print the whole session
-```         
+```php         
  print_r($SESSION)  
 ```         
 To delete a session variable use __unset__
-```
+```php
          $_SESSION['size']='larg';
          unset( $_SESSION['shape']);
 //For total deletion     : 
@@ -139,7 +139,7 @@ To delete a session variable use __unset__
 ```                        
 ###    Files Operations:
 fopen function:
-```
+```php
             <?php
             $a=fopen("/home/files/yourfile.txt","r");
             $b=fopen("yourfile.gif","w");
@@ -156,7 +156,7 @@ fopen function:
             fread();
 ```            
 __file() Example__:
-```
+```php
             $lines=file('yourfile.txt');
             foreach($lines as $line_num=>$line)
             {
