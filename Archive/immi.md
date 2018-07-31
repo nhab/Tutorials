@@ -4,23 +4,23 @@
 	Climate	
    </h2>
 	<h3>
-1. Temprature <br>
-1. Rain and humidity  <br>
-1. Pressure  <br>
-1. G and hieght from sea level <br>
+&nbsp;&nbsp; Temprature <br>
+&nbsp;&nbsp; Rain and humidity  <br>
+&nbsp;&nbsp; Pressure  <br>
+&nbsp;&nbsp; G and hieght from sea level <br>
 	</h3>	
   <h2>مالی :</h2>
 	<h3>
 	<a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>
-1.	currency to u.s. dollar currencychart
+&nbsp;&nbsp;	currency to u.s. dollar currencychart
 	</a>		<br>
 	<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
-1.		Inflation rate
+&nbsp;&nbsp;		Inflation rate
 	</a>     <br>
 	</h3>
-1. -Initial Expenses to immigrate<br>
-1. -Savings Power <br>
-1. - Buying Power <br>
+&nbsp;&nbsp; -Initial Expenses to immigrate<br>
+&nbsp;&nbsp; -Savings Power <br>
+&nbsp;&nbsp; - Buying Power <br>
   <h2> Freedom</h2>
   <h2> polution </h2>
   <h2>Language and communication </h2>
