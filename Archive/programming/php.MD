@@ -1,6 +1,7 @@
 __Where to write php code?__
 1. in pure php file with extention .php
 1. inside an html file:
+```
         <?php
             .
             .
@@ -8,15 +9,18 @@ __Where to write php code?__
             .
             .
         ?>
+```
 __Comments__ are lie c++: <br>
-        // و /*...*/
+            // و /*...*/
+
 __To print a statement :__
-    Echo و  PRINT : <br>
+    __Echo__ و  __PRINT__ : <br>
     ````
         <?php echo "i like it" ?>
         <?php print "I like it" ?>
     ````
-    -متغیرها :
+    
+__Variables__ :
         نیاز به تعریف کردن ندارند و هرجا استفاده شوند ازآن به بعد شناخته میشوند فقط نامشان باید با $ شروع شوند:
         <?php
             $like="I like it";
