@@ -1,4 +1,4 @@
-### Where to write php code?
+## Where to write php code?
 1. in pure php file with extention .php
 1. inside an html file:
 ```HTML
@@ -9,16 +9,16 @@
         </body></html> 
 ```  
 
-### Comments  are like c++: ``` // و /*...*/ ```<br>
+## Comments  are like c++: ``` // و /*...*/ ```<br>
             
 
-### To print a statement : use  Echo and PRINT
+## To print a statement : use  Echo and PRINT
     ````HTML
         <?php echo "i like it" ?>
         <?php print "I like it" ?>
     ````
     
-### Variables:
+## Variables:
  - Don`t need definition.Wherever used ,are known everafter.
  - Variable names must begin with $
  - Are case sensitive
@@ -39,19 +39,19 @@
         $ID=${$primary};
         echo $ID;
 ```        
-### Arrays :
+## Arrays :
 ```php
         $a=array{1,2,3,4,5};
         <?php f[0]="j";f[1]="a";f[2]="r"; 
 ```        
-### Operators:
+## Operators:
  are like c : + -/ * ....
-### If 
+## If 
  Is  like c
  ```php
         if ($arr){$price=0.90;}else{..}
 ```
-### Loops
+## Loops
  are like c
 ```php     
         <?php
@@ -73,7 +73,7 @@
                 }
             ?>
  ```
- ### Functions 
+ ## Functions 
  ```php
         <$php
             function examplefunc()
@@ -94,20 +94,21 @@
 ```           
         function makeCoffe($types=array("cappuccino",$coffeMaker=Null)){..}
 ```        
-###  Function to find IP of the Visitors:
+  Function to find IP of the Visitors:
 ```php        
         Getenv("REMOTE_ADDR")
 ```                
-### Uploading files
+## Uploading files
 ```php
         <form enctype="multipart/form-data" action="upload.php" method="post">
         Choose the file :
         <input name="uploaded" type="file" /><br />
         <input type="submit" value="Upload" />
         </form>
-```        
-###    Session level variables
-First define them
+```  
+## Sessions
+__Session level variables__
+1. define them
 ```php
         <?php
             session_start();
@@ -116,7 +117,7 @@ First define them
             ...
         ?>
 ``` 
-Then use those variables in the second page :
+1. Then use those variables in the second page :
 
 ```php    
         <?php
@@ -137,7 +138,7 @@ To delete a session variable use __unset__
         session_unset();
         session_destroy();
 ```                        
-###    Files Operations:
+##    Files Operations:
 fopen function:
 ```php
             <?php
@@ -177,7 +178,7 @@ __file() Example__:
             fclose($handle);
             ?>
 ````            
-###    -include
+##    -include
  To include other php files to a php file :
         INCLUDE(),REQUIRE()
  Example :        
@@ -196,7 +197,7 @@ Global variables:
 ```        
  Even text or html files can be included 
  
-###   Classes
+##   Classes
 ```php
         <?php
         class test{
@@ -207,11 +208,10 @@ Global variables:
             $ClassName::run();
         }
 ```
-### phpMysql:
-
-###    Form handling
+##Forms
+  A Simple HTML Form
 ```HTML
-        -A Simple HTML Form
+      
             <html>
             <body>
 
@@ -226,7 +226,7 @@ Global variables:
             </body>
             </html>
 ```            
-###   Include 'filename';require 'filename';
+  Include 'filename';require 'filename';
 ```HTML
         <html>
         <body>
@@ -243,7 +243,7 @@ Global variables:
         </html>
 ```
 
-###   Database
+## phpMysql:
  Open a Connection to MySQL 
  ```php 
             //Example (MySQLi Object-Oriented)
