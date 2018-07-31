@@ -13,7 +13,7 @@
             
 
 ### To print a statement : use  Echo and PRINT
-    ````html
+    ````HTML
         <?php echo "i like it" ?>
         <?php print "I like it" ?>
     ````
