@@ -90,12 +90,12 @@ The namespace Acme points to the src/ directory.
 The namespace has to end with \\. For example, "Acme\\".
 You can replace the generic Acme with the name of your brand or website.
 
-d. Update the Composer autoloader:
+__d. Update the Composer autoloader:__
 ```
 $ composer dumpautoload -o
 ```
 
-e. Import the namespace to your scripts. The scripts need to import the namespace as well as the autoloader, e.g., index.php:
+__e. Import the namespace to your scripts. The scripts need to import the namespace as well as the autoloader, e.g., index.php:__
 ```php
 <?php 
 require "vendor/autoload.php";
