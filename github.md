@@ -7,9 +7,7 @@
         --- paste the link which you copied from :        
         --- the page of your repository > Code tab (default tab) > "Clone or download" dropdown button 
 1. Add a folder to your respository
-1. Run
-
-       git status      
+1. ```       git status      ```
 1. Run
 
        git add --a 
