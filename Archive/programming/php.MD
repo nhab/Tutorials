@@ -2,14 +2,13 @@
 1. in pure php file with extention .php
 1. inside an html file:
 ```
+        <!DOCTYPE html><html><body>
         <?php
-            .
-            .
-            php code 
-            .
-            .
+        echo "My first PHP script!";
         ?>
-```
+        </body></html> 
+```  
+
 ### Comments  are like c++: ``` // و /*...*/ ```<br>
             
 
@@ -134,11 +133,12 @@
 ```
          $_SESSION['size']='larg';
          unset( $_SESSION['shape']);
-         برای حذف کلی : session_unset();
-                        session_destroy();
+//For total deletion     : 
+        session_unset();
+        session_destroy();
 ```                        
 ###    Files Operations:
-####        تابع fopen :
+####         fopen function:
 ```
             <?php
             $a=fopen("/home/files/yourfile.txt","r");
@@ -152,7 +152,7 @@
             fwrite();
             file_get_contents();//returns the whole file as an string
             file();
-            fgets(); برای خواندن یک خط یک خط از فایل
+            fgets();// to read line by line
             fread();
 ```            
 __file() Example__:
@@ -178,14 +178,13 @@ __file() Example__:
             ?>
 ````            
 ###    -include
-     برای اینکلود کردن فایلهای دیگر به یک فایل پی اچ پی از دو تابع زیر استفاده میشود:
-     INCLUDE(),REQUIRE()
+ To include other php files to a php file :
+        INCLUDE(),REQUIRE()
+ Example :        
  ```
-     مثال :
         Include 'http://www.yoursite.com/path/file.php';
 ```        
-    -میتوانیم در داخل یک فایل متغیرهای گلوبال بگذاریم و آنرا در همه جا اینکلود کنیم
-    حتی اگر کلمه گلوبال را جلوی تعریف متغیر بگذاریم میتوان آنرا در داخل هر تابعی استفاده کرد.مثل::
+Global variables:
 ```   
    <?php
         function printname()
@@ -195,8 +194,9 @@ __file() Example__:
             print $name;
         }
 ```        
-    حتی میتوان فایلهای تکست یا اچ تی ام ال را اینکلود کرد
-###    کار با کلاس
+ Even text or html files can be included 
+ 
+###   Classes
 ```
         <?php
         class test{
@@ -208,18 +208,7 @@ __file() Example__:
         }
 ```
 ### phpMysql:
-  #### برای وصل شدن
-:procs
-```
-    -hello world :X:
-        <!DOCTYPE html><html><body>
-        <?php
-        echo "My first PHP script!";
-        ?>
-        </body></html> 
-```        
- ####    -install
-        can be direct install or wap/lamp install
+
 ###    -form handling
 ```
         -A Simple HTML Form
