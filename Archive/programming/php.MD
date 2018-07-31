@@ -13,10 +13,10 @@
             
 
 ## To print a statement : use  Echo and PRINT
-    ````HTML
-        <?php echo "i like it" ?>
-        <?php print "I like it" ?>
-    ````
+````HTML
+   <?php echo "i like it" ?>
+   <?php print "I like it" ?>
+````
     
 ## Variables:
  - Don`t need definition.Wherever used ,are known everafter.
