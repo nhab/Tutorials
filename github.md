@@ -1,4 +1,4 @@
-1. Go to Github.com and sign up
+1. Go to [Github.com](https://github.com) and sign up
 1. Install [Git](https://git-scm.com/) in your system
 1. Create a Repository on Github
 1. Go to terminal and type :
