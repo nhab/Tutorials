@@ -12,15 +12,15 @@
   <h2>مالی :</h2>
 	<h3>
 	<a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>
-&nbsp;&nbsp;	currency to u.s. dollar currencychart
+	&nbsp;&nbsp;	currency to u.s. dollar currencychart
 	</a>		<br>
 	<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
-&nbsp;&nbsp;		Inflation rate
+	&nbsp;&nbsp;		Inflation rate
 	</a>     <br>
+	&nbsp;&nbsp; Initial Expenses to immigrate<br>
+	&nbsp;&nbsp; Savings Power <br>
+	&nbsp;&nbsp;  Buying Power <br>
 	</h3>
-&nbsp;&nbsp; Initial Expenses to immigrate<br>
-&nbsp;&nbsp; Savings Power <br>
-&nbsp;&nbsp;  Buying Power <br>
   <h2> Freedom</h2>
   <h2> polution </h2>
   <h2>Language and communication </h2>
