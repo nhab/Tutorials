@@ -7,10 +7,9 @@ In Command Line :
 1. Add a folder to your respository
 1. ```       git status      ```
 1. ```      git add --a     ``` 
-1.
-```        git config --global user.email yourname@yahoo.com ``` 
+1.```        git config --global user.email yourname@yahoo.com ``` 
   (see your github profile for your email address)  
 1. ```    git commit -m "Update the folder" ```
 1.```     git push ```
-        (/ to push commits made on your local branch to a remote repository. it may prompt for your username and password)
+        (// to push commits made on your local branch to a remote repository. it may prompt for your username and password)
  
