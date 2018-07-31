@@ -1,4 +1,4 @@
-__Where to write php code?__
+### Where to write php code?
 1. in pure php file with extention .php
 1. inside an html file:
 ```
@@ -10,17 +10,18 @@ __Where to write php code?__
             .
         ?>
 ```
-__Comments__ are lie c++: <br>
-            // و /*...*/
+### Comments
+  are like c++: ``` // و /*...*/ ```<br>
+            
 
-__To print a statement :__
-    __Echo__ و  __PRINT__ : <br>
+### To print a statement :
+```    __Echo__ و  __PRINT__ : ```<br>
     ````
         <?php echo "i like it" ?>
         <?php print "I like it" ?>
     ````
     
-__Variables__ :
+### Variables:
         نیاز به تعریف کردن ندارند و هرجا استفاده شوند ازآن به بعد شناخته میشوند فقط نامشان باید با $ شروع شوند:
         <?php
             $like="I like it";
@@ -34,15 +35,19 @@ __Variables__ :
         $primary="test";
         $ID=${$primary};
         echo $ID;
-    -آرایه ها :
+### Arrays :
         $a=array{1,2,3,4,5};
         <?php f[0]="j";f[1]="a";f[2]="r"; 
-    -operator ها :
-        مانند سی هستند:
-    -if  ماننذ سی هست:
+### Operators:
+  are like c
+### if 
+ Is  like c
+ ```
         if ($arr){$price=0.90;}else{..}
-    -حلقه ها:
-        مانند سی هستند:      
+```
+### Loopa
+    are like c
+```     
         <?php
             for($num=1;$num<=10;$num++)
             {
@@ -61,7 +66,9 @@ __Variables__ :
                     print $b." ";
                 }
             ?>
-    -توابع:
+ ```
+ ### Functions 
+ ```
         <$php
             function examplefunc()
             {
@@ -72,42 +79,52 @@ __Variables__ :
             $s=examplefunc();
             print $s;
         ?>
-        - آرگومان های  با ریفرنس توابع :
+```        
+###        - آرگومان های  با ریفرنس توابع :
         &:
         function add_some(&$str1){...}
-        -مقدار دیفالت آرگومان تابع:
+###        -مقدار دیفالت آرگومان تابع:
         function makeCoffe($types=array("cappuccino",$coffeMaker=Null)){..}
-    -تابع یافتن آی پی شخص بازدید کننده :
+###    -تابع یافتن آی پی شخص بازدید کننده :
         Getenv("REMOTE_ADDR")
-    -آپلود یک فایل :
+###    -آپلود یک فایل :
+```
         <form enctype="multipart/form-data" action="upload.php" method="post">
         فایل خود را انتخاب کنید :
         <input name="uploaded" type="file" /><br />
         <input type="submit" value="Upload" />
         </form>
-    -برای استفاده از متغیرهای در سطح سشن ابتدا آنها را تعریف می کنیم:
+```        
+###    -برای استفاده از متغیرهای در سطح سشن ابتدا آنها را تعریف می کنیم:
+```
         <?php
             session_start();تابع لازم
             $_SESSION['Color']='red';
             $_SESSION['size']='small';
             ...
         ?>
+```        
     سپس در صغحه دوم  از آن متغیرها استفاده می کنیم:
+```    
         <?php
          session_start();
          echo $_SESSION['color'];
          echo $_SESSION['size'];
          ?>
-    -print_r($SESSION)  کل سشن را چاپ میکند
-    -برای تغییر یک متغیر سشن کافیست به آن مقدار جدید بدهیم و برای حذف آن از 
+```         
+###    -print_r($SESSION)  کل سشن را چاپ میکند
+###    -برای تغییر یک متغیر سشن کافیست به آن مقدار جدید بدهیم و برای حذف آن از 
     unset 
     استفاده کنیم:
+```
          $_SESSION['size']='larg';
          unset( $_SESSION['shape']);
          برای حذف کلی : session_unset();
                         session_destroy();
-    -کار با فایل :
-        تابع fopen :
+```                        
+###    Files Operations:
+####        تابع fopen :
+```
             <?php
             $a=fopen("/home/files/yourfile.txt","r");
             $b=fopen("yourfile.gif","w");
@@ -120,13 +137,17 @@ __Variables__ :
             file();
             fgets(); برای خواندن یک خط یک خط از فایل
             fread();
-        مثال file():
+```            
+####        مثال file():
+```
             $lines=file('yourfile.txt');
             foreach($lines as $line_num=>$line)
             {
                 print"<font color='red'> line # {$line_num}</font>;".$line."<br/>\n";
             }
-        مثال fgets()
+```            
+####        مثال fgets()
+```
             <?php
             $myFile="yourfile.txt";
             $handle=fopen($myFile,'r');
@@ -138,22 +159,28 @@ __Variables__ :
             }
             fclose($handle);
             ?>
-    -include
+````            
+###    -include
      برای اینکلود کردن فایلهای دیگر به یک فایل پی اچ پی از دو تابع زیر استفاده میشود:
      INCLUDE(),REQUIRE()
+ ```
      مثال :
         Include 'http://www.yoursite.com/path/file.php';
+```        
     -میتوانیم در داخل یک فایل متغیرهای گلوبال بگذاریم و آنرا در همه جا اینکلود کنیم
     حتی اگر کلمه گلوبال را جلوی تعریف متغیر بگذاریم میتوان آنرا در داخل هر تابعی استفاده کرد.مثل::
-    <?php
+```   
+   <?php
         function printname()
         {
             global $name;
             include 'variables.php';
             print $name;
         }
+```        
     حتی میتوان فایلهای تکست یا اچ تی ام ال را اینکلود کرد
-    -کار با کلاس
+###    کار با کلاس
+```
         <?php
         class test{
             public static function run(){
@@ -162,19 +189,22 @@ __Variables__ :
             $ClassName='test';
             $ClassName::run();
         }
-
-:phpMysql:
-    - برای وصل شدن
+```
+### phpMysql:
+  #### برای وصل شدن
 :procs
+```
     -hello world :X:
         <!DOCTYPE html><html><body>
         <?php
         echo "My first PHP script!";
         ?>
         </body></html> 
-    -install
+```        
+ ####    -install
         can be direct install or wap/lamp install
-    -form handling
+###    -form handling
+```
         -A Simple HTML Form
             <html>
             <body>
@@ -189,7 +219,9 @@ __Variables__ :
 
             </body>
             </html>
-    -include 'filename';require 'filename';
+```            
+###   -include 'filename';require 'filename';
+```
         <html>
         <body>
 
@@ -203,8 +235,11 @@ __Variables__ :
 
         </body>
         </html>
-    -database
-        -Open a Connection to MySQL 
+```
+
+###    -database
+  ####      -Open a Connection to MySQL 
+ ``` 
             //Example (MySQLi Object-Oriented)
                 <?php
                     $servername = "localhost";
@@ -252,8 +287,10 @@ __Variables__ :
                         echo "Connection failed: " . $e->getMessage();
                         }
                     ?> 
-                -Insert
-                    Example (PDO) and get last id
+```
+###    Insert
+  ####       Example (PDO) and get last id
+  ```
                         <?php
                         $servername = "localhost";
                         $username = "username";
@@ -279,3 +316,4 @@ __Variables__ :
 
                         $conn = null;
                         ?> 
+```
