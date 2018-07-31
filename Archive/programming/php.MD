@@ -20,20 +20,20 @@
     ````
     
 ### Variables:
-        - Don`t need definition.Wherever used ,are known everafter.
-        - Variable names must begin with $
-        - Are case sensitive
+ - Don`t need definition.Wherever used ,are known everafter.
+ - Variable names must begin with $
+ - Are case sensitive
 ```
         <?php
             $like="I like it";
             print $like;
         ?>
 ```        
-      To combine Strings and variables in and statement use __dot(.)__
+ To combine Strings and variables in and statement use __dot(.)__
 ```    
         print $like ." " .$num;
 ```        
-   Even variable name can be dynamic:
+ Even variable name can be dynamic:
 ```    
         $test="success";
         $primary="test";
@@ -46,14 +46,14 @@
         <?php f[0]="j";f[1]="a";f[2]="r"; 
 ```        
 ### Operators:
-  are like c : + -/ * ....
+ are like c : + -/ * ....
 ### If 
  Is  like c
  ```
         if ($arr){$price=0.90;}else{..}
 ```
 ### Loops
-    are like c
+ are like c
 ```     
         <?php
             for($num=1;$num<=10;$num++)
@@ -87,11 +87,11 @@
             print $s;
         ?>
 ```        
-  Passsing reference arguments to functions :
+ Passsing reference arguments to functions :
 ```          
         function add_some(&$str1){...}
 ```                
-   Default Argument in the function:
+  Default Argument in the function:
 ```           
         function makeCoffe($types=array("cappuccino",$coffeMaker=Null)){..}
 ```        
@@ -108,7 +108,7 @@
         </form>
 ```        
 ###    Session level variables
-    first define them
+ First define them
 ```
         <?php
             session_start();
@@ -117,7 +117,7 @@
             ...
         ?>
 ``` 
-     Then use those variables in the second page :
+ Then use those variables in the second page :
 
 ```    
         <?php
@@ -130,9 +130,7 @@
 ```         
  print_r($SESSION)  
 ```         
-###    -برای تغییر یک متغیر سشن کافیست به آن مقدار جدید بدهیم و برای حذف آن از 
-    unset 
-    استفاده کنیم:
+### To delete a session variable use __unset__
 ```
          $_SESSION['size']='larg';
          unset( $_SESSION['shape']);
@@ -145,17 +143,19 @@
             <?php
             $a=fopen("/home/files/yourfile.txt","r");
             $b=fopen("yourfile.gif","w");
-            r  مد را مشخص میکند
-            مدهای دیگر باز کردن فایل :
+            //r   determines mode 
+           //other modes for opening files:
             x+,x,a+,a,w+,w-,r+,r-
-            برخی توابع کار با فایلها:
+```            
+ __some functions to work with files__
+ ```php
             fwrite();
-            file_get_contents();کل محتوای فایل را بصورت یک رشته برمیگرداند
+            file_get_contents();//returns the whole file as an string
             file();
             fgets(); برای خواندن یک خط یک خط از فایل
             fread();
 ```            
-####        مثال file():
+__file() Example__:
 ```
             $lines=file('yourfile.txt');
             foreach($lines as $line_num=>$line)
