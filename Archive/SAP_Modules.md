@@ -1,5 +1,3 @@
-<style type="text/css">  
-
 .head{
 	background-color: darkslategray;
 	color:darkturquoise;
@@ -9,7 +7,7 @@
 .indent{
 	margin-left:5%;
 }
-</style>
+
 <h1 class="head">
 	SAP FI Activities 
 </h1>
