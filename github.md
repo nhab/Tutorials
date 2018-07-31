@@ -10,6 +10,6 @@ In Command Line :
 1. ```       git config --global user.email yourname@yahoo.com  ``` 
   <br>( // see your github profile for your email address)  
 1. ```    git commit -m "Update the folder" ```
-1.```     git push ```
+1. ```     git push  ```
        <br> ( // to push commits made on your local branch to a remote repository. it may prompt for your username and password)
  
