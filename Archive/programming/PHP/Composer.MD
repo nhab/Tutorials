@@ -60,7 +60,7 @@ your-website/
     User.php
 ```
 __b. Give the classes a namespace:__
-``
+```php
 <?php
 namespace Acme;
 
