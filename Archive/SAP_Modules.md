@@ -1,36 +1,4 @@
-/*
-This document has been created with Marked.app <http://marked2app.com>, Copyright 2013 Brett Terpstra
-Content is property of the document author
-Please leave this notice in place, along with any additional credits below.
----------------------------------------------------------------
-Title:  Amblin
-Author:  Erik Sagan (@kartooner)
-Description:  A clean theme with bold headlines and carefully crafted typography.
-Non-standard fonts used:
-	* Rockwell (Installed by Microsoft Office)
-	* Rokkit (Fallback, available at <http://www.fontsquirrel.com/fontface>)
-Download @font-face kits from <http://www.fontsquirrel.com/fontface>. Woff versions included as data uris.
-*/
-#wrapper div, #wrapper span, #wrapper object, #wrapper iframe, #wrapper h1, #wrapper h2, #wrapper h3, #wrapper h4, #wrapper h5, #wrapper h6, #wrapper p, #wrapper blockquote, #wrapper pre, #wrapper a, #wrapper abbr, #wrapper acronym, #wrapper address, #wrapper code, #wrapper del, #wrapper dfn, #wrapper em, #wrapper img, #wrapper q, #wrapper dl, #wrapper dt, #wrapper dd, #wrapper ol, #wrapper ul, #wrapper li, #wrapper fieldset, #wrapper form, #wrapper label, #wrapper legend, #wrapper table, #wrapper caption, #wrapper tbody, #wrapper tfoot, #wrapper thead, #wrapper tr, #wrapper th, #wrapper td {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-weight: inherit;
-  font-style: inherit;
-  font-size: 100%;
-  font-family: inherit;
-  vertical-align: baseline; }
-
-body {
-  background: #fff;
-  margin: 1.5em 0; }
-  body #wrapper {
-    line-height: 1.8; }
-    
-    
-    
-    
-
+<style type="text/css">  
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -67,7 +35,7 @@ ol, ul {
 .indent{
 	margin-left:5%;
 }
-
+</style>
 <h1 class="head">
 	SAP FI Activities 
 </h1>
