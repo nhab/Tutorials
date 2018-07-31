@@ -1,5 +1,4 @@
-(setq markdown-xhtml-header-content
-      "<style>
+<style>
 	html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -36,7 +35,7 @@ ol, ul {
 .indent{
 	margin-left:5%;
 }
-	</style>")
+</style>
 
 <h1 class="head">
 	SAP FI Activities 
