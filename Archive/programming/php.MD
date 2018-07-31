@@ -107,7 +107,7 @@
         </form>
 ```        
 ###    Session level variables
- First define them
+First define them
 ```
         <?php
             session_start();
@@ -116,7 +116,7 @@
             ...
         ?>
 ``` 
- Then use those variables in the second page :
+Then use those variables in the second page :
 
 ```    
         <?php
@@ -125,11 +125,11 @@
          echo $_SESSION['size'];
          ?>
 ```         
-### print the whole session
+print the whole session
 ```         
  print_r($SESSION)  
 ```         
-### To delete a session variable use __unset__
+To delete a session variable use __unset__
 ```
          $_SESSION['size']='larg';
          unset( $_SESSION['shape']);
@@ -138,7 +138,7 @@
         session_destroy();
 ```                        
 ###    Files Operations:
-####         fopen function:
+fopen function:
 ```
             <?php
             $a=fopen("/home/files/yourfile.txt","r");
@@ -163,7 +163,7 @@ __file() Example__:
                 print"<font color='red'> line # {$line_num}</font>;".$line."<br/>\n";
             }
 ```            
-####        مثال fgets()
+  fgets() Example
 ```
             <?php
             $myFile="yourfile.txt";
@@ -243,8 +243,8 @@ Global variables:
         </html>
 ```
 
-###    -database
-  ####      -Open a Connection to MySQL 
+###   Database
+ Open a Connection to MySQL 
  ``` 
             //Example (MySQLi Object-Oriented)
                 <?php
@@ -294,8 +294,7 @@ Global variables:
                         }
                     ?> 
 ```
-###    Insert
-  ####       Example (PDO) and get last id
+  __Insert__       Example (PDO) and get last id
   ```
                         <?php
                         $servername = "localhost";
