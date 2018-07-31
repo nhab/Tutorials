@@ -1,7 +1,7 @@
 ### Where to write php code?
 1. in pure php file with extention .php
 1. inside an html file:
-```
+```HTML
         <!DOCTYPE html><html><body>
         <?php
         echo "My first PHP script!";
@@ -164,7 +164,7 @@ __file() Example__:
             }
 ```            
   fgets() Example
-```
+```php
             <?php
             $myFile="yourfile.txt";
             $handle=fopen($myFile,'r');
@@ -181,11 +181,11 @@ __file() Example__:
  To include other php files to a php file :
         INCLUDE(),REQUIRE()
  Example :        
- ```
+ ```php
         Include 'http://www.yoursite.com/path/file.php';
 ```        
 Global variables:
-```   
+```php   
    <?php
         function printname()
         {
@@ -197,7 +197,7 @@ Global variables:
  Even text or html files can be included 
  
 ###   Classes
-```
+```php
         <?php
         class test{
             public static function run(){
@@ -209,8 +209,8 @@ Global variables:
 ```
 ### phpMysql:
 
-###    -form handling
-```
+###    Form handling
+```HTML
         -A Simple HTML Form
             <html>
             <body>
@@ -226,8 +226,8 @@ Global variables:
             </body>
             </html>
 ```            
-###   -include 'filename';require 'filename';
-```
+###   Include 'filename';require 'filename';
+```HTML
         <html>
         <body>
 
@@ -245,7 +245,7 @@ Global variables:
 
 ###   Database
  Open a Connection to MySQL 
- ``` 
+ ```php 
             //Example (MySQLi Object-Oriented)
                 <?php
                     $servername = "localhost";
@@ -295,7 +295,7 @@ Global variables:
                     ?> 
 ```
   __Insert__       Example (PDO) and get last id
-  ```
+  ```php
                         <?php
                         $servername = "localhost";
                         $username = "username";
