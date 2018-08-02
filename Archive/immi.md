@@ -1,3 +1,4 @@
+<style>
 .tooltip {
     position: relative;
     display: inline-block;
@@ -20,7 +21,7 @@
     opacity: 0;
     transition: opacity 0.3s;
 }
-
+</style>
 <h1>Imigration </h1>
  <h2>	Climate	    </h2>
 	
