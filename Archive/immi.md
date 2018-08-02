@@ -39,16 +39,18 @@ you may not need fund.
 &nbsp;&nbsp; __Buying Power__ <br>
 
 	
- <h2> Freedom and Rights</h2>
- &nbsp;&nbsp;&nbsp;&nbsp; __Political freedom__
+ <h2>Freedom and Rights</h2>
+ 
+ &nbsp;&nbsp; __Political freedom__
  <br>
- &nbsp;&nbsp;&nbsp;&nbsp; __Religional freedom__
+ &nbsp;&nbsp; __Religional freedom__
  <br>
-&nbsp;&nbsp;&nbsp;&nbsp; __Life stylefreedom__
+&nbsp;&nbsp; __Life stylefreedom__
 <br>
 
 <h2> Pollution </h2>
-   &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.mpg.de/11583624/original-1508156177.jpg?t=eyJ3aWR0aCI6MTQwMCwib2JqX2lkIjoxMTU4MzYyNH0=--89a145434832f20e7ee237570e87985767547d5d"> Atomic pollution</a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.mpg.de/11583624/original-1508156177.jpg?t=eyJ3aWR0aCI6MTQwMCwib2JqX2lkIjoxMTU4MzYyNH0=--89a145434832f20e7ee237570e87985767547d5d"> Atomic pollution</a>
 <h2> Language and communication </h2>
   <h2> Culture </h2>
   <h2> Security </h2>
