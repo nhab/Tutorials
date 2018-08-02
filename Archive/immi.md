@@ -23,9 +23,8 @@
  <h2>Financial :</h2>
  
  &nbsp;&nbsp; __Currency to u.s. dollar currencychart__:<br>
-<a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>
-Iran</a>,
-<a href="https://www.xe.com/currencycharts/?from=NZD&to=USD&view=1D">New Zealand</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>Iran</a>,
+ &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.xe.com/currencycharts/?from=NZD&to=USD&view=1D">New Zealand</a>
 <br>
 __Inflation rate__:<br>
 <a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
