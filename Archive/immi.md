@@ -20,6 +20,7 @@
 	     Malaysia
 	     <a href="https://www.holiday-weather.com/kuala_lumpur/averages/">Kuala lumpur </a>,
 	     <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Penang,Malaysia"> Penang</a>(31-32 C)
+	     <a href="https://en.climate-data.org/location/3330/"> Amsterdam </a>
   <br>
   
  &nbsp;&nbsp; __Humidity__  <br>
