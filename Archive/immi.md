@@ -23,7 +23,7 @@
 	<h3>Political freedom </h3>
 	<h3>Religional freedom </h3>
 	<h3> Life stylefreedom </h3>
-  <h2> Plution </h2>
+  <h2> Polution </h2>
   <h2> Language and communication </h2>
   <h2> Culture </h2>
   <h2> Security </h2>
