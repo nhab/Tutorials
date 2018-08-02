@@ -13,6 +13,7 @@
 		<a href="https://en.climate-data.org/location/2788/">Coimbatore</a>,
 		Germany:
 		<a href="https://www.holiday-weather.com/berlin/averages/">Berlin</a>
+		<br>
 		New Zealand :
 		<a href="https://en.climate-data.org/location/3605/">Auckland</a>(6-20 C)
 	<a href="https://en.climate-data.org/location/2/"> Wellington </a> (10-20 C)
