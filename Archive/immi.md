@@ -26,14 +26,15 @@
  &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>Iran</a>,
  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.xe.com/currencycharts/?from=NZD&to=USD&view=1D">New Zealand</a>
 <br>
-__Inflation rate__:<br>
-<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
+&nbsp;&nbsp;__Inflation rate__:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
 .	</a>     <br>
 &nbsp;&nbsp; __Initial Expenses to immigrate/Proof of fund__:<br>
-Canada:
-<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html"> Skilled immigrant in Canada need fund</a>, but with a <a href="http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=695&top=29&_ga=2.119675712.957029425.1533227914-289267728.1533227914"> valid job offer</a>
-you may not need fund.<br> 
-__&nbsp;&nbsp; Savings Power__ <br>
+&nbsp;&nbsp;Canada:
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html"> Skilled immigrant in Canada need fund</a>, but with a <a href="http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=695&top=29&_ga=2.119675712.957029425.1533227914-289267728.1533227914"> valid job offer</a>
+you may not need fund.
+<br> 
+&nbsp;&nbsp; __Savings Power__ <br>
 &nbsp;&nbsp; __Buying Power__ <br>
 
 	
