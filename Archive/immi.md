@@ -40,9 +40,9 @@ you may not need fund.
 
 	
  <h2> Freedom and Rights</h2>
-	<h3>Political freedom </h3>
-	<h3>Religional freedom </h3>
-	<h3> Life stylefreedom </h3>
+&nbsp;&nbsp;&nbsp;&nbsp;__Political freedom__<br>
+&nbsp;&nbsp;&nbsp;&nbsp;__Religional freedom__<br>
+&nbsp;&nbsp;&nbsp;&nbsp;__Life stylefreedom__<br>
 
 <h2> Pollution </h2>
    &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.mpg.de/11583624/original-1508156177.jpg?t=eyJ3aWR0aCI6MTQwMCwib2JqX2lkIjoxMTU4MzYyNH0=--89a145434832f20e7ee237570e87985767547d5d"> Atomic pollution</a>
