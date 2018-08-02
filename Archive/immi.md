@@ -13,6 +13,8 @@
 		<a href="https://en.climate-data.org/location/2788/">Coimbatore</a>,
 		Germany:
 		<a href="https://www.holiday-weather.com/berlin/averages/">Berlin</a>
+		New Zealand :
+		<a href="https://en.climate-data.org/location/3605/">Auckland</a>
   <br>
  &nbsp;&nbsp; __Rain and humidity__  <br>
  &nbsp;&nbsp; __Pressure__  <br>
