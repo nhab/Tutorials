@@ -13,14 +13,15 @@
 		<a href="https://en.climate-data.org/location/2788/">Coimbatore</a>,
 		Germany:
 		<a href="https://www.holiday-weather.com/berlin/averages/">Berlin</a>
-<br>
-&nbsp;&nbsp; __Rain and humidity__  <br>
-&nbsp;&nbsp; __Pressure__  <br>
-&nbsp;&nbsp; G and hieght from sea level <br>
-Sun,Snow,Wind,Rain <br>
-nearest Beach,Lake,river <br>
+ <br>
+ &nbsp;&nbsp; __Rain and humidity__  <br>
+ &nbsp;&nbsp; __Pressure__  <br>
+ &nbsp;&nbsp; __G and hieght from sea level__ <br>
+ &nbsp;&nbsp; __Sun,Snow,Wind,Rain__ <br>
+ &nbsp;&nbsp; __Beach,Lake,river__ <br>
  <h2>Financial :</h2>
-__Currency to u.s. dollar currencychart__:
+ &nbsp;&nbsp; __Rain and humidity__  <br>
+ &nbsp;&nbsp; __Currency to u.s. dollar currencychart__:
 <a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>
 .</a>	<br>
 __Inflation rate__:
