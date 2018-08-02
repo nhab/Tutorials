@@ -22,18 +22,17 @@ nearest Beach,Lake,river <br>
 
 
  <h2>Financial :</h2>
-	<h3>
-	<a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>
-	&nbsp;&nbsp;	Currency to u.s. dollar currencychart
-	</a>		<br>
-	<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
-	&nbsp;&nbsp;		Inflation rate
-	</a>     <br>
-	&nbsp;&nbsp; __Initial Expenses to immigrate/Proof of fund__<br>
-	<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html"> Skilled immigrant in Canada </a>
-	&nbsp;&nbsp; Savings Power <br>
-	&nbsp;&nbsp;  Buying Power <br>
-	</h3>
+&nbsp;&nbsp;__Currency to u.s. dollar currencychart__:
+<a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>
+.</a>	<br>
+__&nbsp;&nbsp;__Inflation rate__:
+<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
+.	</a>     <br>
+&nbsp;&nbsp; __Initial Expenses to immigrate/Proof of fund__:<br>
+<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html"> Skilled immigrant in Canada </a>
+__&nbsp;&nbsp; Savings Power__ <br>
+&nbsp;&nbsp; __Buying Power__ <br>
+
 	
  <h2> Freedom and Rights</h2>
 	<h3>Political freedom </h3>
