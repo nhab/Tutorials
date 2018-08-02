@@ -1,27 +1,3 @@
-<style>
-.tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black;
-}
-
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -60px;
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-</style>
 <h1>Imigration </h1>
  <h2>	Climate	    </h2>
 	
@@ -38,10 +14,6 @@
 		<a href="https://www.holiday-weather.com/berlin/averages/">Berlin</a>
 		New Zealand :
 		<a href="https://en.climate-data.org/location/3605/" alt="6-20 C">Auckland</a>
-		
-<div class="tooltip">Hover over me
-  <span class="tooltiptext">Tooltip text</span>
-</div>
 
   <br>
  &nbsp;&nbsp; __Rain and humidity__  <br>
