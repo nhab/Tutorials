@@ -57,7 +57,7 @@ you may not need fund.
  <a href="http://www.wmo.int/pages/prog/arep/WMOAntarcticOzoneBulletins2016.html">Australia, New Zealand, Argentina and Chile and </a><br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the future may extend over Alaska, Canada and parts of northern Europe
   <br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp <a href="http://archive.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home/Atmosphere-and-climate/ozone-hole.aspx">Ozone hole </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://archive.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home/Atmosphere-and-climate/ozone-hole.aspx">Ozone hole </a>
 
 <h2> Language and communication </h2>
   <h2> Culture </h2>
