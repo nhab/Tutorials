@@ -21,6 +21,7 @@
   
  &nbsp;&nbsp; __Humidity__  <br>
  > <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland </a>(%85 Avg.)
+ <br>
  &nbsp;&nbsp; __Pressure__  <br>
  &nbsp;&nbsp; __G and hieght from sea level__ <br>
  &nbsp;&nbsp; __Sun,Snow,Wind,Rain__ <br>
