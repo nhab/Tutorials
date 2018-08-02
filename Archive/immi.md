@@ -19,7 +19,8 @@
 	<a href="https://en.climate-data.org/location/2/"> Wellington </a> (10-20 C)
   <br>
   
- &nbsp;&nbsp; __Rain and humidity__  <br>
+ &nbsp;&nbsp; __Humidity__  <br>
+ > <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland </a>(%85 Avg.)
  &nbsp;&nbsp; __Pressure__  <br>
  &nbsp;&nbsp; __G and hieght from sea level__ <br>
  &nbsp;&nbsp; __Sun,Snow,Wind,Rain__ <br>
