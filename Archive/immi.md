@@ -9,7 +9,9 @@
 		<a href="https://www.holiday-weather.com/vancouver/averages/">vancouver</a>
 		<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">Toronto</a>,
 		<a href="https://en.climate-data.org/region/62/#example0"> Quebec state </a>,
+		India:
 		<a href="https://en.climate-data.org/location/2788/">Coimbatore</a>,
+		Germany:
 		<a href="https://www.holiday-weather.com/berlin/averages/">Berlin</a>
 <br>
 &nbsp;&nbsp; Rain and humidity  <br>
