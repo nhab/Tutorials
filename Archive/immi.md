@@ -3,7 +3,7 @@
 	
  &nbsp;&nbsp; __Temprature__ :  
      
-	> &nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://www.google.com/search?num=100&ei=xMJiW9OpM4Lt6ASs-o2wAw&q=+temperature+graph+tehran&oq=+temperature+graph+tehran"> Tehran</a>,
 		canada: 
 		<a href="https://www.holiday-weather.com/vancouver/averages/">vancouver</a>
