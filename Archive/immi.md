@@ -22,10 +22,11 @@ nearest Beach,Lake,river <br>
 
 
  <h2>Financial :</h2>
-&nbsp;&nbsp;__Currency to u.s. dollar currencychart__:
+&nbsp;&nbsp; 
+__Currency to u.s. dollar currencychart__:
 <a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>
 .</a>	<br>
-__&nbsp;&nbsp;__Inflation rate__:
+&nbsp;&nbsp;__Inflation rate__:
 <a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
 .	</a>     <br>
 &nbsp;&nbsp; __Initial Expenses to immigrate/Proof of fund__:<br>
