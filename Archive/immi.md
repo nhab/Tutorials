@@ -30,8 +30,8 @@ nearest Beach,Lake,river <br>
 	<h3>Political freedom </h3>
 	<h3>Religional freedom </h3>
 	<h3> Life stylefreedom </h3>
-  <h2> Polution </h2>
-   <h3>  <a href="https://www.mpg.de/11583624/original-1508156177.jpg?t=eyJ3aWR0aCI6MTQwMCwib2JqX2lkIjoxMTU4MzYyNH0=--89a145434832f20e7ee237570e87985767547d5d"> Atomic pollution</a></h3>
+  <h2> Pollution </h2>
+   &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.mpg.de/11583624/original-1508156177.jpg?t=eyJ3aWR0aCI6MTQwMCwib2JqX2lkIjoxMTU4MzYyNH0=--89a145434832f20e7ee237570e87985767547d5d"> Atomic pollution</a>
 <h2> Language and communication </h2>
   <h2> Culture </h2>
   <h2> Security </h2>
