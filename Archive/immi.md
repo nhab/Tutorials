@@ -52,7 +52,7 @@ you may not need fund.
 
   &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.mpg.de/11583624/original-1508156177.jpg?t=eyJ3aWR0aCI6MTQwMCwib2JqX2lkIjoxMTU4MzYyNH0=--89a145434832f20e7ee237570e87985767547d5d"> Atomic pollution</a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?num=100&ei=uz1jW_OnC8iSsAH0ta7AAw&q=ozone+layer+depletion+affected+areas&oq=ozone+layer+depletion+affected+areas">Ozon Layer depletion</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?num=100&ei=uz1jW_OnC8iSsAH0ta7AAw&q=ozone+layer+depletion+affected+areas&oq=ozone+layer+depletion+affected+areas">Ozon Layer depletion</a>  include Australia, New Zealand, Argentina and Chile and in the future may extend over Alaska, Canada and parts of northern Europe
   <br>
 <h2> Language and communication </h2>
   <h2> Culture </h2>
