@@ -14,8 +14,8 @@
 		Germany:
 		<a href="https://www.holiday-weather.com/berlin/averages/">Berlin</a>
 <br>
-&nbsp;&nbsp; Rain and humidity  <br>
-&nbsp;&nbsp; Pressure  <br>
+&nbsp;&nbsp; __Rain and humidity__  <br>
+&nbsp;&nbsp; __Pressure__  <br>
 &nbsp;&nbsp; G and hieght from sea level <br>
 Sun,Snow,Wind,Rain <br>
 nearest Beach,Lake,river <br>
