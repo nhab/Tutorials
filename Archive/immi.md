@@ -6,7 +6,7 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://www.google.com/search?num=100&ei=xMJiW9OpM4Lt6ASs-o2wAw&q=+temperature+graph+tehran&oq=+temperature+graph+tehran"> Tehran</a>,
 		<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">Toronto</a>,
-		<a href="https://en.climate-data.org/location/663/"> Quebec </a>,
+		<a href="https://en.climate-data.org/region/62/#example0"> Quebec state </a>,
 		<a href="https://en.climate-data.org/location/2788/">Coimbatore</a>,
 		<a href="https://www.holiday-weather.com/berlin/averages/">Berlin</a>
 <br>
