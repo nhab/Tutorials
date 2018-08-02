@@ -1,15 +1,13 @@
 <html dir="rtl">
 <h1>Imigration </h1>
-	<h2>
-	Climate	
-   </h2>
+    <h2>	Climate	    </h2>
 	<h3>
-&nbsp;&nbsp; Temprature <br>
-&nbsp;&nbsp; Rain and humidity  <br>
-&nbsp;&nbsp; Pressure  <br>
-&nbsp;&nbsp; G and hieght from sea level <br>
+        &nbsp;&nbsp; Temprature <br>
+	&nbsp;&nbsp; Rain and humidity  <br>
+	&nbsp;&nbsp; Pressure  <br>
+	&nbsp;&nbsp; G and hieght from sea level <br>
 	</h3>	
-  <h2>مالی :</h2>
+  <h2>Financial :</h2>
 	<h3>
 	<a href='https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y'>
 	&nbsp;&nbsp;	Currency to u.s. dollar currencychart
@@ -21,13 +19,16 @@
 	&nbsp;&nbsp; Savings Power <br>
 	&nbsp;&nbsp;  Buying Power <br>
 	</h3>
-  <h2> Freedom</h2>
+  <h2> Freedom and Rights</h2>
+	<h3>Political freedom </h3>
+	<h3>Religional freedom </h3>
+	<h3> Life stylefreedom </h3>
   <h2> Plution </h2>
   <h2> Language and communication </h2>
   <h2> Culture </h2>
   <h2> Security </h2>
-  <h2> Spirtual awakening and Environment </h2>
-  <h2> fairness of rules and regulations </h2>
+  <h2> Spirtual awakening and The Environment/Energy/Atmosphere </h2>
+  <h2> Fairness of __Rules and regulations__ </h2>
   <h2> job market / Bussiness ease </h2>
-  <h2> Ease o Enterance/Exit /Trip </h2>
+  <h2> Ease of Enterance/Exit /Relocation /Trip </h2>
 </html>
