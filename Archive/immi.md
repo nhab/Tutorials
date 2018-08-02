@@ -28,8 +28,7 @@
 <br>
 &nbsp;&nbsp;__Inflation rate__:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
-List	</a>     <br>,
-<a href="https://tradingeconomics.com/country-list/inflation-rate">Chart</a> <br>
+List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate">Chart</a> <br>
 
 &nbsp;&nbsp; __Initial Expenses to immigrate/Proof of fund__:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Canada:
