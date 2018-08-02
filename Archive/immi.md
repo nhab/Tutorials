@@ -13,8 +13,8 @@
 		Germany:
 		<a href="https://www.holiday-weather.com/berlin/averages/">Berlin</a>
 		New Zealand :
-		<a href="https://en.climate-data.org/location/3605/" alt="6-20 C">Auckland</a>
-
+		<a href="https://en.climate-data.org/location/3605/">Auckland</a>(6-20 C)
+	<a href="https://en.climate-data.org/location/2/"> Wellington </a> (10-20 C)
   <br>
  &nbsp;&nbsp; __Rain and humidity__  <br>
  &nbsp;&nbsp; __Pressure__  <br>
