@@ -28,5 +28,6 @@
   <h2> Security </h2>
   <h2> Spirtual awakening and Environment </h2>
   <h2> fairness of rules and regulations </h2>
-   <h2> job market / Bussiness ease </h2>
+  <h2> job market / Bussiness ease </h2>
+  <h2> Ease o Enterance/Exit /Trip </h2>
 </html>
