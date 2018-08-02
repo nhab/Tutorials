@@ -23,8 +23,8 @@
   <br>
   
  &nbsp;&nbsp; __Humidity__  <br>
- > <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland </a>(%85 Avg.)
- <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Kuala-Lumpur,Malaysia">Kuala lumpur</a>
+ > <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland </a>(85% Avg.)
+ <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Kuala-Lumpur,Malaysia">Kuala lumpur</a>(80%)
  <br>
  
  &nbsp;&nbsp; __Pressure__  <br>
