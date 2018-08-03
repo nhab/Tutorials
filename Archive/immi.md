@@ -5,6 +5,7 @@
      
 > &nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://www.google.com/search?num=100&ei=xMJiW9OpM4Lt6ASs-o2wAw&q=+temperature+graph+tehran&oq=+temperature+graph+tehran"> Tehran</a> (4-30 C),
+		<a href="https://www.holiday-weather.com/helsinki/averages/">helsinki</a>
 		canada: 
 		<a href="https://www.holiday-weather.com/vancouver/averages/">vancouver</a>
 		<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">Toronto</a>,
@@ -83,7 +84,8 @@ __Visa Regulations__ <br>
  &nbsp;&nbsp;<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> <br>
  __Visa free countries__ <br>
   &nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">New Zealand</a>,
-  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>
+  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>,
+  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">Finland</a>
  <h3>Freedom and Rights</h2> 
   &nbsp;&nbsp; __Political freedom__
  <br>
