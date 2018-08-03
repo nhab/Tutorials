@@ -95,13 +95,16 @@ you may not need fund.
   &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.mpg.de/11583624/original-1508156177.jpg?t=eyJ3aWR0aCI6MTQwMCwib2JqX2lkIjoxMTU4MzYyNH0=--89a145434832f20e7ee237570e87985767547d5d"> Atomic pollution</a>
   <br>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?num=100&ei=uz1jW_OnC8iSsAH0ta7AAw&q=ozone+layer+depletion+affected+areas&oq=ozone+layer+depletion+affected+areas">Ozone Layer depletion</a> (UV Rediation) <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?num=100&ei=uz1jW_OnC8iSsAH0ta7AAw&q=ozone+layer+depletion+affected+areas&oq=ozone+layer+depletion+affected+areas">
+	Ozone Layer depletion</a> (UV Rediation) <br>
+	
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; include
  <a href="http://www.wmo.int/pages/prog/arep/WMOAntarcticOzoneBulletins2016.html">Australia, New Zealand, Argentina and Chile and </a><br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the future may extend over Alaska, Canada and parts of northern Europe
   <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://archive.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home/Atmosphere-and-climate/ozone-hole.aspx">Ozone hole </a>,
  <a href="https://www.google.com/search?biw=1366&bih=645&tbs=qdr%3Ay&tbm=isch&sa=1&ei=EUNjW4vxEYWVsAGzuJPoDw&q=Ozone+hole+map+&oq=Ozone+hole+map+">Ozone hole map</a>
+<br>
 <a href="https://www.google.com/search?q=broad-spectrum+sunscreens&oq=broad-spectrum+sunscreens&aqs=chrome..69i57j0l5.436j0j7&sourceid=chrome&ie=UTF-8"> for UV Protection see Sunscreen products</a>
 <br>
 <h2> Language and communication </h2>
