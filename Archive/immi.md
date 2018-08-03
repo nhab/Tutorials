@@ -43,7 +43,8 @@
  <a href="http://dateandtime.info/citycoordinates.php?id=2179537">Wellington </a>(31 m) ,
  <a href="https://www.toronto.ca/311/knowledgebase/kb/docs/articles/information-and-technology/solutions-development/geospatial-competency-centre/torontos-elevationaltitude-above-sea-level.html">Toronto(76m)<a>,
 	<a href="http://dateandtime.info/citycoordinates.php?id=2950159">Berin (43 m)</a> ,
-	<a href="http://dateandtime.info/citycoordinates.php?id=2867714">Munich (519 m) </a>
+	<a href="http://dateandtime.info/citycoordinates.php?id=2867714">Munich (519 m) </a> ,
+	Switzerland <a href="https://en.wikipedia.org/wiki/List_of_European_cities_by_elevation">Bern</a>(540 m)
  <br>
  &nbsp;&nbsp; __Sun,Snow,Wind,Rain__ <br>
  &nbsp;&nbsp; __Beach,Lake,river__ <br>
