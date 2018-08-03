@@ -45,6 +45,8 @@
 	<a href="http://dateandtime.info/citycoordinates.php?id=2867714">Munich </a> (519 m) ,
 	Switzerland :<a href="https://en.wikipedia.org/wiki/List_of_European_cities_by_elevation">Bern</a>(540 m)
 	Austria : <a href="https://en.wikipedia.org/wiki/Vienna">vienna</a>(150-450 m)
+	<a href="https://www.graphicmaps.com/luxembourg">Luxamburg</a>(32 m)
+	
  <br>
  &nbsp;&nbsp; __Pressure__  <br>
  &nbsp;&nbsp; __Sun,Snow,Wind,Rain__ <br>
