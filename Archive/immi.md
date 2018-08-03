@@ -65,7 +65,7 @@ you may not need fund.
 &nbsp;&nbsp; __Buying Power__ <br>
 
 
-<h2> Rules and regulations, Justice </h2>
+<h2> Rules and regulations, Justice </h2><br>
 > <h3> Visa Regulations </h3>
  <a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a>
 > <h3>Freedom and Rights</h2> 
