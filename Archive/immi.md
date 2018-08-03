@@ -16,20 +16,20 @@
 		<br>
 		New Zealand :
 		<a href="https://en.climate-data.org/location/3605/">Auckland</a>(6-20 C) ,
-		Irland :
-		<a href="https://en.climate-data.org/location/6014/">Belfast</a>(4-15 C)
-	<a href="https://en.climate-data.org/location/2/"> Wellington </a> (10-20 C)
-	     Malaysia
+<a href="https://en.climate-data.org/location/2/"> Wellington </a> (10-20 C) ,
+	     Malaysia :
 	     <a href="https://www.holiday-weather.com/kuala_lumpur/averages/">Kuala lumpur </a>,
 	     <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Penang,Malaysia"> Penang</a>(31-32 C)
-	     <a href="https://en.climate-data.org/location/3330/"> Amsterdam </a>
+	     <a href="https://en.climate-data.org/location/3330/"> Amsterdam </a> ,
+	     Irland :
+		<a href="https://en.climate-data.org/location/6014/">Belfast</a>(4-15 C)
   <br>
   
  &nbsp;&nbsp; __Humidity__  <br>
  > <a href="https://www.weatheronline.co.uk/weather/maps/city?WMO=40754&CONT=asie&LAND=IR&ART=RLF&LEVEL=150"> Tehran </a>(10%-25%),
- <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland </a>(85% Avg.)
- <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Kuala-Lumpur,Malaysia">Kuala lumpur</a>(80%)
- <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93439&CONT=nznz&LAND=NZ7&ART=RLF&LEVEL=150">Wellington</a>(60-90%)
+ <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland </a>(85% Avg.) ,
+ <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Kuala-Lumpur,Malaysia">Kuala lumpur</a>(80%) ,
+ <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93439&CONT=nznz&LAND=NZ7&ART=RLF&LEVEL=150">Wellington</a>(60-90%) ,
  <a href="https://weather-and-climate.com/average-monthly-Humidity-perc,belfast-gb,United-Kingdom">Belfast</a>(75-90 C)
  <br>
  
