@@ -67,12 +67,12 @@ you may not need fund.
  <h2> Fairness of __Rules and regulations__ </h2>
 	
 > <h3>Freedom and Rights</h2> 
- &nbsp;&nbsp; __Political freedom__
- <br>
- &nbsp;&nbsp; __Religional freedom__
- <br>
-&nbsp;&nbsp; __Life stylefreedom__
-<br>
+>  &nbsp;&nbsp; __Political freedom__
+> <br>
+>  &nbsp;&nbsp; __Religional freedom__
+> <br>
+> &nbsp;&nbsp; __Life stylefreedom__
+> <br>
 
 <h2> Pollution </h2>
 
