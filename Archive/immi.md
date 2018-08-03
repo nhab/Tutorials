@@ -64,9 +64,9 @@ you may not need fund.
 &nbsp;&nbsp; __Savings Power__ <br>
 &nbsp;&nbsp; __Buying Power__ <br>
 
+ <h2> Fairness of __Rules and regulations__ </h2>
 	
- <h2>Freedom and Rights</h2>
- 
+> <h3>Freedom and Rights</h2> 
  &nbsp;&nbsp; __Political freedom__
  <br>
  &nbsp;&nbsp; __Religional freedom__
@@ -90,7 +90,6 @@ you may not need fund.
   <h2> Culture </h2>
   <h2> Security </h2>
   <h2> Spirtual awakening and The Environment/Energy/Atmosphere </h2>
-  <h2> Fairness of __Rules and regulations__ </h2>
   <h2> job market / Bussiness ease </h2>
   <h2> Ease of Enterance/Exit /Relocation /Trip </h2>
 
