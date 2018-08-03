@@ -36,6 +36,7 @@
  
  &nbsp;&nbsp; __Pressure__  <br>
  &nbsp;&nbsp; __G and hieght from sea level__ <br>
+ &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://dateandtime.info/citycoordinates.php?id=1735161">Kuala lumpur</a><br>
  &nbsp;&nbsp; __Sun,Snow,Wind,Rain__ <br>
  &nbsp;&nbsp; __Beach,Lake,river__ <br>
  
