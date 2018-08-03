@@ -78,12 +78,10 @@ you may not need fund.
 
 
 <h2> Rules and regulations, Justice </h2><br>
- __Visa Regulations__
- 
+  __Visa Regulations__ <br>
  &nbsp;&nbsp;<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> <br>
   __Visa free countries__ <br>
   &nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">New Zealand</a><br>
- 
 > <h3>Freedom and Rights</h2> 
 >  &nbsp;&nbsp; __Political freedom__
 > <br>
