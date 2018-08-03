@@ -54,8 +54,8 @@ you may not need fund.
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.expatistan.com/cost-of-living/wellington">Wellington(~4700 NZD)</a> ,
 <br>
 
-&nbsp;&nbsp; __Average Salary(NZ$45,700 and NZ$79,575 /Year  <br>
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.payscale.com/research/NZ/Location=Wellington/Salary">Wellington </a>
+&nbsp;&nbsp; __Average Salary  <br>
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.payscale.com/research/NZ/Location=Wellington/Salary">Newzealand,Wellington (NZ$45,700 and NZ$79,575 /Year</a>
  <br>
 &nbsp;&nbsp; __Savings Power__ <br>
 &nbsp;&nbsp; __Buying Power__ <br>
