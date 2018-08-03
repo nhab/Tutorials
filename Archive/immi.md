@@ -51,7 +51,7 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 you may not need fund.
 <br> 
 &nbsp;&nbsp; __Monthly Expenses__ <br>
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.expatistan.com/cost-of-living/wellington">Wellington(~4700 NZD)</a> ,
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.expatistan.com/cost-of-living/wellington">Wellington(~4700 NZD /Month)</a> ,
 <br>
 
 &nbsp;&nbsp; __Average Salary__  <br>
