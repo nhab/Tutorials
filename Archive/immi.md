@@ -64,8 +64,7 @@ you may not need fund.
 &nbsp;&nbsp; __Savings Power__ <br>
 &nbsp;&nbsp; __Buying Power__ <br>
 
- <h2> Fairness of __Rules and regulations__ </h2>
-	
+ <h2> __Rules and regulations, Justice__ </h2>	
 > <h3>Freedom and Rights</h2> 
 >  &nbsp;&nbsp; __Political freedom__
 > <br>
