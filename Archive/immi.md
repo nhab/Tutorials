@@ -18,19 +18,14 @@
 |Penang,Malaysia  |<a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Penang,Malaysia">31-32 C C</a> | | |
 | Amsterdam |<a href="https://en.climate-data.org/location/3330/"> C</a> | | |
 | Belfast |<a href="https://en.climate-data.org/location/6014/">4 to 15 C</a> | <a href="https://weather-and-climate.com/average-monthly-Humidity-perc,belfast-gb,United-Kingdom">75-90</a> | |
+|Bern,Switzerland |||<a href="https://en.wikipedia.org/wiki/List_of_European_cities_by_elevation">540 m</a>|
+|vienna,Austria||| <a href="https://en.wikipedia.org/wiki/Vienna">150-450 m</a>|
+|Luxamburg|||<a href="https://www.graphicmaps.com/luxembourg">32 m</a>|
+|Panama City|||2m|
 
- 
- &nbsp;&nbsp; __Elevation above sea level (gravity)__ <br>
-
-	Switzerland :<a href="https://en.wikipedia.org/wiki/List_of_European_cities_by_elevation">Bern</a>(540 m)
-	Austria : <a href="https://en.wikipedia.org/wiki/Vienna">vienna</a>(150-450 m)
-	<a href="https://www.graphicmaps.com/luxembourg">Luxamburg</a>(32 m) ,
-	Panama City (2m)
- <br>
- &nbsp;&nbsp; __Pressure__  <br>
- &nbsp;&nbsp; __Sun,Snow,Wind,Rain__ <br>
+ &nbsp;&nbsp;__Sun,Snow,Wind,Rain__ 
  &nbsp;&nbsp; __Beach,Lake,river__ <br>
- 
+ <h2> Food Taste and Health</h2>
  <h2>Financial :</h2>
  
  &nbsp;&nbsp; __Currency to u.s. dollar currencychart__:<br>
