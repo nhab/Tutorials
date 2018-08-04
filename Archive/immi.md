@@ -3,29 +3,25 @@
 
 |City |Temperature| Humidity | Elevation |
 |-----|-----------|----------|-----------|
-| Tehran   | <a href="https://www.google.com/search?num=100&ei=xMJiW9OpM4Lt6ASs-o2wAw&q=+temperature+graph+tehran&oq=+temperature+graph+tehran">4 to 30 C</a>           |    <a href="https://www.weatheronline.co.uk/weather/maps/city?WMO=40754&CONT=asie&LAND=IR&ART=RLF&LEVEL=150"> (10%-25%) </a>       |           |
+| Tehran   | <a href="https://www.google.com/search?num=100&ei=xMJiW9OpM4Lt6ASs-o2wAw&q=+temperature+graph+tehran&oq=+temperature+graph+tehran">4 to 30 C</a>           |    <a href="https://www.weatheronline.co.uk/weather/maps/city?WMO=40754&CONT=asie&LAND=IR&ART=RLF&LEVEL=150"> (10%-25%) </a>       |  <a href="http://dateandtime.info/citycoordinates.php?id=112931">(1187m)</a>         |
 | Helsinki |<a href="https://www.holiday-weather.com/helsinki/averages/"> -7 to 17 C</a> | | |
 | vancouver |<a href="https://www.holiday-weather.com/vancouver/averages/"> 4 to 17 C</a> | | |
-| Toronto |<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">  C</a> | <a href="https://toronto.weatherstats.ca/charts/relative_humidity-hourly.html">(20-100%) </a> | |
+| Toronto |<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">  C</a> | <a href="https://toronto.weatherstats.ca/charts/relative_humidity-hourly.html">(20-100%) </a> |  <a href="https://www.toronto.ca/311/knowledgebase/kb/docs/articles/information-and-technology/solutions-development/geospatial-competency-centre/torontos-elevationaltitude-above-sea-level.html">76m<a>|
 | Calgary |<a href="https://www.holiday-weather.com/calgary/averages/">-7 to 16 C</a> | <a href="https://calgary.weatherstats.ca/charts/relative_humidity-hourly.html">40-60% </a>| |
 | Quebec state |<a href="ttps://en.climate-data.org/region/62/#example0"> C</a> | | |
 | Coimbatore,India |<a href="https://en.climate-data.org/location/2788/"> C</a> | | |
-| Berlin,Germany |<a href="https://www.holiday-weather.com/berlin/averages/"> C</a> | | |
+| Berlin,Germany |<a href="https://www.holiday-weather.com/berlin/averages/"> C</a> | |<a href="http://dateandtime.info/citycoordinates.php?id=2950159">(43 m)</a>  |
+| Munich ||| <a href="http://dateandtime.info/citycoordinates.php?id=2867714">519 m </a> |
 | Auckland,New Zealand |<a href="https://en.climate-data.org/location/3605/">6-20 C</a> |  <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland 85% Avg.</a>| |
-| Wellington,New Zealand |<a href="https://en.climate-data.org/location/2/">10-20 C C</a> |  <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93439&CONT=nznz&LAND=NZ7&ART=RLF&LEVEL=150">60-90%</a>| |
-| Kuala lumpur ,Malaysia  |<a href="https://www.holiday-weather.com/kuala_lumpur/averages"> C C</a> |  <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Kuala-Lumpur,Malaysia">80%</a>| |
+| Wellington,New Zealand |<a href="https://en.climate-data.org/location/2/">10-20 C C</a> |  <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93439&CONT=nznz&LAND=NZ7&ART=RLF&LEVEL=150">60-90%</a>|<a href="http://dateandtime.info/citycoordinates.php?id=2179537">31 m </a> |
+| Kuala lumpur ,Malaysia  |<a href="https://www.holiday-weather.com/kuala_lumpur/averages"> C C</a> |  <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Kuala-Lumpur,Malaysia">80%</a>|   <a href="http://dateandtime.info/citycoordinates.php?id=1735161">56m </a>|
 |Penang,Malaysia  |<a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Penang,Malaysia">31-32 C C</a> | | |
 | Amsterdam |<a href="https://en.climate-data.org/location/3330/"> C</a> | | |
 | Belfast |<a href="https://en.climate-data.org/location/6014/">4 to 15 C</a> | <a href="https://weather-and-climate.com/average-monthly-Humidity-perc,belfast-gb,United-Kingdom">75-90</a> | |
 
  
  &nbsp;&nbsp; __Elevation above sea level (gravity)__ <br>
- > &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://dateandtime.info/citycoordinates.php?id=112931">Tehran</a>(1187m),
-  <a href="http://dateandtime.info/citycoordinates.php?id=1735161">Kuala lumpur</a>(56m),
- <a href="http://dateandtime.info/citycoordinates.php?id=2179537">Wellington </a>(31 m) ,
- <a href="https://www.toronto.ca/311/knowledgebase/kb/docs/articles/information-and-technology/solutions-development/geospatial-competency-centre/torontos-elevationaltitude-above-sea-level.html">Toronto<a>(76m),
-	<a href="http://dateandtime.info/citycoordinates.php?id=2950159">Berlin</a> (43 m) ,
-	<a href="http://dateandtime.info/citycoordinates.php?id=2867714">Munich </a> (519 m) ,
+
 	Switzerland :<a href="https://en.wikipedia.org/wiki/List_of_European_cities_by_elevation">Bern</a>(540 m)
 	Austria : <a href="https://en.wikipedia.org/wiki/Vienna">vienna</a>(150-450 m)
 	<a href="https://www.graphicmaps.com/luxembourg">Luxamburg</a>(32 m) ,
