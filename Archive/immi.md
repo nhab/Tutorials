@@ -5,16 +5,14 @@
 |-----|-----------|----------|-----------|
 | Tehran   | <a href="https://www.google.com/search?num=100&ei=xMJiW9OpM4Lt6ASs-o2wAw&q=+temperature+graph+tehran&oq=+temperature+graph+tehran">4 to 30 C</a>           |          |           |
 | Helsinki |<a href="https://www.holiday-weather.com/helsinki/averages/"> -7 to 17 C</a> | | |
-| vancouver |<a href="https://www.holiday-weather.com/vancouver/averages/"> -7 to 17 C</a> | | |
+| vancouver |<a href="https://www.holiday-weather.com/vancouver/averages/"> 4 to 17 C</a> | | |
+| Toronto |<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">  C</a> | | |
+| Calgary |<a href="https://www.holiday-weather.com/calgary/averages/">-7 to 16 C</a> | | |
+| Quebec state |<a href="ttps://en.climate-data.org/region/62/#example0">-7 to 16 C</a> | | |
 
  &nbsp;&nbsp; __Temprature__ :  
      
 > &nbsp;&nbsp;&nbsp;&nbsp;
-		canada: 
-
-		<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">Toronto</a>,
-		<A HREF="https://www.holiday-weather.com/calgary/averages/">Calgary</a>(-7 to 16 C),
-		<a href="https://en.climate-data.org/region/62/#example0"> Quebec state </a>,
 		India:
 		<a href="https://en.climate-data.org/location/2788/">Coimbatore</a>,
 		Germany:
