@@ -3,7 +3,7 @@
 
 __Visa Regulations__ <br>
 
-|Country|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>)citizenship conditions| Visa free countries |visa type  |  Language |Currency worth|
+|Country|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>)citizenship conditions| Visa free countries |visa type  |  Language |Currency/US$|
 |-------|----------------------|---------------------|-----------|-----------|----|
 |Iran  |||||<a href="https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y">Rial</a>|
 |<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> | <a href="https://www.govt.nz/browse/nz-passports-and-citizenship/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/">5 years(at least 8 month each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">U.S.,Erurope</a>|||<a href="https://www.xe.com/currencycharts/?from=NZD&to=USD&view=1D">NZ Dollar</a>|
