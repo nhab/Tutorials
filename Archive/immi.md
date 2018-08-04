@@ -62,7 +62,8 @@ __Visa Regulations__ <br>
 |vienna,Austria||| <a href="https://en.wikipedia.org/wiki/Vienna">150-450 m</a>|
 |Luxamburg|||<a href="https://www.graphicmaps.com/luxembourg">32 m</a>|
 |Panama City|||2m|
-
+|Barcelona |||<a href="http://www.barcelona.climatemps.com/map.php">5m</a>|
+|Madrid |||<a href="http://www.floodmap.net/Elevation/ElevationMap/?gi=3117735">638 m</a>
  &nbsp;&nbsp;__Sun,Snow,Wind,Rain__ 
  &nbsp;&nbsp; __Beach,Lake,river__ <br>
  <h2> Food Taste and Health</h2>
