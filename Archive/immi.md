@@ -1,7 +1,13 @@
 <h1>Imigration </h1>
 <h2> Rules and regulations, Justice </h2>
 __Visa Regulations__ <br>
- &nbsp;&nbsp;<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> <br>
+|Country|citizenship conditions| visa type||
+|----|--------------------|----------|-----------|
+|<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a>|5 years(at least 8 month each)|||
+|Canada |3year stay|||
+|Panama |1years stay |||
+|Luxamburg||||
+
  __Visa free countries__ <br>
   &nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">New Zealand</a>,
   <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>,
