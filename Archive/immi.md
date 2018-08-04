@@ -7,7 +7,8 @@ __Visa Regulations__ <br>
 |-------|----------------------|---------------------|-----------|-----------|
 |<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> | <a href="https://www.govt.nz/browse/nz-passports-and-citizenship/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/">5 years(at least 8 month each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">U.S.,Erurope</a>|||
 |Canada |3year stay|||English,french|
-|Panama |$5,000 deposit in a Panamanian bank? +job ?||||
+|Panama |1000$ retiree income/moth+250$/month for spouse||||
+|Blize  |1years stay+fee: from $250 to $5,000 ||||
 |Luxamburg|<a href="https://en.wikipedia.org/wiki/Luxembourgish_nationality_law">5years (1st year uninterrupted ),Luxembourgish language exam</a>|||<a href="https://en.wikipedia.org/wiki/Languages_of_Luxembourg">French,Luxembourgish,German</a>|
 |  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>  | <a href="http://www.germany-visa.org/german-citizenship/">6+ years+Language proficiency</a>|||German|
 |<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">Finland</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 continuous years+600 Euro</a>|||Finish,Swedish|
