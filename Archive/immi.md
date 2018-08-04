@@ -1,11 +1,14 @@
 <h1>Imigration </h1>
  <h2>	Climate	    </h2>
-	
+
+|City |Temperature| Humidity | Elevation |
+|-----|-----------|----------|-----------|
+| Tehran   | <a href="https://www.google.com/search?num=100&ei=xMJiW9OpM4Lt6ASs-o2wAw&q=+temperature+graph+tehran&oq=+temperature+graph+tehran">(4-30 C)</a>           |          |           |
+| helsinki |<a href="https://www.holiday-weather.com/helsinki/averages/"> -7 to 17</a> | | |
+
  &nbsp;&nbsp; __Temprature__ :  
      
 > &nbsp;&nbsp;&nbsp;&nbsp;
-		<a href="https://www.google.com/search?num=100&ei=xMJiW9OpM4Lt6ASs-o2wAw&q=+temperature+graph+tehran&oq=+temperature+graph+tehran"> Tehran</a> (4-30 C),
-		<a href="https://www.holiday-weather.com/helsinki/averages/">helsinki</a>
 		canada: 
 		<a href="https://www.holiday-weather.com/vancouver/averages/">vancouver</a>
 		<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">Toronto</a>,
@@ -46,8 +49,8 @@
 	<a href="http://dateandtime.info/citycoordinates.php?id=2867714">Munich </a> (519 m) ,
 	Switzerland :<a href="https://en.wikipedia.org/wiki/List_of_European_cities_by_elevation">Bern</a>(540 m)
 	Austria : <a href="https://en.wikipedia.org/wiki/Vienna">vienna</a>(150-450 m)
-	<a href="https://www.graphicmaps.com/luxembourg">Luxamburg</a>(32 m)
-	
+	<a href="https://www.graphicmaps.com/luxembourg">Luxamburg</a>(32 m) ,
+	Panama City (2m)
  <br>
  &nbsp;&nbsp; __Pressure__  <br>
  &nbsp;&nbsp; __Sun,Snow,Wind,Rain__ <br>
