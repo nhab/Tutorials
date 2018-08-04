@@ -3,10 +3,10 @@
 
 |City |Temperature| Humidity | Elevation |
 |-----|-----------|----------|-----------|
-| Tehran   | <a href="https://www.google.com/search?num=100&ei=xMJiW9OpM4Lt6ASs-o2wAw&q=+temperature+graph+tehran&oq=+temperature+graph+tehran">4 to 30 C</a>           |          |           |
+| Tehran   | <a href="https://www.google.com/search?num=100&ei=xMJiW9OpM4Lt6ASs-o2wAw&q=+temperature+graph+tehran&oq=+temperature+graph+tehran">4 to 30 C</a>           |    <a href="https://www.weatheronline.co.uk/weather/maps/city?WMO=40754&CONT=asie&LAND=IR&ART=RLF&LEVEL=150"> (10%-25%) </a>       |           |
 | Helsinki |<a href="https://www.holiday-weather.com/helsinki/averages/"> -7 to 17 C</a> | | |
 | vancouver |<a href="https://www.holiday-weather.com/vancouver/averages/"> 4 to 17 C</a> | | |
-| Toronto |<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">  C</a> | | |
+| Toronto |<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">  C</a> | <a href="https://toronto.weatherstats.ca/charts/relative_humidity-hourly.html">(20-100%) </a> | |
 | Calgary |<a href="https://www.holiday-weather.com/calgary/averages/">-7 to 16 C</a> | | |
 | Quebec state |<a href="ttps://en.climate-data.org/region/62/#example0"> C</a> | | |
 | Coimbatore,India |<a href="https://en.climate-data.org/location/2788/"> C</a> | | |
@@ -19,8 +19,8 @@
 | Belfast |<a href="https://en.climate-data.org/location/6014/">4 to 15 C</a> | | |
 
  &nbsp;&nbsp; __Humidity__  <br>
- > <a href="https://www.weatheronline.co.uk/weather/maps/city?WMO=40754&CONT=asie&LAND=IR&ART=RLF&LEVEL=150"> Tehran </a>(10%-25%),
- <a href="https://toronto.weatherstats.ca/charts/relative_humidity-hourly.html">toronto</a>(20-100%) ,
+ >,
+ ,
  <a href="https://calgary.weatherstats.ca/charts/relative_humidity-hourly.html">Calgary</a>(40-60%) ,
  <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland </a>(85% Avg.) ,
  <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Kuala-Lumpur,Malaysia">Kuala lumpur</a>(80%) ,
