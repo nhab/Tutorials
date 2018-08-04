@@ -1,4 +1,36 @@
 <h1>Imigration </h1>
+<h2> Rules and regulations, Justice </h2>
+__Visa Regulations__ <br>
+ &nbsp;&nbsp;<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> <br>
+ __Visa free countries__ <br>
+  &nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">New Zealand</a>,
+  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>,
+  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">Finland</a>
+ <h3>Freedom and Rights</h2> 
+  &nbsp;&nbsp; __Political freedom__
+ <br>
+  &nbsp;&nbsp; __Religional freedom__
+ <br>
+ &nbsp;&nbsp; __Life stylefreedom__
+ <br>
+
+<h2> Pollution and security</h2>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.mpg.de/11583624/original-1508156177.jpg?t=eyJ3aWR0aCI6MTQwMCwib2JqX2lkIjoxMTU4MzYyNH0=--89a145434832f20e7ee237570e87985767547d5d"> Atomic pollution</a>
+  <br>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?num=100&ei=uz1jW_OnC8iSsAH0ta7AAw&q=ozone+layer+depletion+affected+areas&oq=ozone+layer+depletion+affected+areas">
+	Ozone Layer depletion</a> (UV Rediation) <br>
+	
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; include
+ <a href="http://www.wmo.int/pages/prog/arep/WMOAntarcticOzoneBulletins2016.html">Australia, New Zealand, Argentina and Chile and </a><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the future may extend over Alaska, Canada and parts of northern Europe
+  <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://archive.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home/Atmosphere-and-climate/ozone-hole.aspx">Ozone hole </a>,
+ <a href="https://www.google.com/search?biw=1366&bih=645&tbs=qdr%3Ay&tbm=isch&sa=1&ei=EUNjW4vxEYWVsAGzuJPoDw&q=Ozone+hole+map+&oq=Ozone+hole+map+">Ozone hole map</a>
+<br>
+<a href="https://www.google.com/search?q=broad-spectrum+sunscreens&oq=broad-spectrum+sunscreens&aqs=chrome..69i57j0l5.436j0j7&sourceid=chrome&ie=UTF-8"> for UV Protection see Sunscreen products</a>
+<br>
  <h2>	Climate	    </h2>
 
 |City |Temperature| Humidity | Elevation |
@@ -52,38 +84,7 @@ you may not need fund.
 &nbsp;&nbsp; __Savings Power__ <br>
 &nbsp;&nbsp; __Buying Power__ <br>
 
-<h2> Rules and regulations, Justice </h2>
-__Visa Regulations__ <br>
- &nbsp;&nbsp;<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> <br>
- __Visa free countries__ <br>
-  &nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">New Zealand</a>,
-  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>,
-  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">Finland</a>
- <h3>Freedom and Rights</h2> 
-  &nbsp;&nbsp; __Political freedom__
- <br>
-  &nbsp;&nbsp; __Religional freedom__
- <br>
- &nbsp;&nbsp; __Life stylefreedom__
- <br>
 
-<h2> Pollution </h2>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.mpg.de/11583624/original-1508156177.jpg?t=eyJ3aWR0aCI6MTQwMCwib2JqX2lkIjoxMTU4MzYyNH0=--89a145434832f20e7ee237570e87985767547d5d"> Atomic pollution</a>
-  <br>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?num=100&ei=uz1jW_OnC8iSsAH0ta7AAw&q=ozone+layer+depletion+affected+areas&oq=ozone+layer+depletion+affected+areas">
-	Ozone Layer depletion</a> (UV Rediation) <br>
-	
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; include
- <a href="http://www.wmo.int/pages/prog/arep/WMOAntarcticOzoneBulletins2016.html">Australia, New Zealand, Argentina and Chile and </a><br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the future may extend over Alaska, Canada and parts of northern Europe
-  <br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://archive.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home/Atmosphere-and-climate/ozone-hole.aspx">Ozone hole </a>,
- <a href="https://www.google.com/search?biw=1366&bih=645&tbs=qdr%3Ay&tbm=isch&sa=1&ei=EUNjW4vxEYWVsAGzuJPoDw&q=Ozone+hole+map+&oq=Ozone+hole+map+">Ozone hole map</a>
-<br>
-<a href="https://www.google.com/search?q=broad-spectrum+sunscreens&oq=broad-spectrum+sunscreens&aqs=chrome..69i57j0l5.436j0j7&sourceid=chrome&ie=UTF-8"> for UV Protection see Sunscreen products</a>
-<br>
 <h2> Language and communication </h2>
   <h2> Culture </h2>
   <h2> Security </h2>
