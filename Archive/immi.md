@@ -3,17 +3,18 @@
 
 __Visa Regulations__ <br>
 
-|Country|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>)citizenship conditions| Visa free countries |visa type  |  Language |
-|-------|----------------------|---------------------|-----------|-----------|
-|<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> | <a href="https://www.govt.nz/browse/nz-passports-and-citizenship/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/">5 years(at least 8 month each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">U.S.,Erurope</a>|||
-|Canada |<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility.html">1095 days during the five years right before the date you sign your application</a>|||English,french|
-|Panama |1000$ retiree income/moth+250$/month for spouse||||
-|Blize  |1years stay+fee: from $250 to $5,000 ||||
-|Luxamburg|<a href="https://en.wikipedia.org/wiki/Luxembourgish_nationality_law">5years (1st year uninterrupted ),Luxembourgish language exam</a>|||<a href="https://en.wikipedia.org/wiki/Languages_of_Luxembourg">French,Luxembourgish,German</a>|
-|  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>  | <a href="http://www.germany-visa.org/german-citizenship/">6+ years+Language proficiency</a>|||German|
-|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">Finland</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 continuous years+600 Euro</a>|||Finish,Swedish|
-|Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5Years of residency</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">187 country inccluding U.S., Europe</a>|||
- |Malaysia |<a href="https://www.justlanded.com/english/Malaysia/Malaysia-Guide/Visas-Permits/Malaysian-citizenship">10 years of stay after 12years of application</a>||||
+|Country|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>)citizenship conditions| Visa free countries |visa type  |  Language |Currency worth|
+|-------|----------------------|---------------------|-----------|-----------|----|
+|Iran  |||||<a href="https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y">Rial</a>|
+|<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> | <a href="https://www.govt.nz/browse/nz-passports-and-citizenship/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/">5 years(at least 8 month each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">U.S.,Erurope</a>||||
+|Canada |<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility.html">1095 days during the five years right before the date you sign your application</a>|||English,french||
+|Panama |1000$ retiree income/moth+250$/month for spouse|||||
+|Blize  |1years stay+fee: from $250 to $5,000 |||||
+|Luxamburg|<a href="https://en.wikipedia.org/wiki/Luxembourgish_nationality_law">5years (1st year uninterrupted ),Luxembourgish language exam</a>|||<a href="https://en.wikipedia.org/wiki/Languages_of_Luxembourg">French,Luxembourgish,German</a>||
+|  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>  | <a href="http://www.germany-visa.org/german-citizenship/">6+ years+Language proficiency</a>|||German||
+|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">Finland</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 continuous years+600 Euro</a>|||Finish,Swedish||
+|Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5Years of residency</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">187 country inccluding U.S., Europe</a>||||
+ |Malaysia |<a href="https://www.justlanded.com/english/Malaysia/Malaysia-Guide/Visas-Permits/Malaysian-citizenship">10 years of stay after 12years of application</a>|||||
  
  <h3>Freedom and Rights</h2> 
   &nbsp;&nbsp; __Political freedom__
