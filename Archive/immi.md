@@ -12,7 +12,7 @@ __Visa Regulations__ <br>
 |Luxamburg|<a href="https://en.wikipedia.org/wiki/Luxembourgish_nationality_law">5years (1st year uninterrupted ),Luxembourgish language exam</a>|||<a href="https://en.wikipedia.org/wiki/Languages_of_Luxembourg">French,Luxembourgish,German</a>|
 |  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>  | <a href="http://www.germany-visa.org/german-citizenship/">6+ years+Language proficiency</a>|||German|
 |<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">Finland</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 continuous years+600 Euro</a>|||Finish,Swedish|
-|Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5Years of residency</a>|<a href="https://en.wikipedia.org/wiki/File:Visa_requirements_for_Spanish_citizens.png">187 country inccluding U.S., Europe</a>|||
+|Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5Years of residency</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">187 country inccluding U.S., Europe</a>|||
  |Malaysia |<a href="https://www.justlanded.com/english/Malaysia/Malaysia-Guide/Visas-Permits/Malaysian-citizenship">10 years of stay after 12years of application</a>||||
  <h3>Freedom and Rights</h2> 
   &nbsp;&nbsp; __Political freedom__
