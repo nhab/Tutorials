@@ -3,7 +3,7 @@
 
 __Visa Regulations__ <br>
 
-|Country|citizenship conditions| Visa free countries |visa type  |  Language |
+|Country|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>)citizenship conditions| Visa free countries |visa type  |  Language |
 |-------|----------------------|---------------------|-----------|-----------|
 |<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> | <a href="https://www.govt.nz/browse/nz-passports-and-citizenship/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/">5 years(at least 8 month each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">U.S.,Erurope</a>|||
 |Canada |<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility.html">1095 days during the five years right before the date you sign your application</a>|||English,french|
