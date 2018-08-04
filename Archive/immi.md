@@ -1,7 +1,8 @@
 <h1>Imigration </h1>
-<h2> Rules and regulations, Justice </h2>
 
-__Visa Regulations__ <br>
+&nbsp;&nbsp;__Inflation rate__:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
+List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate">Chart</a> <br>
 
 |Country|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>)citizenship conditions| Visa free countries |visa type  |  Language |Currency/US$|
 |-------|----------------------|---------------------|-----------|-----------|----|
@@ -73,9 +74,6 @@ __Visa Regulations__ <br>
  <h2> Food /Water/Fruites Taste and Health</h2>
  <h2>Financial :</h2>
  
-&nbsp;&nbsp;__Inflation rate__:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
-List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate">Chart</a> <br>
 
 &nbsp;&nbsp; __Initial Expenses to immigrate/Proof of fund__:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Canada:
