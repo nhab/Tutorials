@@ -14,6 +14,7 @@ __Visa Regulations__ <br>
 |<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">Finland</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 continuous years+600 Euro</a>|||Finish,Swedish|
 |Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5Years of residency</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">187 country inccluding U.S., Europe</a>|||
  |Malaysia |<a href="https://www.justlanded.com/english/Malaysia/Malaysia-Guide/Visas-Permits/Malaysian-citizenship">10 years of stay after 12years of application</a>||||
+ 
  <h3>Freedom and Rights</h2> 
   &nbsp;&nbsp; __Political freedom__
  <br>
@@ -39,6 +40,7 @@ __Visa Regulations__ <br>
 <br>
 <a href="https://www.google.com/search?q=broad-spectrum+sunscreens&oq=broad-spectrum+sunscreens&aqs=chrome..69i57j0l5.436j0j7&sourceid=chrome&ie=UTF-8"> for UV Protection see Sunscreen products</a>
 <br>
+
  <h2>	Climate	    </h2>
 
 |City |Temperature| Humidity | Elevation |
@@ -64,9 +66,10 @@ __Visa Regulations__ <br>
 |Panama City|||2m|
 |Barcelona |||<a href="http://www.barcelona.climatemps.com/map.php">5m</a>|
 |Madrid |||<a href="http://www.floodmap.net/Elevation/ElevationMap/?gi=3117735">638 m</a>
+	
  &nbsp;&nbsp;__Sun,Snow,Wind,Rain__ 
  &nbsp;&nbsp; __Beach,Lake,river__ <br>
- <h2> Food Taste and Health</h2>
+ <h2> Food /Water/Fruites Taste and Health</h2>
  <h2>Financial :</h2>
  
  &nbsp;&nbsp; __Currency to u.s. dollar currencychart__:<br>
