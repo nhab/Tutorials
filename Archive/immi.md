@@ -65,7 +65,7 @@ __Visa Regulations__ <br>
 |Luxamburg|||<a href="https://www.graphicmaps.com/luxembourg">32 m</a>|
 |Panama City|||2m|
 |Barcelona |||<a href="http://www.barcelona.climatemps.com/map.php">5m</a>|
-|Madrid |||<a href="http://www.floodmap.net/Elevation/ElevationMap/?gi=3117735">638 m</a>
+|Madrid |<a href="https://www.holiday-weather.com/madrid/averages/"> 5-25 C </a>||<a href="http://www.floodmap.net/Elevation/ElevationMap/?gi=3117735">638 m</a>
 	
  &nbsp;&nbsp;__Sun,Snow,Wind,Rain__ 
  &nbsp;&nbsp; __Beach,Lake,river__ <br>
