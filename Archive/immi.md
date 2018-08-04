@@ -1,17 +1,17 @@
 <h1>Imigration </h1>
 <h2> Rules and regulations, Justice </h2>
 __Visa Regulations__ <br>
-|Country|citizenship conditions| visa type||
-|----|--------------------|----------|-----------|
-|<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a>|5 years(at least 8 month each)|||
+
+
+|Country|citizenship conditions| Visa free countries |visa type  |    
+|-------|----------------------|---------------------|-----------|
+|<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> | <a href="https://www.govt.nz/browse/nz-passports-and-citizenship/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/">5 years(at least 8 month each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">U.S.,Erurope</a>|||
 |Canada |3year stay|||
 |Panama |1years stay |||
 |Luxamburg||||
-
- __Visa free countries__ <br>
-  &nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">New Zealand</a>,
-  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>,
-  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">Finland</a>
+|  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">Germany</a>  ||||
+|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">Finland</a>||||
+ 
  <h3>Freedom and Rights</h2> 
   &nbsp;&nbsp; __Political freedom__
  <br>
