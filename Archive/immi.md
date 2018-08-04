@@ -7,26 +7,17 @@
 | Helsinki |<a href="https://www.holiday-weather.com/helsinki/averages/"> -7 to 17 C</a> | | |
 | vancouver |<a href="https://www.holiday-weather.com/vancouver/averages/"> 4 to 17 C</a> | | |
 | Toronto |<a href="https://www.google.com/search?num=100&ei=fsNiW63pO8rX6ASMzqLYAw&q=temperature+graph+toronto&oq=temperature+graph+toronto">  C</a> | <a href="https://toronto.weatherstats.ca/charts/relative_humidity-hourly.html">(20-100%) </a> | |
-| Calgary |<a href="https://www.holiday-weather.com/calgary/averages/">-7 to 16 C</a> | | |
+| Calgary |<a href="https://www.holiday-weather.com/calgary/averages/">-7 to 16 C</a> | <a href="https://calgary.weatherstats.ca/charts/relative_humidity-hourly.html">40-60% </a>| |
 | Quebec state |<a href="ttps://en.climate-data.org/region/62/#example0"> C</a> | | |
 | Coimbatore,India |<a href="https://en.climate-data.org/location/2788/"> C</a> | | |
 | Berlin,Germany |<a href="https://www.holiday-weather.com/berlin/averages/"> C</a> | | |
-| Auckland,New Zealand |<a href="https://en.climate-data.org/location/3605/">6-20 C</a> | | |
-| Wellington,New Zealand |<a href="https://en.climate-data.org/location/2/">10-20 C C</a> | | |
-| Kuala lumpur ,Malaysia  |<a href="https://www.holiday-weather.com/kuala_lumpur/averages"> C C</a> | | |
+| Auckland,New Zealand |<a href="https://en.climate-data.org/location/3605/">6-20 C</a> |  <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland 85% Avg.</a>| |
+| Wellington,New Zealand |<a href="https://en.climate-data.org/location/2/">10-20 C C</a> |  <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93439&CONT=nznz&LAND=NZ7&ART=RLF&LEVEL=150">60-90%</a>| |
+| Kuala lumpur ,Malaysia  |<a href="https://www.holiday-weather.com/kuala_lumpur/averages"> C C</a> |  <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Kuala-Lumpur,Malaysia">80%</a>| |
 |Penang,Malaysia  |<a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Penang,Malaysia">31-32 C C</a> | | |
 | Amsterdam |<a href="https://en.climate-data.org/location/3330/"> C</a> | | |
-| Belfast |<a href="https://en.climate-data.org/location/6014/">4 to 15 C</a> | | |
+| Belfast |<a href="https://en.climate-data.org/location/6014/">4 to 15 C</a> | <a href="https://weather-and-climate.com/average-monthly-Humidity-perc,belfast-gb,United-Kingdom">75-90</a> | |
 
- &nbsp;&nbsp; __Humidity__  <br>
- >,
- ,
- <a href="https://calgary.weatherstats.ca/charts/relative_humidity-hourly.html">Calgary</a>(40-60%) ,
- <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland </a>(85% Avg.) ,
- <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Kuala-Lumpur,Malaysia">Kuala lumpur</a>(80%) ,
- <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93439&CONT=nznz&LAND=NZ7&ART=RLF&LEVEL=150">Wellington</a>(60-90%) ,
- <a href="https://weather-and-climate.com/average-monthly-Humidity-perc,belfast-gb,United-Kingdom">Belfast</a>(75-90 C)
- <br>
  
  &nbsp;&nbsp; __Elevation above sea level (gravity)__ <br>
  > &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://dateandtime.info/citycoordinates.php?id=112931">Tehran</a>(1187m),
