@@ -10,25 +10,14 @@
 | Calgary |<a href="https://www.holiday-weather.com/calgary/averages/">-7 to 16 C</a> | | |
 | Quebec state |<a href="ttps://en.climate-data.org/region/62/#example0"> C</a> | | |
 | Coimbatore,India |<a href="https://en.climate-data.org/location/2788/"> C</a> | | |
+| Berlin,Germany |<a href="https://www.holiday-weather.com/berlin/averages/"> C</a> | | |
+| Auckland,New Zealand |<a href="https://en.climate-data.org/location/3605/">6-20 C</a> | | |
+| Wellington,New Zealand |<a href="https://en.climate-data.org/location/2/">10-20 C C</a> | | |
+| Kuala lumpur ,Malaysia  |<a href="https://www.holiday-weather.com/kuala_lumpur/averages"> C C</a> | | |
+|Penang,Malaysia  |<a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Penang,Malaysia">31-32 C C</a> | | |
+| Amsterdam |<a href="https://en.climate-data.org/location/3330/"> C</a> | | |
+| Belfast |<a href="https://en.climate-data.org/location/6014/">4 to 15 C</a> | | |
 
- &nbsp;&nbsp; __Temprature__ :  
-     
-> &nbsp;&nbsp;&nbsp;&nbsp;
-	
-		Germany:
-		<a href="https://www.holiday-weather.com/berlin/averages/">Berlin</a>
-		<br>
-		New Zealand :
-		<a href="https://en.climate-data.org/location/3605/">Auckland</a>(6-20 C) ,
-<a href="https://en.climate-data.org/location/2/"> Wellington </a> (10-20 C) ,
-	     Malaysia :
-	     <a href="https://www.holiday-weather.com/kuala_lumpur/averages/">Kuala lumpur </a>,
-	     <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Penang,Malaysia"> Penang</a>(31-32 C)
-	     <a href="https://en.climate-data.org/location/3330/"> Amsterdam </a> ,
-	     Irland :
-		<a href="https://en.climate-data.org/location/6014/">Belfast</a>(4-15 C)
-  <br>
-  
  &nbsp;&nbsp; __Humidity__  <br>
  > <a href="https://www.weatheronline.co.uk/weather/maps/city?WMO=40754&CONT=asie&LAND=IR&ART=RLF&LEVEL=150"> Tehran </a>(10%-25%),
  <a href="https://toronto.weatherstats.ca/charts/relative_humidity-hourly.html">toronto</a>(20-100%) ,
