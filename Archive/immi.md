@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
 List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate">Chart</a> <br>
 
-|Country|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>)citizenship conditions| Visa free countries |visa type  |  Language |Currency/US$|GDP|Exports|
+|Country|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>)citizenship conditions| Visa free U.S./Europe |visa type  |  Language |Currency/US$|GDP|Exports|
 |-------|----------------------|---------------------|-----------|-----------|----|-----|-----|
 |Iran  |||||<a href="https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y">Rial</a>(0.00001)|1,265 Trillion$|Oil|
 |<a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">New Zealand </a> | <a href="https://www.govt.nz/browse/nz-passports-and-citizenship/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/">5 years(at least 8 month each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">U.S.,Erurope,..</a>|||<a href="https://www.xe.com/currencycharts/?from=NZD&to=USD&view=1D">NZ Dollar</a>(0.67)|<a href="https://www.google.com/search?num=100&ei=gullW_34OMnD6QS2xa74CA&q=new+zealand+gdp&oq=New++gdp">$185 B</a>|<a href="https://globaledge.msu.edu/countries/new-zealand/tradestats">Diary,Food,wood</a>|
@@ -18,9 +18,10 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
  |Malaysia |<a href="https://www.justlanded.com/english/Malaysia/Malaysia-Guide/Visas-Permits/Malaysian-citizenship">10 years of stay after 12years of application</a>||||<a href="https://www.xe.com/currencycharts/?from=MYR&to=USD&view=10Y">MY Ringit</a>(0.25)||
  |China |||||<a href="https://www.xe.com/currencycharts/?from=USD&to=CNY&view=10Y">CN Yuan</a>(0.13)||
  | Irland ||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens">U.S. , Europe,Australia</a>|||||
+ |Ecuador|<a href="https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=https://www.cancilleria.gob.ec/obtencion-de-nacionalidad-ecuatoriana-mediante-carta-de-naturalizacion/&xid=17259,15700021,15700124,15700149,15700168,15700186,15700191,15700201,15700208&usg=ALkJrhguEYp7mmJGyyd-aHZgqXoilruutw">3 years stay(275 days each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens">No ,China,India</a>|||||
  |,Japan ,
  |Thailand ,
- |Ecuador,
+ 
  |Cyprus,
  |Morocco,
  |Taiwan,
