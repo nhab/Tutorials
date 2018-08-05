@@ -26,13 +26,14 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |Taiwan||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens">Yes,Even china</a>|||
 |HongKong||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong">Everywhere Except U.S.</a>|||
 |Denmark||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Danish_citizens">Yes</a>|||
- |Croatia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens">Canada,Europe</a>|||
- |Georgia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens">Eroupe,India</a>|||
- |Malta|||||
- |Netherland|||||
- |Italy|||||
- |Iceland|||||
-	|Armenia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens">No</a>|||
+|Croatia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens">Canada,Europe</a>|||
+|Georgia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens">Eroupe,India</a>|||
+|Malta|||||
+|Netherland|||||
+|Italy|||||
+|Iceland|||||
+|Armenia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens">No</a>|||
+ 
  <h3>Freedom and Rights</h2> 
   &nbsp;&nbsp; __Political freedom__
  <br>
