@@ -17,7 +17,7 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5Years of residency</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">187 country inccluding U.S., Europe</a>|||<a href="https://www.xe.com/currencycharts/?from=ESP&to=USD&view=10Y">ES Peseta</a>(0.007)||
  |Malaysia |<a href="https://www.justlanded.com/english/Malaysia/Malaysia-Guide/Visas-Permits/Malaysian-citizenship">10 years of stay after 12years of application</a>||||<a href="https://www.xe.com/currencycharts/?from=MYR&to=USD&view=10Y">MY Ringit</a>(0.25)||
  |China |||||<a href="https://www.xe.com/currencycharts/?from=USD&to=CNY&view=10Y">CN Yuan</a>(0.13)||
- | Irland 
+ | Irland ||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens">U.S. , Europe,Australia</a>|||||
  |,Japan ,
  |Thailand ,
  |Ecuador,
