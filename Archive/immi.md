@@ -12,6 +12,9 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |Irland |<a href="http://www.citizensinformation.ie/en/moving_country/irish_citizenship/becoming_an_irish_citizen_through_naturalisation.html">5</a>|out of 9 years</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens">YES</a>|English|<a href="https://www.xe.com/currencycharts/?from=IEP&to=USD&view=10Y">Irish pound</a>(1.5)||
 |Malta|<a href="https://integration.gov.mt/en/ResidenceAndVisas/Pages/Citizenship.aspx">5</a>||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Maltese_citizens">YES</a>|<a href="https://en.wikipedia.org/wiki/Languages_of_Malta">Maltese,English</a>|Euro|
 |Netherland|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens">YES</a>|Dutch,English||
+|Switzerland|||||
+|Sweden|||||
+|Norway|||||
 |Austia||||German,English||
 |Luxembourg |<a href="https://en.wikipedia.org/wiki/Luxembourgish_nationality_law">5</a> |language exam |<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Luxembourgish_citizens">YES</a>|<a href="https://en.wikipedia.org/wiki/Languages_of_Luxembourg">Luxembourgish</a>|<a href="https://www.xe.com/currencycharts/?from=LUF&to=USD&view=5Y">LUF</a>(0.28)||
 |Germany | <a href="http://www.germany-visa.org/german-citizenship/">6</a> |Language proficiency|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">YES</a>|German|<a href="https://www.xe.com/currencycharts/?from=DEM&to=USD&view=5Y">DE Mark</a>(0.6)||
@@ -77,6 +80,9 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 | Munich ||| <a href="http://dateandtime.info/citycoordinates.php?id=2867714">519 m </a> |
 | Auckland,New Zealand |<a href="https://en.climate-data.org/location/3605/">6-20 C</a> |  <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland 85% Avg.</a>| |
 | Wellington,New Zealand |<a href="https://en.climate-data.org/location/2/">10-20 C C</a> |  <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93439&CONT=nznz&LAND=NZ7&ART=RLF&LEVEL=150">60-90%</a>|<a href="http://dateandtime.info/citycoordinates.php?id=2179537">31 m </a> |
+|Bern,Switzerland|||<a href="http://www.floodmap.net/Elevation/ElevationMap/?gi=2661552">527</a>
+|Zurich,switzerland |||<a href="http://www.floodmap.net/Elevation/ElevationMap/?gi=2657896">472m</a>|
+|Geneve|||<a href="http://www.floodmap.net/Elevation/ElevationMap/?gi=2660646">375m</a>	
 | Kuala lumpur ,Malaysia  |<a href="https://www.holiday-weather.com/kuala_lumpur/averages"> C C</a> |  <a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Kuala-Lumpur,Malaysia">80%</a>|   <a href="http://dateandtime.info/citycoordinates.php?id=1735161">56m </a>|
 |Penang,Malaysia  |<a href="https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Penang,Malaysia">31-32 C C</a> | | |
 | Amsterdam |<a href="https://en.climate-data.org/location/3330/"> C</a> | | |
