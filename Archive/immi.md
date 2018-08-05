@@ -72,7 +72,7 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 | Calgary |<a href="https://www.holiday-weather.com/calgary/averages/">-7 to 16 C</a> | <a href="https://calgary.weatherstats.ca/charts/relative_humidity-hourly.html">40-60% </a>| |
 | Quebec state |<a href="ttps://en.climate-data.org/region/62/#example0"> C</a> | | |
 | Coimbatore,India |<a href="https://en.climate-data.org/location/2788/"> C</a> | | |
-| Vienna, Austria ||<a href="http://www.vienna.climatemps.com/map.php">200m</a>||
+| Vienna, Austria |||<a href="http://www.vienna.climatemps.com/map.php">200m</a>|
 | Berlin,Germany |<a href="https://www.holiday-weather.com/berlin/averages/"> C</a> | |<a href="http://dateandtime.info/citycoordinates.php?id=2950159">(43 m)</a>  |
 | Munich ||| <a href="http://dateandtime.info/citycoordinates.php?id=2867714">519 m </a> |
 | Auckland,New Zealand |<a href="https://en.climate-data.org/location/3605/">6-20 C</a> |  <a href="https://www.weatheronline.co.nz/weather/maps/city?WMO=93110&CONT=nznz&LAND=NZ8&ART=RLF&LEVEL=150">Auckland 85% Avg.</a>| |
