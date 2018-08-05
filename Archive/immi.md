@@ -19,8 +19,9 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |China ||NO||<a href="https://www.xe.com/currencycharts/?from=USD&to=CNY&view=10Y">CN Yuan</a>(0.13)||
 |Ecuador|<a href="https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=https://www.cancilleria.gob.ec/obtencion-de-nacionalidad-ecuatoriana-mediante-carta-de-naturalizacion/&xid=17259,15700021,15700124,15700149,15700168,15700186,15700191,15700201,15700208&usg=ALkJrhguEYp7mmJGyyd-aHZgqXoilruutw">3 years stay(275 days each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens">No ,China,India</a>||||
 |Belize  |1years stay+fee: from $250 to $5,000 |<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Belizean_citizens">No</a>||<a href="https://www.xe.com/currencycharts/?from=BZD&to=USD&view=5Y">Belize $</a>(0.5)||
+|Thailand |<a href="https://www.justlanded.com/english/Thailand/Thailand-Guide/Visas-Permits/Thai-Citizenship">5 years+ tail lang</a>||||
 |,Japan ,
-|Thailand ,
+
  
  |Cyprus,
  |Morocco,
