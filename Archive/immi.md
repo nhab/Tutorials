@@ -17,6 +17,10 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5Years of residency</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">YES</a>||<a href="https://www.xe.com/currencycharts/?from=ESP&to=USD&view=10Y">ES Peseta</a>(0.007)||
 |Denmark||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Danish_citizens">Yes</a>|||
 |Japan ||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Japanese_citizens">YES</a>|||
+|Malta||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Maltese_citizens">YES</a>|||
+|Netherland||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens">YES</a>|||
+|Italy||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Italian_citizens">YES</a>|||
+|Iceland||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Icelandic_citizens">YES,/a>|Icelandic||
 |Cyprus||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Cypriot_citizens">Canada,Europe|||
 |Croatia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens">Canada,Europe</a>|||
 |HongKong||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong">Everywhere Except U.S.</a>|||
@@ -26,11 +30,7 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |China ||NO||<a href="https://www.xe.com/currencycharts/?from=USD&to=CNY&view=10Y">CN Yuan</a>(0.13)||
 |Ecuador|<a href="https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=https://www.cancilleria.gob.ec/obtencion-de-nacionalidad-ecuatoriana-mediante-carta-de-naturalizacion/&xid=17259,15700021,15700124,15700149,15700168,15700186,15700191,15700201,15700208&usg=ALkJrhguEYp7mmJGyyd-aHZgqXoilruutw">3 years stay(275 days each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens">No ,China,India</a>||||
 |Belize  |1years stay|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Belizean_citizens">No</a>||<a href="https://www.xe.com/currencycharts/?from=BZD&to=USD&view=5Y">Belize $</a>(0.5)||
-|Thailand |<a href="https://www.justlanded.com/english/Thailand/Thailand-Guide/Visas-Permits/Thai-Citizenship">5 years+ tail lang</a>||||
-|Malta|||||
-|Netherland|||||
-|Italy|||||
-|Iceland|||||
+|Thailand |<a href="https://www.justlanded.com/english/Thailand/Thailand-Guide/Visas-Permits/Thai-Citizenship">5 years+ tail lang</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens">No</a>|||
 |Armenia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens">No</a>|||
 |Morocco||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens">No</a>|||
 	
