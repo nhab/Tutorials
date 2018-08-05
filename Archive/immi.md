@@ -14,14 +14,14 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |Finland<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">*</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 continuous years+600 Euro</a>|YES|Finish,Swedish|<a href="https://www.xe.com/currencycharts/?from=FIM&to=USD&view=5Y">FI Marka</a>(0.2)||
 |Irland |<a href="http://www.citizensinformation.ie/en/moving_country/irish_citizenship/becoming_an_irish_citizen_through_naturalisation.html">5 out of 9 years stay </a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens">YES</a>|English|<a href="https://www.xe.com/currencycharts/?from=IEP&to=USD&view=10Y">Irish pound</a>||
 |Taiwan||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens">Yes,Even china</a>|||
-|HongKong||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong">Everywhere Except U.S.</a>|||
+|Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5Years of residency</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">YES</a>||<a href="https://www.xe.com/currencycharts/?from=ESP&to=USD&view=10Y">ES Peseta</a>(0.007)||
 |Denmark||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Danish_citizens">Yes</a>|||
 |Japan ||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Japanese_citizens">YES</a>|||
 |Cyprus||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Cypriot_citizens">Canada,Europe|||
 |Croatia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens">Canada,Europe</a>|||
+|HongKong||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong">Everywhere Except U.S.</a>|||
 |Georgia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens">Eroupe,India</a>|||
 |Panama |1250$ retiree income/month|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens">Europe</a>||US$| $44 B|<a href="https://en.wikipedia.org/wiki/Economy_of_Panama">Antibitics,Fuel</a>|
-|Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5Years of residency</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">YES</a>||<a href="https://www.xe.com/currencycharts/?from=ESP&to=USD&view=10Y">ES Peseta</a>(0.007)||
 |Malaysia |<a href="https://www.justlanded.com/english/Malaysia/Malaysia-Guide/Visas-Permits/Malaysian-citizenship">10 years of stay after 12years of application</a>|||<a href="https://www.xe.com/currencycharts/?from=MYR&to=USD&view=10Y">MY Ringit</a>(0.25)||
 |China ||NO||<a href="https://www.xe.com/currencycharts/?from=USD&to=CNY&view=10Y">CN Yuan</a>(0.13)||
 |Ecuador|<a href="https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=https://www.cancilleria.gob.ec/obtencion-de-nacionalidad-ecuatoriana-mediante-carta-de-naturalizacion/&xid=17259,15700021,15700124,15700149,15700168,15700186,15700191,15700201,15700208&usg=ALkJrhguEYp7mmJGyyd-aHZgqXoilruutw">3 years stay(275 days each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens">No ,China,India</a>||||
