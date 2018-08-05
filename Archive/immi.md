@@ -12,12 +12,12 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |Panama |1000$ retiree income/moth+250$/month for spouse||||US$| $44 B|<a href="https://en.wikipedia.org/wiki/Economy_of_Panama">Antibitics,Fuel</a>|
 |Blize  |1years stay+fee: from $250 to $5,000 ||||<a href="https://www.xe.com/currencycharts/?from=BZD&to=USD&view=5Y">Belize $</a>(0.5)||
 |Luxamburg|<a href="https://en.wikipedia.org/wiki/Luxembourgish_nationality_law">5years +Luxembourgish language exam</a>|||<a href="https://en.wikipedia.org/wiki/Languages_of_Luxembourg">Luxembourgish</a>|<a href="https://www.xe.com/currencycharts/?from=LUF&to=USD&view=5Y">LUF</a>(0.28)||
-|Germany  <a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">*</a>  | <a href="http://www.germany-visa.org/german-citizenship/">6+ years+Language proficiency</a>|YES||German|<a href="https://www.xe.com/currencycharts/?from=DEM&to=USD&view=5Y">DE Mark</a>(0.6)||
+|Germany | <a href="http://www.germany-visa.org/german-citizenship/">6+ years+Language proficiency</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">YES</a>||German|<a href="https://www.xe.com/currencycharts/?from=DEM&to=USD&view=5Y">DE Mark</a>(0.6)||
 |Finland<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">*</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 continuous years+600 Euro</a>|||Finish,Swedish|<a href="https://www.xe.com/currencycharts/?from=FIM&to=USD&view=5Y">FI Marka</a>(0.2)||
 |Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5Years of residency</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">187 country inccluding U.S., Europe</a>|||<a href="https://www.xe.com/currencycharts/?from=ESP&to=USD&view=10Y">ES Peseta</a>(0.007)||
 |Malaysia |<a href="https://www.justlanded.com/english/Malaysia/Malaysia-Guide/Visas-Permits/Malaysian-citizenship">10 years of stay after 12years of application</a>||||<a href="https://www.xe.com/currencycharts/?from=MYR&to=USD&view=10Y">MY Ringit</a>(0.25)||
 |China |||||<a href="https://www.xe.com/currencycharts/?from=USD&to=CNY&view=10Y">CN Yuan</a>(0.13)||
-| Irland ||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens">U.S. , Europe,Australia</a>|||||
+|Irland ||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens">YES</a>|||||
 |Ecuador|<a href="https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=https://www.cancilleria.gob.ec/obtencion-de-nacionalidad-ecuatoriana-mediante-carta-de-naturalizacion/&xid=17259,15700021,15700124,15700149,15700168,15700186,15700191,15700201,15700208&usg=ALkJrhguEYp7mmJGyyd-aHZgqXoilruutw">3 years stay(275 days each)</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens">No ,China,India</a>|||||
 |,Japan ,
 |Thailand ,
