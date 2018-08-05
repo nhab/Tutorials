@@ -17,7 +17,7 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5</a>||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">YES</a>||<a href="https://www.xe.com/currencycharts/?from=ESP&to=USD&view=10Y">ES Peseta</a>(0.007)||
 |Denmark|<a href="https://www.justlanded.com/english/Denmark/Denmark-Guide/Visas-Permits/Citizenship">9 </a>||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Danish_citizens">Yes</a>|||
 |Japan |<a href="https://www.wikihow.com/Become-a-Japanese-Citizen">5</a>||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Japanese_citizens">YES</a>|||
-|Malta|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Maltese_citizens">YES</a>|||
+|Malta|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Maltese_citizens">YES</a>|<a href="https://en.wikipedia.org/wiki/Languages_of_Malta">Maltese,English</a>||
 |Netherland|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens">YES</a>|||
 |Italy|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Italian_citizens">YES</a>|||
 |Iceland|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Icelandic_citizens">YES,</a>|Icelandic||
