@@ -25,7 +25,6 @@ Czech Republic||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Cze
 Bulgaria||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Bulgarian_citizens">No</a>|||
 Croatia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens">No</a>|||
 Republic of Cyprus||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Cypriot_citizens">No</a>|||
-
 Estonia|||||
 Greece|||||
 Hungary|||||
