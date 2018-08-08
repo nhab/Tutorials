@@ -12,19 +12,20 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |Irland |<a href="http://www.citizensinformation.ie/en/moving_country/irish_citizenship/becoming_an_irish_citizen_through_naturalisation.html">5</a>|out of 9 years</a>|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens">YES</a>|English|<a href="https://www.xe.com/currencycharts/?from=IEP&to=USD&view=10Y">Irish pound</a>(1.5)||
 |Malta|<a href="https://integration.gov.mt/en/ResidenceAndVisas/Pages/Citizenship.aspx">5</a>||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Maltese_citizens">YES</a>|<a href="https://en.wikipedia.org/wiki/Languages_of_Malta">Maltese,English</a>|Euro|
 |Netherland|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens">YES</a>|Dutch,English||
-|Switzerland|||||
-|Sweden|||||
-|Norway|||||
+|Switzerland||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Swiss_citizens">YES</a>|||
+|Sweden||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens">Yes</a>|||
+|Norway||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Norwegian_citizens">yes</a>|||
+Belgium|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_citizens">Yes+</a>||
 |Luxembourg |<a href="https://en.wikipedia.org/wiki/Luxembourgish_nationality_law">5</a> |language exam |<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Luxembourgish_citizens">YES</a>|<a href="https://en.wikipedia.org/wiki/Languages_of_Luxembourg">Luxembourgish</a>|<a href="https://www.xe.com/currencycharts/?from=LUF&to=USD&view=5Y">LUF</a>(0.28)||
 |Germany | <a href="http://www.germany-visa.org/german-citizenship/">6</a> |Language proficiency|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">YES</a>|German|<a href="https://www.xe.com/currencycharts/?from=DEM&to=USD&view=5Y">DE Mark</a>(0.6)||
 |Finland<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">*</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 </a>|600 Euro|YES|Finish,Swedish|<a href="https://www.xe.com/currencycharts/?from=FIM&to=USD&view=5Y">FI Marka</a>(0.2)||
 |England |<a href="https://iasservices.org.uk/indefinite-leave-to-remain/apply-for-indefinite-leave-to-remain/">5</a> ||||
-Belgium|||||
-France|||||
-Bulgaria|||||
-Croatia|||||
-Republic of Cyprus|||||
-Czech Republic|||||
+France||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens">Yes</a>|||
+Czech Republic||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens">YES</a>|||
+Bulgaria||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Bulgarian_citizens">No</a>|||
+Croatia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens">No</a>|||
+Republic of Cyprus||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Cypriot_citizens">No</a>|||
+
 Estonia|||||
 Greece|||||
 Hungary|||||
