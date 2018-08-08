@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
 List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate">Chart</a> <br>
 
-|Country|Years 2 citizenship|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>) citizenships other conditions| Visa free U.S./Europe   |  Language |Currency/US$|GDP|Exports|
+|Country|Years 2 citizenship|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>) citizenships other conditions|Estonia U.S./Europe   |  Language |Currency/US$|GDP|Exports|
 |-------|---------|-------------|---------------------|-----------|----|-----|-----|
 |Iran  |||||<a href="https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y">Rial</a>(0.00001)|<a href="https://tradingeconomics.com/iran/gdp">400 billion$</a>|Oil|
 |New Zealand  <a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">* </a> | <a href="https://www.govt.nz/browse/nz-passports-and-citizenship/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/">5 </a>|8 month/year|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">YES</a>|English|<a href="https://www.xe.com/currencycharts/?from=NZD&to=USD&view=1D">NZ Dollar</a>(0.67)|<a href="https://www.google.com/search?num=100&ei=gullW_34OMnD6QS2xa74CA&q=new+zealand+gdp&oq=New++gdp">$185 B</a>|<a href="https://globaledge.msu.edu/countries/new-zealand/tradestats">Diary,Food,wood</a>|
@@ -20,21 +20,21 @@ Belgium|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_c
 |Germany | <a href="http://www.germany-visa.org/german-citizenship/">6</a> |Language proficiency|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">YES</a>|German|<a href="https://www.xe.com/currencycharts/?from=DEM&to=USD&view=5Y">DE Mark</a>(0.6)||
 |Finland<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">*</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 </a>|600 Euro|YES|Finish,Swedish|<a href="https://www.xe.com/currencycharts/?from=FIM&to=USD&view=5Y">FI Marka</a>(0.2)||
 |England |<a href="https://iasservices.org.uk/indefinite-leave-to-remain/apply-for-indefinite-leave-to-remain/">5</a> ||||
-France||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens">Yes</a>|||
-Czech Republic||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens">YES</a>|||
-Bulgaria||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Bulgarian_citizens">No</a>|||
-Croatia||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens">No</a>|||
-Republic of Cyprus||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Cypriot_citizens">No</a>|||
-Estonia|||||
-Greece|||||
-Hungary|||||
-Latvia|||||
-Lithuania|||||
-Poland|||||
-Portugal|||||
-Romania|||||
-Slovakia|||||
-Slovenia|||||
+|France|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens">Yes</a>||
+|Czech Republic|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens">YES</a>||
+|Estonia|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Estonian_citizens">yes</a>||
+|Bulgaria|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Bulgarian_citizens">No</a>||
+|Croatia|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens">No</a>||
+|Republic of Cyprus|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Cypriot_citizens">No</a>||
+|Greece|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Greek_citizens">Yes</a>||
+|Hungary|||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Hungarian_citizens">ye</a>||
+|Latvia|||||
+|Lithuania|||||
+|Poland|||||
+|Portugal|||||
+|Romania|||||
+|Slovakia|||||
+|Slovenia|||||
 |Austia|<a href="https://www.migration.gv.at/en/living-and-working-in-austria/integration-and-citizenship/citizenship/">10</a>|German lang.||German,English||
 |Taiwan|<a href="https://en.wikipedia.org/wiki/Nationality_law_of_Taiwan">5 </a>|Dual|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens">Yes,Even china</a>|<a href="https://en.wikipedia.org/wiki/Languages_of_Taiwan">Chines manderin</a>||
 |Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5</a>||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">YES</a>||<a href="https://www.xe.com/currencycharts/?from=ESP&to=USD&view=10Y">ES Peseta</a>(0.007)||
