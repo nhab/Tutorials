@@ -15,10 +15,27 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |Switzerland|||||
 |Sweden|||||
 |Norway|||||
-|Austia|<a href="https://www.migration.gv.at/en/living-and-working-in-austria/integration-and-citizenship/citizenship/">10</a>|German lang.||German,English||
 |Luxembourg |<a href="https://en.wikipedia.org/wiki/Luxembourgish_nationality_law">5</a> |language exam |<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Luxembourgish_citizens">YES</a>|<a href="https://en.wikipedia.org/wiki/Languages_of_Luxembourg">Luxembourgish</a>|<a href="https://www.xe.com/currencycharts/?from=LUF&to=USD&view=5Y">LUF</a>(0.28)||
 |Germany | <a href="http://www.germany-visa.org/german-citizenship/">6</a> |Language proficiency|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">YES</a>|German|<a href="https://www.xe.com/currencycharts/?from=DEM&to=USD&view=5Y">DE Mark</a>(0.6)||
 |Finland<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">*</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 </a>|600 Euro|YES|Finish,Swedish|<a href="https://www.xe.com/currencycharts/?from=FIM&to=USD&view=5Y">FI Marka</a>(0.2)||
+|England |<a href="https://iasservices.org.uk/indefinite-leave-to-remain/apply-for-indefinite-leave-to-remain/">5</a> ||||
+Belgium|||||
+France|||||
+Bulgaria|||||
+Croatia|||||
+Republic of Cyprus|||||
+Czech Republic|||||
+Estonia|||||
+Greece|||||
+Hungary|||||
+Latvia|||||
+Lithuania|||||
+Poland|||||
+Portugal|||||
+Romania|||||
+Slovakia|||||
+Slovenia|||||
+|Austia|<a href="https://www.migration.gv.at/en/living-and-working-in-austria/integration-and-citizenship/citizenship/">10</a>|German lang.||German,English||
 |Taiwan|<a href="https://en.wikipedia.org/wiki/Nationality_law_of_Taiwan">5 </a>|Dual|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens">Yes,Even china</a>|<a href="https://en.wikipedia.org/wiki/Languages_of_Taiwan">Chines manderin</a>||
 |Spain |<a href="https://www.expatica.com/new/es/moving/citizenship/spain-citizenship-107634/">5</a>||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens">YES</a>||<a href="https://www.xe.com/currencycharts/?from=ESP&to=USD&view=10Y">ES Peseta</a>(0.007)||
 |Denmark|<a href="https://www.justlanded.com/english/Denmark/Denmark-Guide/Visas-Permits/Citizenship">9 </a>||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Danish_citizens">Yes</a>|||
