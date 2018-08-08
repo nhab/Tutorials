@@ -15,7 +15,7 @@ List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate"
 |Switzerland|||||
 |Sweden|||||
 |Norway|||||
-|Austia||||German,English||
+|Austia|<a href="https://www.migration.gv.at/en/living-and-working-in-austria/integration-and-citizenship/citizenship/">10</a>|German lang.||German,English||
 |Luxembourg |<a href="https://en.wikipedia.org/wiki/Luxembourgish_nationality_law">5</a> |language exam |<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Luxembourgish_citizens">YES</a>|<a href="https://en.wikipedia.org/wiki/Languages_of_Luxembourg">Luxembourgish</a>|<a href="https://www.xe.com/currencycharts/?from=LUF&to=USD&view=5Y">LUF</a>(0.28)||
 |Germany | <a href="http://www.germany-visa.org/german-citizenship/">6</a> |Language proficiency|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens">YES</a>|German|<a href="https://www.xe.com/currencycharts/?from=DEM&to=USD&view=5Y">DE Mark</a>(0.6)||
 |Finland<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens">*</a>|<a href="https://migri.fi/en/permanent-residence-permit">4 </a>|600 Euro|YES|Finish,Swedish|<a href="https://www.xe.com/currencycharts/?from=FIM&to=USD&view=5Y">FI Marka</a>(0.2)||
