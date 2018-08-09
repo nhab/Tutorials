@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?q=countries+inflation+rate&ie=utf-8&oe=utf-8&client=firefox-b-ab">
 List	</a>   , <a href="https://tradingeconomics.com/country-list/inflation-rate">Chart</a> <br>
 
-|Country|Proof of fund for work|Years 2 citizenship|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>) citizenships other conditions|Estonia U.S./Europe   |  Language |Currency/US$|GDP/capita|Exports|
+|Country|Proof of fund for work|Years to citizenship|(<a href="https://www.google.com/search?num=100&ei=9rJlW429KIvNjgTr16qYCA&q=dual++citizenship&oq=dual++citizenship">dual</a>) citizenships other conditions|Estonia U.S./Europe   |  Language |Currency/US$|GDP/capita|Exports|
 |-------|----|-----|-------------|---------------------|-----------|----|-----|-----|
 |Iran  ||||||<a href="https://www.xe.com/currencycharts/?from=IRR&to=USD&view=10Y">Rial</a>(0.00001)|<a href="https://tradingeconomics.com/iran/gdp">400 billion$</a>|Oil|
 |New Zealand  <a href="https://www.immigration.govt.nz/new-zealand-visas/options/live-permanently">* </a> | |<a href="https://www.govt.nz/browse/nz-passports-and-citizenship/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/">5 </a>|8 month/year|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens">YES</a>|English|<a href="https://www.xe.com/currencycharts/?from=NZD&to=USD&view=1D">NZ Dollar</a>(0.67)|<a href="https://tradingeconomics.com/new-zealand/gdp-per-capita">$40k</a>|<a href="https://globaledge.msu.edu/countries/new-zealand/tradestats">Diary,Food,wood</a>|
@@ -54,7 +54,7 @@ Belgium||||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_
 |Thailand| |<a href="https://www.justlanded.com/english/Thailand/Thailand-Guide/Visas-Permits/Thai-Citizenship">5</a>|  tail lang|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens">No</a>|||
 |Armenia||||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens">No</a>|||
 |Morocco||||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens">No</a>|||
-|United Arab Emirates||||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens">canada,Europe</a>|||
+	|United Arab Emirates||<a href="https://en.wikipedia.org/wiki/Emirati_nationality_law">30</a>||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens">canada,Europe</a>|||
  <h3>Freedom and Rights</h2> 
   &nbsp;&nbsp; __Political freedom__
  <br>
