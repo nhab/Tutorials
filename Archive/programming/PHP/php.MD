@@ -209,6 +209,8 @@ Global variables:
         }
 ```
 ##Forms
+
+
   A Simple HTML Form
 ```HTML
       
@@ -326,3 +328,4 @@ Global variables:
                         $conn = null;
                         ?> 
 ```
+
