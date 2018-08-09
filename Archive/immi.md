@@ -54,7 +54,7 @@ Belgium||||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_
 |Thailand| |<a href="https://www.justlanded.com/english/Thailand/Thailand-Guide/Visas-Permits/Thai-Citizenship">5</a>|  tail lang|<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens">No</a>|||
 |Armenia||||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens">No</a>|||
 |Morocco||||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens">No</a>|||
-	
+|United Arab Emirates||||<a href="https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens">canada,Europe</a>|||
  <h3>Freedom and Rights</h2> 
   &nbsp;&nbsp; __Political freedom__
  <br>
