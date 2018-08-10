@@ -1,18 +1,24 @@
 ```javascript
 :what is a high-level, dynamic, untyped, and interpreted programming language.
-:proc
-    refrencing
-        :x: a code example:
+<h1>procedure</h1>
+    <h2>refrencing</h2>
+         code example:
+```javascript
             //save the code as  file:test.html 
             <script type="text/javascript">
                 document.write ( new Date() );
             </script>
-
-        :x: including a file
+```
+   <h2> including a file</h2>
+```html
             <script type='text/javascript' src='Script1.js'></script>
-        :x from another js file :
-                put all the code using the remote library in the callback function. For example:
+```
+   <h2>Including from another js file :</h2>
+                put all the code using the remote library in the callback function.
+               
+  For example:
 
+```javascript
             function loadScript(url, callback)
             {
                 // Adding the script tag to the head as suggested before
@@ -42,7 +48,7 @@
             loadScript("my_lovely_script.js", myPrettyCode);
 
             Note that the script may execute after the DOM has loaded, or before, depending on the browser and whether you included the line script.async = false;
-
+```
     passing by reference parameter to function
         it can be implemented by passing object to function as parameter
     events		
