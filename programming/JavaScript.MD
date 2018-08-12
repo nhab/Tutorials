@@ -526,13 +526,14 @@ function connect(hostname, port, method) {
 
  <h3>       Closures</h3>
 
-            :A "closure" is an inner function that has access to the outer function’s variables (and  parameters). 
+ :A "closure" is an inner function that has access to the outer function’s variables (and  parameters). 
 
-            Creating:
+ Creating:
 
-                -You create a closure by adding a function inside another function.
+     -You create a closure by adding a function inside another function.
 
-                Example:
+ Example:
+ 
 ```javascript
  function showName (firstName, lastName) {
 
@@ -551,8 +552,9 @@ function connect(hostname, port, method) {
  }
 
  showName ("Michael", "Jackson"); //# Your name is Michael Jackson
- 
- <h2>       Important ready Functions</h2>
+```
+
+<h2>       Important ready Functions</h2>
  
  -getElementById
  -querySelector
@@ -562,6 +564,7 @@ function connect(hostname, port, method) {
         
 
  <h2>   Arrays </h2>
+ 
     (var ar = [];)
         :PROC (methods / properties)
             defining an  array
