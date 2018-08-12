@@ -59,6 +59,7 @@ Then you run all that:
  it can be implemented by passing object to function as parameter
  <h2>   events	</h2>	
    Example:
+
 ```html
 <script type="text/javascript">
 function checkRange(t,low,high) {
@@ -71,19 +72,20 @@ function checkRange(t,low,high) {
     <input type=text name=number size=10 onBlur="checkRange(this.value,1000,2000);">
 </form>
 ```
+
 <h2>'this' keyword</h2>
         you can use'this'  within a method to refer to the current object.
         accessing form elements by 'this'
             you could call validate in each form element's ' onchange event handler, using this to pass it the element, as in the following example:
 ```html
-            <input type="text" name="age" size="3"
-                onChange="validate(this, 18, 99)">
-            which
-                function validate(obj, lowval, hival) {
-                    if ((obj.value < lowval) || (obj.value > hival)) {
-                        alert("Invalid Value!");
-                    }
-                }
+ <input type="text" name="age" size="3"
+     onChange="validate(this, 18, 99)">
+ which
+     function validate(obj, lowval, hival) {
+         if ((obj.value < lowval) || (obj.value > hival)) {
+             alert("Invalid Value!");
+         }
+     }
  ```
 <h2> inheritance: </h2>
         is prototype-based:
@@ -108,24 +110,25 @@ alert(rabbit.eats) // true
         dispatchEvent is equivalent of raisevent in vb
 
 Example
+
 ```javascript
-            //in the function you want raise event,you call dispatchevent:
-                x.onchange=function()
-                {
-                    x2.innerHTML=x.value;
-                    
-                    var event = new Event('chang');  // (*)
-                    x.dispatchEvent(event);	
-                }
-                return x;
-            ............................
-            //in the place you want to use it,call addEventListener:
-            // Listen for the event.
-                ra.addEventListener('chang', function (e) {
-                // e.target matches elem
-                    alert(e.target);
-                    console.log(e);
-                }, false);
+ //in the function you want raise event,you call dispatchevent:
+ x.onchange=function()
+ {
+      x2.innerHTML=x.value;
+
+      var event = new Event('chang');  // (*)
+      x.dispatchEvent(event);	
+ }
+ return x;
+ ............................
+ //in the place you want to use it,call addEventListener:
+ // Listen for the event.
+  ra.addEventListener('chang', function (e) {
+  // e.target matches elem
+      alert(e.target);
+      console.log(e);
+  }, false);
 ```
 
 <h2>responsive pages</h2>
@@ -134,26 +137,25 @@ Example
         to make it look good on any screen(desktops, tablets, and phones)
         
  Example
- ```html
-            <!DOCTYPE html>
-            <html lang="en-us">
-            <head>
-            <style>
-            .city {
-            float: left;
-            margin: 10px;
-            padding: 10p;
-            max-width: 300px;
-            height: 300px;
-            border: 1px solid black;
-            }   
-            </style>
-            </head>
-            <body>
 
-            <h1>Responsive Web Design Demo</h1>
-            <h2>Resize this responsive page!</h2>
-
+```html
+ <!DOCTYPE html>
+ <html lang="en-us">
+ <head>
+ <style>
+ .city {
+ float: left;
+ margin: 10px;
+ padding: 10p;
+ max-width: 300px;
+ height: 300px;
+ border: 1px solid black;
+ }   
+ </style>
+ </head>
+ <body>
+    <h1>Responsive Web Design Demo</h1>
+       <h2>Resize this responsive page!</h2>
             <div class="city">
             <h2>London</h2>
             <p>London is the capital of England.</p>
@@ -181,7 +183,8 @@ Example
             </body>
             </html>
 ```
- <h3>process</h3>
+
+<h3>process</h3>
             -for whole page,include <meta> tag in your page:
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
             -for elements of the page,one way is to use a responsive style sheet, like W3.CSS
@@ -204,14 +207,15 @@ Example
                 
                 Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
 
-                Example
+    Example
  ```css
-                    #sidebar {
-                    float: right;			
-                    }
+ #sidebar {
+ float: right;			
+ }
  ```
                     res:https://css-tricks.com/all-about-floats/
-            css Grid System
+         
+   <h2> css Grid System</h2>
                 :
                     is a structure that allows for content to be stacked both vertically and horizontally
                     in a consistent and easily manageable fashion. 
@@ -413,10 +417,11 @@ Example
 
 <h2>    Functions </h2>
         Definition :X:
+```javascript
                 function myFunction(a, b) {
                     return a * b;
                 }
-                    
+```                 
         usage	:x
 
                 Right now, the time is
@@ -445,12 +450,13 @@ function connect(hostname, port, method) {
  ```
 <h3>        Named parameters</h3>
             definition:
+```javascript
                 function myFunction({param1, param2}={}){
                 // ...
                 } 
-            usage:
+           \\ usage:
                 myFunction({ param1 : 70, param2 : 175});
-
+```
 
  <h3>       -function scope</h3>
             All functions have access to the global scope.
@@ -486,35 +492,37 @@ function connect(hostname, port, method) {
             X:
 ```javascript
                 (function () {
-
                     var x = "Hello!!";      // I will invoke myself
-
                 })();
 ```
 <h3>        Immediately-Invoked Function Expression, or IIFE </h3>
             : executes immediately after it’s created.
-            :X: 
+            <br>Example:
+```javascript
                 (function(){
                     // all your code here
                     var foo = function() {};
                     window.onload = foo;
                     // ...
                 })();
-        Parameter Defaults
+```
+
+<h3>        Parameter Defaults</h3>
             If a function is called with missing arguments (less than declared), 
             the missing values are set to: undefined
 
-        The Arguments Object
+ <h3>       The Arguments Object</h3>
             JavaScript functions have a built-in object called the arguments object.
             The argument object contains an array of the arguments used when the function was called (invoked)
-        Nested Functions
-            X:
+ <h3>       Nested Functions</h3>
+ ```javascript
                 function add() {
                     var counter = 0;
                     function plus() {counter += 1;}
                     plus();    
                     return counter; 
                 }
+```
 
  <h3>       Closures</h3>
 
@@ -524,28 +532,30 @@ function connect(hostname, port, method) {
 
                 -You create a closure by adding a function inside another function.
 
-                X:
+                Example:
+```javascript
+ function showName (firstName, lastName) {
 
-                    function showName (firstName, lastName) {
+     var nameIntro = "Your name is ";
 
-                        var nameIntro = "Your name is ";
+         //# this inner function has access to the outer function's variables, including the parameter
 
-                            //# this inner function has access to the outer function's variables, including the parameter
+     function makeFullName () {       
 
-                        function makeFullName () {       
+     return nameIntro + firstName + " " + lastName;   
 
-                        return nameIntro + firstName + " " + lastName;   
+     }
 
-                        }
+     return makeFullName ();
 
-                        return makeFullName ();
+ }
 
-                    }
-
-                    showName ("Michael", "Jackson"); //# Your name is Michael Jackson
+ showName ("Michael", "Jackson"); //# Your name is Michael Jackson
+ 
  <h2>       Important ready Functions</h2>
-            -getElementById
-            -querySelector
+ 
+ -getElementById
+ -querySelector
                 :Get the first element in the document with class="example":
                     document.querySelector(".example");
                 res: http://www.w3schools.com/jsref/met_document_queryselector.asp
