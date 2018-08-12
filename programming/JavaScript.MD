@@ -671,7 +671,7 @@ function connect(hostname, port, method) {
                         objectName["propertyName"]
         
             "method":
-                    A property's value can be a function, 
+                    A valaue of the property can be a function, 
                     in which case the property is known as a method.
                     :syntax
                         methodName : function() { code lines }
