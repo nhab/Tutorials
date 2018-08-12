@@ -896,7 +896,7 @@ function connect(hostname, port, method) {
     
 
 
-    deferred 
+<h3>    deferred</h3> 
         :represents work that is not yet finished.
         a deferred represents the computation that results in the value
         :terms
@@ -910,7 +910,8 @@ function connect(hostname, port, method) {
                     $.then()
                 2.states : pending,fulfilled,rejected
                     $.when()
-    ajax
+                    
+<h3>    ajax</h3>
         :terms
             XMLHttpRequest  (XHR)
                 : is an API used by web browser scripting languages 
@@ -1131,7 +1132,8 @@ function connect(hostname, port, method) {
                 xhr.send(file)
         :res 
             http://blog.garstasio.com/you-dont-need-jquery/ajax/
-    events
+  
+  <h3>events</h3>
         :term/functions
             Event bubbling
                 Event bubbling directs an event to its intended target, it works like this:
@@ -1150,8 +1152,11 @@ function connect(hostname, port, method) {
                     elem.addEventListener('build', function (e) { ... }, false);
                     // Dispatch the event.
                     elem.dispatchEvent(event);
-    exception
-        :x
+   
+   <h2>exception</h2>
+   example:
+
+```javascript
             <script>
                 try {
                     adddlert("Welcome guest!");
@@ -1163,8 +1168,9 @@ function connect(hostname, port, method) {
                     document.getElementById("demo").value = "";
                 }
             </script>
-    File operations
-        -FileSystemObject Methods
+```
+<h2>    File operations</h2>
+       <h3> -FileSystemObject Methods</h3>
             Add  (Folders)
                 Adds a new folder to a Folders collection.
                 :x
@@ -1316,7 +1322,7 @@ function connect(hostname, port, method) {
                     https://github.com/vitillo/jsFS
                     https://ericbidelman.tumblr.com/post/14866798359/introducing-filerjs
 
-:tools
+<h2> tools</h2>
     -alert(string);
     -f12 in browser to trace a js code in a page
     -console.log(obj); //you can watch the whole object in browser debugger
@@ -1351,4 +1357,3 @@ function connect(hostname, port, method) {
     Nicholas C. Zakas videos https://www.google.com/search?q=Nicholas+C.+Zakas&num=100&client=firefox-b&source=lnms&tbm=vid&sa=X&ved=0ahUKEwi53IryoMzNAhXJq48KHR4IDz8Q_AUICSgC&biw=1525&bih=718&dpr=0.9
     debugging https://remysharp.com/2015/10/14/the-art-of-debugging
     http://www.javascripture.com/							
-```
