@@ -1493,6 +1493,8 @@ input[type=text] {
 ## Debugging CSS
  - Copy the code to your local machine and test it there before uploading it.
  - Shorten the code to its simplest form to seee if the problem exists.
+ -press f12 in your browser to check and replace DOM elements and other things
  - replace your code with a working code from the internet.
+ 
 ### :res
 	http://www.w3schools.com/cssref/default.asp
