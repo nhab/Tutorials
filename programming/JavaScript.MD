@@ -1,72 +1,78 @@
-```javascript
-:what is a high-level, dynamic, untyped, and interpreted programming language.
-<h1>procedure</h1>
-    <h2>refrencing</h2>
-         code example:
-```javascript
-            //save the code as  file:test.html 
-            <script type="text/javascript">
-                document.write ( new Date() );
-            </script>
-```
-   <h2> including a file</h2>
+ Is a high-level, dynamic, untyped, and interpreted programming language.
+
+<h1>procedures</h1>
+
+<h2>Refrencing it</h2>
+  code example:
 ```html
-            <script type='text/javascript' src='Script1.js'></script>
+ //save the code as  file:test.html 
+ <script type="text/javascript">
+    document.write ( new Date() );
+</script>
 ```
-   <h2>Including from another js file :</h2>
-                put all the code using the remote library in the callback function.
+<h2> including a javaScript file</h2>
+```html
+  <script type='text/javascript' src='Script1.js'></script>
+```
+<h2>Including from another js file :</h2>
+   Put all the code using the remote library in the callback function.
                
   For example:
 
 ```javascript
-            function loadScript(url, callback)
-            {
-                // Adding the script tag to the head as suggested before
-                var head = document.getElementsByTagName('head')[0];
-                var script = document.createElement('script');
-                script.type = 'text/javascript';
-                script.src = url;
+function loadScript(url, callback)
+{
+    // Adding the script tag to the head as suggested before
+    var head = document.getElementsByTagName('head')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = url;
 
-                // Then bind the event to the callback function.
-                // There are several events for cross browser compatibility.
-                script.onreadystatechange = callback;
-                script.onload = callback;
+    // Then bind the event to the callback function.
+    // There are several events for cross browser compatibility.
+    script.onreadystatechange = callback;
+    script.onload = callback;
 
-                // Fire the loading
-                head.appendChild(script);
-            }
+    // Fire the loading
+    head.appendChild(script);
+}
 
-            Then you write the code you want to use AFTER the script is loaded in a lambda function:
+Then you write the code you want to use AFTER the script is loaded in a lambda function:
 
-            var myPrettyCode = function() {
+var myPrettyCode = function() {
 
-                // Here, do what ever you want
-            };
-
-            Then you run all that:
-
-            loadScript("my_lovely_script.js", myPrettyCode);
-
-            Note that the script may execute after the DOM has loaded, or before, depending on the browser and whether you included the line script.async = false;
+    // Here, do what ever you want
+};
 ```
-    passing by reference parameter to function
-        it can be implemented by passing object to function as parameter
-    events		
-        x3:events:
-            <script type="text/javascript">
-            function checkRange(t,low,high) {
-                var n = parseInt(t);
-                if (t!="" && (isNaN(n) || n<low || n>high))
-                alert("Enter a number between "+low+" and "+high);
-            }
-            </script>
-            <form> 
-                <input type=text name=number size=10 onBlur="checkRange(this.value,1000,2000);">
-            </form>
-    'this' keyword
+Then you run all that:
+
+```javascript
+ loadScript("my_lovely_script.js", myPrettyCode);
+
+// Note that the script may execute after the DOM has loaded, or before,
+//depending on the browser and whether you included the line script.async = false;
+```
+<h2>passing by reference parameter to function</h2>
+ it can be implemented by passing object to function as parameter
+ <h2>   events	</h2>	
+   Example:
+```html
+<script type="text/javascript">
+function checkRange(t,low,high) {
+    var n = parseInt(t);
+    if (t!="" && (isNaN(n) || n<low || n>high))
+    alert("Enter a number between "+low+" and "+high);
+}
+</script>
+<form> 
+    <input type=text name=number size=10 onBlur="checkRange(this.value,1000,2000);">
+</form>
+```
+<h2>'this' keyword</h2>
         you can use'this'  within a method to refer to the current object.
         accessing form elements by 'this'
             you could call validate in each form element's ' onchange event handler, using this to pass it the element, as in the following example:
+```html
             <input type="text" name="age" size="3"
                 onChange="validate(this, 18, 99)">
             which
@@ -75,25 +81,31 @@
                         alert("Invalid Value!");
                     }
                 }
-    inheritance: 
+ ```
+<h2> inheritance: </h2>
         is prototype-based:
         That means that there are no classes. Instead, an object inherits from another object.
         JavaScript is a class-less language. JavaScript is built on Objects rather than Classes. T
-        :X
-            var animal = { eats: true }
-            rabbit = Object.create(animal)
-            alert(rabbit.eats) // true
-    Prototype
+  
+  Example:
+```javascript
+var animal = { eats: true }
+rabbit = Object.create(animal)
+alert(rabbit.eats) // true
+ ```
+<h2>    Prototype</h2>
         Every JavaScript object has a prototype. The prototype is also an object. 
         All JavaScript objects inherit their properties and methods from their prototype.
-        :X
+        
             Objects created using an object literal, or with new Object(), inherit from a prototype called Object.prototype.
             Objects created with new Date() inherit the Date.prototype.
             The Object.prototype is on the top of the prototype chain.
             All JavaScript objects (Date, Array, RegExp, Function, ....) inherit from the Object.prototype.
-    raising events
+<h2>    raising events </h2>
         dispatchEvent is equivalent of raisevent in vb
-        :X 
+
+Example
+```javascript
             //in the function you want raise event,you call dispatchevent:
                 x.onchange=function()
                 {
@@ -111,12 +123,15 @@
                     alert(e.target);
                     console.log(e);
                 }, false);
-    #responsive pages
+```
+
+<h2>responsive pages</h2>
         :Responsive Web Design is about using CSS and HTML 
         to resize, hide, shrink, enlarge, or move the content 
         to make it look good on any screen(desktops, tablets, and phones)
         
-        :x
+ Example
+ ```html
             <!DOCTYPE html>
             <html lang="en-us">
             <head>
@@ -124,7 +139,7 @@
             .city {
             float: left;
             margin: 10px;
-            padding: 10px;
+            padding: 10p;
             max-width: 300px;
             height: 300px;
             border: 1px solid black;
@@ -162,12 +177,13 @@
 
             </body>
             </html>
-        :process
+```
+ <h3>process</h3>
             -for whole page,include <meta> tag in your page:
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
             -for elements of the page,one way is to use a responsive style sheet, like W3.CSS
-        :terms
-            Float
+        
+      <h4>      Float</h4>
                 : is a CSS positioning property.
                     In a print layout, images may be set into the page such that text wraps around them as needed. 
                     This is commonly and appropriately called "text wrap".
@@ -185,10 +201,12 @@
                 
                 Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
 
-                :x
+                Example
+ ```css
                     #sidebar {
                     float: right;			
                     }
+ ```
                     res:https://css-tricks.com/all-about-floats/
             css Grid System
                 :
@@ -389,8 +407,8 @@
                         3. Use CSS media queries to apply different styling for small and large screens 
                             - Setting large absolute CSS widths for page elements, will cause the element to be too wide for the viewport on a smaller device. Instead, consider using relative width values, such as width: 100%. Also, be careful of using large absolute positioning values. It may cause the element to fall outside the viewport on small devices.
                 
-{:
-    Functions 
+
+<h2>    Functions </h2>
         Definition :X:
                 function myFunction(a, b) {
                     return a * b;
@@ -399,27 +417,30 @@
         usage	:x
 
                 Right now, the time is
-
-                <script type="text/javascript">
-                    var now = new Date();
-                    function pad2(i) {
-                        if (i<10) return "0"+i;
-                        return i;
-                    }
-                    document.write(pad2(now.getHours()),":",
-                    pad2(now.getMinutes()));
-                </script>
-        optional parameters
+```javascript
+<script type="text/javascript">
+    var now = new Date();
+    function pad2(i) {
+        if (i<10) return "0"+i;
+        return i;
+    }
+    document.write(pad2(now.getHours()),":",
+    pad2(now.getMinutes()));
+</script>
+```
+ <h3>       optional parameters</h3>
             you can call functions omitting some parameters and js will fil in the other parameters with the value undefined.
-            :X
-                connect("www.google.com");  
-                function connect(hostname, port, method) {  
-                    // inside the function, 
-                    // hostname === "www.google.com", 
-                    // port === undefined,
-                    // method === undefined 
-                }
-        Named parameters
+            <br>Example:
+```javascript  
+connect("www.google.com");  
+function connect(hostname, port, method) {  
+    // inside the function, 
+    // hostname === "www.google.com", 
+    // port === undefined,
+    // method === undefined 
+}
+ ```
+<h3>        Named parameters</h3>
             definition:
                 function myFunction({param1, param2}={}){
                 // ...
@@ -428,10 +449,11 @@
                 myFunction({ param1 : 70, param2 : 175});
 
 
-        -function scope
+ <h3>       -function scope</h3>
             All functions have access to the global scope.
-        -Invoking a Function as a Method 
+ <h3>       -Invoking a Function as a Method </h3>
             X:
+ ```javascript
                 var myObject = {
                     firstName:"John",
                     lastName: "Doe",
@@ -440,32 +462,33 @@
                     }
                 }
                 myObject.fullName();         // Will return "John Doe"
-
-        Function Expressions(anonymous function)
+```
+ <h3>       Function Expressions(anonymous function)</h3>
             :
                 A function can also be defined using an expression 
                 which  can be stored in a variable.
                 then the variable can be used as a function:
             X:
-
+```javascript
                 var x = function (a, b) {return a * b};
 
                 var z = x(4, 3);
-
-        Self-Invoking Functions(Anonymous Closures)
+```
+  <h3>      Self-Invoking Functions(Anonymous Closures)</h3>
             :
                 A self-invoking expression is invoked (started) automatically, without being called.
             advantages:
                 -All of the code that runs inside the function lives in a closure, 
                 which provides privacy and state throughout the lifetime of our application.
             X:
-
+```javascript
                 (function () {
 
                     var x = "Hello!!";      // I will invoke myself
 
                 })();
-        Immediately-Invoked Function Expression, or IIFE
+```
+<h3>        Immediately-Invoked Function Expression, or IIFE </h3>
             : executes immediately after it’s created.
             :X: 
                 (function(){
@@ -490,7 +513,7 @@
                     return counter; 
                 }
 
-        Closures
+ <h3>       Closures</h3>
 
             :A "closure" is an inner function that has access to the outer function’s variables (and  parameters). 
 
@@ -517,7 +540,7 @@
                     }
 
                     showName ("Michael", "Jackson"); //# Your name is Michael Jackson
-        Important ready Functions
+ <h2>       Important ready Functions</h2>
             -getElementById
             -querySelector
                 :Get the first element in the document with class="example":
@@ -525,7 +548,8 @@
                 res: http://www.w3schools.com/jsref/met_document_queryselector.asp
         
 
-    Arrays (var ar = [];)
+ <h2>   Arrays </h2>
+    (var ar = [];)
         :PROC (methods / properties)
             defining an  array
                 //you should initialize it as an empty array,in this way:
@@ -614,7 +638,8 @@
                 :It converts an array to a primitive value.
 
                 -The valueOf() method is the default behavior for an array
-    Objects (var person = {};)
+
+<h2> Objects (var person = {};) </h2>
         :Objects are variables which have Membersber defined between { and }.
             members are either property or method.
             they are seperated by comma (,) .
@@ -693,7 +718,7 @@
                     //you can initilize proerties;
                     var person = {   firstName:"John",    lastName:"Doe"};
 
-    Classes
+<h2>    Classes</h2>
         :
             Creating class is simulated  
             by defining a JavaScript function 
@@ -720,7 +745,7 @@
                 console.log( myCar.getInfo() );
             
     
-    modules
+<h2>    modules </h2>
         :
             -Modules are files  to encapsulate a piece of code into a useful unit, 
             and how to register its capability/export a value for the module.
@@ -797,7 +822,7 @@
                 const inst = new MyClass();
 
 
-    Scope
+ <h2>   Scope</h2>
         :is the set of variables, objects, and functions you have access to.
         {:
             "Local"   Variables: 
