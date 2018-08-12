@@ -4,6 +4,7 @@
 
 <h2>Refrencing it</h2>
   code example:
+
 ```html
  //save the code as  file:test.html 
  <script type="text/javascript">
@@ -11,6 +12,7 @@
 </script>
 ```
 <h2> including a javaScript file</h2>
+
 ```html
   <script type='text/javascript' src='Script1.js'></script>
 ```
@@ -36,9 +38,10 @@ function loadScript(url, callback)
     // Fire the loading
     head.appendChild(script);
 }
-
+```
 Then you write the code you want to use AFTER the script is loaded in a lambda function:
 
+```javascript
 var myPrettyCode = function() {
 
     // Here, do what ever you want
