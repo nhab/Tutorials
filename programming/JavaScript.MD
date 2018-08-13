@@ -55,9 +55,20 @@ Then you run all that:
 // Note that the script may execute after the DOM has loaded, or before,
 //depending on the browser and whether you included the line script.async = false;
 ```
-<h2>passing by reference parameter to function</h2>
+<h2>'By reference' parameter to function</h2>
  it can be implemented by passing object to function as parameter
- <h2>   events	</h2>	
+ ```javascript
+ function alterObject(obj) {
+  obj.foo = "goodbye";
+}
+
+var myObj = { foo: "hello world" };
+
+alterObject(myObj);
+
+alert(myObj.foo); // "goodbye" instead of "hello world"
+
+ <h2> Events	</h2>	
    Example:
 
 ```html
