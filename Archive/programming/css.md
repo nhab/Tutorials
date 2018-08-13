@@ -1491,10 +1491,105 @@ input[type=text] {
 </html>
 ```
 ## Debugging CSS
+```
  - Copy the code to your local machine and test it there before uploading it.
  - Shorten the code to its simplest form to seee if the problem exists.
  -press f12 in your browser to check and replace DOM elements and other things
  - replace your code with a working code from the internet.
+  fortunately, css of all web pages in the internet can be viewed by right clicking and pressing 'view page source'
+ ```
  
-### :res
+<h2>responsive pages</h2>
+      
+<pre>:Responsive Web Design is about using CSS and HTML 
+        to resize, hide, shrink, enlarge, or move the content 
+        to make it look good on any screen(desktops, tablets, and phones)
+        
+ Example
+</pre>
+
+```html
+ <!DOCTYPE html>
+ <html lang="en-us">
+ <head>
+ <style>
+ .city {
+ float: left;
+ margin: 10px;
+ padding: 10p;
+ max-width: 300px;
+ height: 300px;
+ border: 1px solid black;
+ }   
+ </style>
+ </head>
+ <body>
+    <h1>Responsive Web Design Demo</h1>
+       <h2>Resize this responsive page!</h2>
+            <div class="city">
+            <h2>London</h2>
+            <p>London is the capital of England.</p>
+            <p>It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+            </div>
+
+            <div class="city">
+            <h2>Paris</h2>
+            <p>Paris is the capital of France.</p> 
+            <p>The Paris area is one of the largest population centers in Europe, with more than 12 million inhabitants.</p>
+            </div>
+
+            <div class="city">
+            <h2>Tokyo</h2>
+            <p>Tokyo is the capital of Japan.</p>
+            <p>It is the center of the Greater Tokyo Area, and the most populous metropolitan area in the world.</p>
+            </div>
+
+            <div class="city">
+            <h2>New York</h2>
+            <p>The City of New York is the most populous city in the United States.</p>
+            <p>New York is an important center for international diplomacy and has been described as the cultural and financial capital of the world.</p>
+            </div>
+
+            </body>
+            </html>
+```
+
+<h3>process</h3>
+for whole page,include <meta> tag in your page:
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+for elements of the page,one way is to use a responsive style sheet, like W3.CSS
+        
+<h4>      Float</h4>
+<pre>
+: is a CSS positioning property.
+                    In a print layout, images may be set into the page such that text wraps around them as needed. 
+                    This is commonly and appropriately called "text wrap".
+                    In page layout programs, the boxes that hold the text can be told to honor the text wrap, or to ignore it.
+                    Ignoring the text wrap will allow the words to flow right over the image like it wasn't even there.
+                    This is the difference between that image being part of the flow of the page (or not). Web design is very similar.
+                In web design, page elements with the CSS float property applied to them are just like the images in the print layout
+                    where the text flows around them. 
+                    Floated elements remain a part of the flow of the web page.
+                    This is distinctly different than page elements that use absolute positioning.
+                    Absolutely positioned page elements are removed from the flow of the webpage,
+                    like when the text box in the print layout was told to ignore the page wrap.
+                        Absolutely positioned page elements will not affect the position of other elements
+                        and other elements will not affect them, whether they touch each other or not.
+                
+                Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
+</pre>
+
+Example
+
+```css
+ #sidebar {
+ float: right;			
+ }
+ ```
+ ### :res
 	http://www.w3schools.com/cssref/default.asp
+	https://css-tricks.com/all-about-floats/
