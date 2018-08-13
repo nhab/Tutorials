@@ -1,6 +1,6 @@
  Is a high-level, dynamic, untyped, and interpreted programming language.
 
-<h1>procedures</h1>
+<h1>Regular Procedures</h1>
 
 <h2>Refrencing it</h2>
   code example:
@@ -11,11 +11,13 @@
     document.write ( new Date() );
 </script>
 ```
+
 <h2> including a javaScript file</h2>
 
 ```html
   <script type='text/javascript' src='Script1.js'></script>
 ```
+
 <h2>Including from another js file :</h2>
    Put all the code using the remote library in the callback function.
                
@@ -39,6 +41,7 @@ function loadScript(url, callback)
     head.appendChild(script);
 }
 ```
+
 Then you write the code you want to use AFTER the script is loaded in a lambda function:
 
 ```javascript
@@ -47,6 +50,7 @@ var myPrettyCode = function() {
     // Here, do what ever you want
 };
 ```
+
 Then you run all that:
 
 ```javascript
@@ -55,8 +59,10 @@ Then you run all that:
 // Note that the script may execute after the DOM has loaded, or before,
 //depending on the browser and whether you included the line script.async = false;
 ```
+
 <h2>'By reference' parameter to function</h2>
  it can be implemented by passing object to function as parameter
+ 
  ```javascript
  function alterObject(obj) {
   obj.foo = "goodbye";
@@ -67,6 +73,7 @@ var myObj = { foo: "hello world" };
 alterObject(myObj);
 
 alert(myObj.foo); // "goodbye" instead of "hello world"
+```
 
  <h2> Events	</h2>	
    Example:
