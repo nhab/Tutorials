@@ -92,42 +92,57 @@ function checkRange(t,low,high) {
 ```
 
 <h2>'this' keyword</h2>
+<pre>
         you can use'this'  within a method to refer to the current object.
         accessing form elements by 'this'
             you could call validate in each form element's ' onchange event handler, using this to pass it the element, as in the following example:
+ </pre>
+
 ```html
  <input type="text" name="age" size="3"
      onChange="validate(this, 18, 99)">
- which
-     function validate(obj, lowval, hival) {
+```
+
+which
+```javascript
+function validate(obj, lowval, hival) {
          if ((obj.value < lowval) || (obj.value > hival)) {
              alert("Invalid Value!");
          }
      }
  ```
+
 <h2> inheritance: </h2>
+<pre>
         is prototype-based:
         That means that there are no classes. Instead, an object inherits from another object.
         JavaScript is a class-less language. JavaScript is built on Objects rather than Classes. T
   
   Example:
+  </pre>
+  
 ```javascript
 var animal = { eats: true }
 rabbit = Object.create(animal)
 alert(rabbit.eats) // true
  ```
+
 <h2>    Prototype</h2>
-        Every JavaScript object has a prototype. The prototype is also an object. 
-        All JavaScript objects inherit their properties and methods from their prototype.
+<pre>
+    Every JavaScript object has a prototype. The prototype is also an object. 
+   All JavaScript objects inherit their properties and methods from their prototype.
         
-            Objects created using an object literal, or with new Object(), inherit from a prototype called Object.prototype.
-            Objects created with new Date() inherit the Date.prototype.
-            The Object.prototype is on the top of the prototype chain.
-            All JavaScript objects (Date, Array, RegExp, Function, ....) inherit from the Object.prototype.
+   Objects created using an object literal, or with new Object(), inherit from a prototype called Object.prototype.
+   Objects created with new Date() inherit the Date.prototype.
+   The Object.prototype is on the top of the prototype chain.
+   All JavaScript objects (Date, Array, RegExp, Function, ....) inherit from the Object.prototype.
+</pre>
 <h2>    raising events </h2>
-        dispatchEvent is equivalent of raisevent in vb
+<pre>     
+dispatchEvent is equivalent of raisevent in vb
 
 Example
+</pre>
 
 ```javascript
  //in the function you want raise event,you call dispatchevent:
@@ -150,11 +165,13 @@ Example
 ```
 
 <h2>responsive pages</h2>
-        :Responsive Web Design is about using CSS and HTML 
+      
+<pre>:Responsive Web Design is about using CSS and HTML 
         to resize, hide, shrink, enlarge, or move the content 
         to make it look good on any screen(desktops, tablets, and phones)
         
  Example
+</pre>
 
 ```html
  <!DOCTYPE html>
@@ -203,12 +220,17 @@ Example
 ```
 
 <h3>process</h3>
-            -for whole page,include <meta> tag in your page:
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            -for elements of the page,one way is to use a responsive style sheet, like W3.CSS
+for whole page,include <meta> tag in your page:
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+for elements of the page,one way is to use a responsive style sheet, like W3.CSS
         
-      <h4>      Float</h4>
-                : is a CSS positioning property.
+<h4>      Float</h4>
+<pre>
+: is a CSS positioning property.
                     In a print layout, images may be set into the page such that text wraps around them as needed. 
                     This is commonly and appropriately called "text wrap".
                     In page layout programs, the boxes that hold the text can be told to honor the text wrap, or to ignore it.
@@ -224,17 +246,20 @@ Example
                         and other elements will not affect them, whether they touch each other or not.
                 
                 Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
+</pre>
 
-    Example
- ```css
+Example
+
+```css
  #sidebar {
  float: right;			
  }
  ```
                     res:https://css-tricks.com/all-about-floats/
          
-   <h2> css Grid System</h2>
-                :
+<h2> css Grid System</h2>
+<pre>
+:
                     is a structure that allows for content to be stacked both vertically and horizontally
                     in a consistent and easily manageable fashion. 
                     Additionally, grid system code is project-agnostic 
@@ -244,6 +269,7 @@ Example
                     - Columns make up the final structure and contain the actual content.
                     - Some grid systems will additionally include containers,
                         which serve as wrappers for the layout. 
+ <pre>
                 :processes
                     Resetting the Box Model
                         First and foremost, it is important for any grid system to reset the box model.
