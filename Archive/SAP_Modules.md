@@ -50,6 +50,7 @@ SAP Business Suite is collection of fully integrated applications such as SAP cu
 <h1 class="head">
 	SAP FI Activities 
 </h1>
+all financial business process including
 <div >
 	<div class="indent">
 			<h2>Creation of Organizational Structure</h2>
@@ -108,6 +109,8 @@ SAP Business Suite is collection of fully integrated applications such as SAP cu
 <h1 class="head">
  SAP CO Activities 
 </h1>
+Cost Accounting (CO) module of SAP provides information to managers decision makers to understand where the company's money is being spent. CO helps them to optimize business costs.
+
 	<div class="indent">
 		<h2>Cost Element Accounting</h2>
 			<div class="indent">
@@ -144,8 +147,9 @@ SAP Business Suite is collection of fully integrated applications such as SAP cu
 	</div>			
 	</div>
 <h1 class="head">
-		Sales & Distribution Management (SD) Activities
+Sales & Distribution Management (SD) Activities
 </h1>
+business processes required in selling, shipping, billing of a product.
 <div class="indent">
 	<h2>Setting up Organization Structure 	</h2>
 	<div class="indent">
@@ -247,14 +251,14 @@ Improve sales and services and building better relationships<br>
  with customers.
 </div>
 
-<h1 class="head">  Human Resource (HR)</h1>
+<h1 class="head">  Human Resource (HR) also called Human Capital Management (HCM)</h1>
 <h2 >
 	<div class="indent">
 		Business trip management <br>
 		Recruitment <br>
 		Payroll <br>
-		Personal development <br>
-		Organizational Management <br>
+		Personal development or  Personnel Administration (PA) <br>
+		Organizational Management or Organizational Management (OM) <br>
 		Time Management <br>
 		Workforce Planning <br>
 		ESS <br>
@@ -269,6 +273,7 @@ Improve sales and services and building better relationships<br>
 <h1 class="head">Treasury (CRM)</h1>
 <br>
 <h1 class="head">Production plannig(PP)</h1>
+ integrating different department involved in production and manufacturing.
 	<h2 class="indent">
 		استراتژی های متنوع در مدیریت اقلام و درخت های محصول جایگزین
 		استراتژی های متفاوت تولید:
@@ -304,7 +309,7 @@ Improve sales and services and building better relationships<br>
 		ردیابی کالا - Batch & Serial Number Management
 </h2>
 
-<h1 class="head">Quality Mgnt(QM)</h1>
+<h1 class="head">Quality Management(QM)</h1>
 <h2 class="indent">
 	گام ها و برنامه های بازرسی - Inspection Plan <br>
 	مشخصه های کمی و کیفی بازرسی - Inspection Characteristics<br>
@@ -408,6 +413,49 @@ Financial Supply Chain Management (FIN-FSCM)
 </h2>
 
 <h1 class="head">
-	Bussiness Inteligence (BI)
+	Bussiness Inteligence (BI) or  Business Data Warehouse(BW) 
 </h1>
-	
+
+<h1 class="head">
+SAP Basis -
+</h1>
+SAP Basis is a set of programs and tools that act as an interface with Database, Operating system, communication protocols and other SAP modules like FI,HCM, SD etc. Learn more about SAP Basis
+<h1 class="head">
+SAP ABAP -
+</h1>
+ABAP (Advanced Business Application Programming) is the default programming language for SAP applications. You can also use Java to code in SAP. Learn more about SAP ABAP
+
+<h1 class="head">SAP HANA
+</h1>
+- where Hana stands for High-performance Analytic Appliance.
+SAP HANA is an in-memory computing platform that allows real-time data analysis. Its currently the market leader in BI.
+<h1>
+SAP EC Module 
+</h1>
+- where EC stands for Enterprise Controlling
+SAP TR Module - where TR stands for Treasury
+SAP IM Module - where IM stands for Investment Management
+SAP IS -where IS stands for Industries Specific Solution
+SAP PS Module- and PS is Project Systems
+SAP CAC - Cross Application Components
+SAP SCM- where SCM stands for Supply Chain Management
+SAP PLM- where PLM stands for Product LifeCycle Management
+SAP SRM- where SRM stands for Supplier Relationship Management
+SAP CS- where CS stands for Customer Service
+SAP SEM - where SEM stands for STRATEGIC ENTERPRISE MANAGEMENT
+SAP RE - where RE stands for Real Estate
+SAP PM Module- where Plant Maintenance is the PM
+SAP Security Learn more about SAP Security
+SAP FSCM - where FSCM stands for Financial Supply Chain Management
+SAP NetWeaver
+SAP IS - where IS stands for Industry Specific Solution
+SAP XI - where XI stands for Exchange Infrastructure
+SAP Solution Manager – Learn more about Solution Manager
+SAP LE - where LE stands for Logistics Execution
+SAP APO- where APO stands for Advanced Planning and Optimization
+SAP AFS - where AFS stands for Apparel and Footwear Solution
+SAP CC - where CC stands for Convergent Charging
+SAP ITS - where ITS stands for Internet Transaction Server
+SAP ICM - where ICM stands for Incentive and Commission Management
+SAP KW - where KW stands for Knowledge Warehouse
+SAP MDM - where MDM stands for Master Data Management
