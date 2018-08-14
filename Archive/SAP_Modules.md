@@ -29,21 +29,21 @@ SAP Business Suite is collection of fully integrated applications such as SAP cu
  - To survive in an ever-changing global environment, creating and delivering innovative and market differentiating products and services is what distinguishes your company from the competition. The SAP Product Lifecycle Management (SAP PLM) application provides you with a 360-degree-support for all product-related processes – from the first product idea, through manufacturing to product service
  
  <h3>SAP Supplier Life Cycle Management:</h3>
- - SAP Supplier Lifecycle Management is a holistic approach to managing supplier relationships. It deals with the supply base as a whole to constantly determine the right mix of suppliers. It covers the lifecycle of individual suppliers ? from onboarding to a continuous development.
+ SAP Supplier Lifecycle Management is a holistic approach to managing supplier relationships. It deals with the supply base as a whole to constantly determine the right mix of suppliers. It covers the lifecycle of individual suppliers ? from onboarding to a continuous development.
  
- <h3>Supply Chain Management :<h3>
- - You face enormous pressure to reduce costs while increasing innovation and improving customer service and responsiveness. SAP Supply Chain Management (SAP SCM) enables collaboration, planning, execution, and coordination of the entire supply network, empowering you to adapt your supply chain processes to an ever-changing competitive environment.
+<h3>Supply Chain Management :<h3>
+You face enormous pressure to reduce costs while increasing innovation and improving customer service and responsiveness. SAP Supply Chain Management (SAP SCM) enables collaboration, planning, execution, and coordination of the entire supply network, empowering you to adapt your supply chain processes to an ever-changing competitive environment.
  
  <h3> Supplier Relationship Management:</h3>
- - With SAP SRM you can examine and forecast purchasing behavior, shorten procurement cycles, and work with your partners in real time. This allows you to develop long-term relationships with all those suppliers that have proven themselves to be reliable partners.
+ With SAP SRM you can examine and forecast purchasing behavior, shorten procurement cycles, and work with your partners in real time. This allows you to develop long-term relationships with all those suppliers that have proven themselves to be reliable partners.
  Governance, Risk and Compliance:- Risk is unavoidable, but it can be managed. With governance, risk, and compliance (GRC), businesses can strategically balance risk and opportunity.
  
  <h3>Sales and operations planning:</h3>
- - SAP Sales and Operations Planning enables you to optimally and profitably meet long-term future demand. Typically, this process repeats every month and involves many participants including Sales, Marketing, Finance, Demand Planning, and Supply Chain Planning.
+ SAP Sales and Operations Planning enables you to optimally and profitably meet long-term future demand. Typically, this process repeats every month and involves many participants including Sales, Marketing, Finance, Demand Planning, and Supply Chain Planning.
  SAP Transportation Management :- It supports you in all activities connected with the physical transportation of goods from one location to another.
  
  <h3>Extended Warehouse Management:</h3>
- - SAP Extended Warehouse Management gives you the option of mapping your entire warehouse complex in detail in the system, down to the storage bin level. Not only does this give you an overview of the total quantity of a product in the warehouse, but you can also always see exactly where a specific product is, at any time, in your warehouse complex. With EWM, you can optimize the use of various storage bins and stock movements, and can combine the storage of stocks from several plants in randomly-managed warehouses.
+ SAP Extended Warehouse Management gives you the option of mapping your entire warehouse complex in detail in the system, down to the storage bin level. Not only does this give you an overview of the total quantity of a product in the warehouse, but you can also always see exactly where a specific product is, at any time, in your warehouse complex. With EWM, you can optimize the use of various storage bins and stock movements, and can combine the storage of stocks from several plants in randomly-managed warehouses.
 <h3>Mobile Apps:</j3>
 - Mobile devices can also access SAP system.
 
@@ -53,25 +53,25 @@ SAP Business Suite is collection of fully integrated applications such as SAP cu
 all financial business process including
 <div >
 	<div class="indent">
-			<h2>Creation of Organizational Structure</h2>
-			<div class="indent">
-				Defining Company<br>
-				Company Codes <br>
-				business Areas<br>
-				Functional Areas<br>
-				Credit Control <br>
-				Assignment of Company Codes to Credit Controls<br>
-			</div>
+		<h2>Creation of Organizational Structure</h2>
+		<div class="indent">
+			Defining Company<br>
+			Company Codes <br>
+			business Areas<br>
+			Functional Areas<br>
+			Credit Control <br>
+			Assignment of Company Codes to Credit Controls<br>
+		</div>
 	</div>
 	<div class="indent">
-			<h2>Financial Accounting Global Settings</h2>
-			<div class="indent">
-				Maintenance of Fiscal Year<br>
-				Posting Periods <br>
-				defining Document types<br>
-				posting keys <br>
-				Number ranges for documents	<br>	
-			</div>
+		<h2>Financial Accounting Global Settings</h2>
+		<div class="indent">
+			Maintenance of Fiscal Year<br>
+			Posting Periods <br>
+			defining Document types<br>
+			posting keys <br>
+			Number ranges for documents	<br>	
+		</div>
 	</div>
 	<div class="indent">
 		<h2>General Ledger Accounting</h2>
@@ -111,41 +111,41 @@ all financial business process including
 </h1>
 Cost Accounting (CO) module of SAP provides information to managers decision makers to understand where the company's money is being spent. CO helps them to optimize business costs.
 
-	<div class="indent">
-		<h2>Cost Element Accounting</h2>
-			<div class="indent">
-				Overview of the costs and revenues that occur in an organization<br>
-				Cost Center Accounting
-			</div>
-	</div>
-	<div class="indent">
-		<h2>Activity-Based-Accounting </h2>
-			<div class="indent">
-				Analyzes cross-departmental business processes 
-			</div>
-	</div>
-	<div class="indent">
-			<h2> Internal Orders</h2>
-	</div>
-	<div class="indent">
-			<h2>Product Cost Controlling	</h2>
-			<div class="indent">
-				( Calculates the costs that occur during the manufacture of a product or provision of a service )
-			</div>
-	</div>
-	<div class="indent">
-			<h2>Profitability Analysis </h2>
-			<div class="indent">
-				( Analyzes the profit or loss of an organization by individual market segments )
-			</div>
-	</div>			
-	<div class="indent">
-			<h2>
-			Profit Center Accounting
-			</h2>
-				( Evaluates the profit or loss of individual, independent areas within an organization )
-	</div>			
-	</div>
+<div class="indent">
+	<h2>Cost Element Accounting</h2>
+		<div class="indent">
+			Overview of the costs and revenues that occur in an organization<br>
+			Cost Center Accounting
+		</div>
+</div>
+<div class="indent">
+	<h2>Activity-Based-Accounting </h2>
+		<div class="indent">
+			Analyzes cross-departmental business processes 
+		</div>
+</div>
+<div class="indent">
+		<h2> Internal Orders</h2>
+</div>
+<div class="indent">
+		<h2>Product Cost Controlling	</h2>
+		<div class="indent">
+			( Calculates the costs that occur during the manufacture of a product or provision of a service )
+		</div>
+</div>
+<div class="indent">
+		<h2>Profitability Analysis </h2>
+		<div class="indent">
+			( Analyzes the profit or loss of an organization by individual market segments )
+		</div>
+</div>			
+<div class="indent">
+		<h2>
+		Profit Center Accounting
+		</h2>
+			( Evaluates the profit or loss of individual, independent areas within an organization )
+</div>			
+
 <h1 class="head">
 Sales & Distribution Management (SD) Activities
 </h1>
@@ -165,24 +165,24 @@ business processes required in selling, shipping, billing of a product.
 		, storage location)
 	</div>
 	
-	<h2>Assigning Organizational Units</h2>
-	<div class="indent">
-			(Assignment of individual components created in the above activities with each other according to design like company code to company, sales organization to company code, distribution channel to sales organization, etc.)
-	</div>
-	<h2>		Defining Pricing Components		</h2>
-	<div class="indent">
+<h2>Assigning Organizational Units</h2>
+<div class="indent">
+(Assignment of individual components created in the above activities with each other according to design like company code to company, sales organization to company code, distribution channel to sales organization, etc.)
+</div>
+<h2>		Defining Pricing Components		</h2>
+<div class="indent">
 			Defining condition tables<br>
 			, condition types<br>
 			, condition sequences
-	</div>
-	<h2>
+</div>
+<h2>
 		Setting up sales document types,
 			<br> &nbsp;&nbsp;&nbsp; billing types, and tax-related components
-	</h2>
-	<br>
-	<h2>
-		Setting up Customer master data records and configuration
-	</h2>
+</h2>
+	
+<h2>
+Setting up Customer master data records and configuration
+</h2>
 </div>
 <h1 class="head">	
 	Material Management (MM)
@@ -438,7 +438,6 @@ SAP IM Module - where IM stands for Investment Management
 SAP IS -where IS stands for Industries Specific Solution
 SAP PS Module- and PS is Project Systems
 SAP CAC - Cross Application Components
-SAP SCM- where SCM stands for Supply Chain Management
 SAP PLM- where PLM stands for Product LifeCycle Management
 SAP SRM- where SRM stands for Supplier Relationship Management
 SAP CS- where CS stands for Customer Service
@@ -446,8 +445,6 @@ SAP SEM - where SEM stands for STRATEGIC ENTERPRISE MANAGEMENT
 SAP RE - where RE stands for Real Estate
 SAP PM Module- where Plant Maintenance is the PM
 SAP Security Learn more about SAP Security
-SAP FSCM - where FSCM stands for Financial Supply Chain Management
-SAP NetWeaver
 SAP IS - where IS stands for Industry Specific Solution
 SAP XI - where XI stands for Exchange Infrastructure
 SAP Solution Manager – Learn more about Solution Manager
