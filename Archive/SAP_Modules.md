@@ -1,12 +1,51 @@
-.head{
-	background-color: darkslategray;
-	color:darkturquoise;
-	padding: 3px;
-	text-align: center;
-}
-.indent{
-	margin-left:5%;
-}
+<h2>SAP</h2>
+SAP stands for <b>S</b>ystems <b>A</b>pplications and <b>P</b>roducts in Data Processing.
+
+<br>SAP by definition is also named of the ERP (Enterprise Resource Planning) software as well the name of the company.
+<br>SAP system consists of a number of fully integrated modules
+
+<h2>What is SAP Business Suite?</h2>
+SAP Business Suite is collection of fully integrated applications such as SAP customer relationship management (CRM), SAP Enterprise Resource Planning (ERP), SAP product lifecycle management (PLM), SAP supplier relationship management (SRM), and SAP supply chain management (SCM) modules.
+
+<h2>Other SAP Software</h2>
+<h3>SAP HANA</h3>
+ High Performance Analytic Appliance uses in-memory computing, that enables analysis of very large, non-aggregated data at unprecedented speed in local memory (vs. disk-based database) enabling complex analyses, plans and simulations on real-time data.
+ 
+<h3>SAP Convergent Charging </h3>:- SAP Convergent Charging provides a rating and charging solution for high-volume processing in service industries. It delivers pricing design capabilities, high performance rating and convergent balance management.
+
+<h3> Customer Relationship Management:</h3>- Unlike other CRM software, the SAP Customer Relationship Management (SAP CRM) application, part of the SAP Business Suite, not only helps you address your short-term imperatives – to reduce cost and increase your decision-making ability – but can also help your company achieve differentiated capabilities in order to compete effectively over the long term.
+ 
+ <h3>Enterprise Resource Planning:</h3>
+ - A sound foundation is necessary to compete and win in the global marketplace. The SAP ERP application supports the essential functions of your business processes and operations efficiently and are tailored to specific needs of your industry like SAP ERP Financials, SAP ERP Human capital management,SAP ERP Operations,SAP ERP corporate services.
+ 
+ <h3>SAP Environment, Health, and Safety Management </h3>
+ :- It supports environmental, occupational and product safety processes, regulatory compliance, and corporate responsibility. This is accomplished by embedding corporate policies, compliance, and environmental, health and safety capabilities with global business processes for human resources, logistics, production and finance.
+ 
+ <h3>SAP Global Batch Traceability</h3>
+ :- It allows you to completely trace tracked objects, for example, a batch, across both SAP systems and non-SAP systems. In the event of a recall or withdrawal, SAP GBT ensures the timely compliance with legal reporting timelines. Furthermore, it helps you to minimize cost and corporate risk exposure. You can also analyze multiple objects, for example, batches, in one run.
+
+ 
+ <h3>SAP Product Life Cycle Management:</h3>
+ - To survive in an ever-changing global environment, creating and delivering innovative and market differentiating products and services is what distinguishes your company from the competition. The SAP Product Lifecycle Management (SAP PLM) application provides you with a 360-degree-support for all product-related processes – from the first product idea, through manufacturing to product service
+ 
+ <h3>SAP Supplier Life Cycle Management:</h3>
+ - SAP Supplier Lifecycle Management is a holistic approach to managing supplier relationships. It deals with the supply base as a whole to constantly determine the right mix of suppliers. It covers the lifecycle of individual suppliers ? from onboarding to a continuous development.
+ 
+ <h3>Supply Chain Management :<h3>
+ - You face enormous pressure to reduce costs while increasing innovation and improving customer service and responsiveness. SAP Supply Chain Management (SAP SCM) enables collaboration, planning, execution, and coordination of the entire supply network, empowering you to adapt your supply chain processes to an ever-changing competitive environment.
+ 
+ <h3> Supplier Relationship Management:</h3>
+ - With SAP SRM you can examine and forecast purchasing behavior, shorten procurement cycles, and work with your partners in real time. This allows you to develop long-term relationships with all those suppliers that have proven themselves to be reliable partners.
+ Governance, Risk and Compliance:- Risk is unavoidable, but it can be managed. With governance, risk, and compliance (GRC), businesses can strategically balance risk and opportunity.
+ 
+ <h3>Sales and operations planning:</h3>
+ - SAP Sales and Operations Planning enables you to optimally and profitably meet long-term future demand. Typically, this process repeats every month and involves many participants including Sales, Marketing, Finance, Demand Planning, and Supply Chain Planning.
+ SAP Transportation Management :- It supports you in all activities connected with the physical transportation of goods from one location to another.
+ 
+ <h3>Extended Warehouse Management:</h3>
+ - SAP Extended Warehouse Management gives you the option of mapping your entire warehouse complex in detail in the system, down to the storage bin level. Not only does this give you an overview of the total quantity of a product in the warehouse, but you can also always see exactly where a specific product is, at any time, in your warehouse complex. With EWM, you can optimize the use of various storage bins and stock movements, and can combine the storage of stocks from several plants in randomly-managed warehouses.
+<h3>Mobile Apps:</j3>
+- Mobile devices can also access SAP system.
 
 <h1 class="head">
 	SAP FI Activities 
