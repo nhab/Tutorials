@@ -432,6 +432,7 @@ SAP HANA is an in-memory computing platform that allows real-time data analysis.
 <h1>
 SAP EC Module 
 </h1>
+<pre>
 - where EC stands for Enterprise Controlling
 SAP TR Module - where TR stands for Treasury
 SAP IM Module - where IM stands for Investment Management
@@ -456,3 +457,4 @@ SAP ITS - where ITS stands for Internet Transaction Server
 SAP ICM - where ICM stands for Incentive and Commission Management
 SAP KW - where KW stands for Knowledge Warehouse
 SAP MDM - where MDM stands for Master Data Management
+</pre>
