@@ -1,6 +1,5 @@
- Is a high-level, dynamic, untyped, and interpreted programming language.
+ Javascript is a high-level, dynamic, untyped, and interpreted programming language.
 
-<h1>Regular Procedures</h1>
 
 <h2>Refrencing it</h2>
   code example:
