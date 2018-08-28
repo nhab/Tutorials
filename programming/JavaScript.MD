@@ -129,11 +129,27 @@ alert(rabbit.eats) // true
 
 <h2>    Prototype</h2>
 <pre>
-    Every JavaScript object has a prototype. The prototype is also an object. 
-   All JavaScript objects inherit their properties and methods from their prototype.
-        
-   Objects created using an object literal, or with new Object(), inherit from a prototype called Object.prototype.
-   Objects created with new Date() inherit the Date.prototype.
+    Every JavaScript object has a public prototype object.  
+   
+   The prototype object is special type of enumerable object to which additional properties can be attached to it 
+   which will be shared across all the instances of it's constructor function.
+   
+   for Example:
+   
+       function Student() {
+                    this.name = 'John';
+                    this.gender = 'M';
+      }
+
+      Student.prototype.age = 15;
+
+      var studObj1 = new Student();
+      alert(studObj1.age); // 15
+
+      var studObj2 = new Student();
+      alert(studObj2.age); // 15
+
+    All JavaScript objects inherit their properties and methods from their prototype.
    The Object.prototype is on the top of the prototype chain.
    All JavaScript objects (Date, Array, RegExp, Function, ....) inherit from the Object.prototype.
 </pre>
