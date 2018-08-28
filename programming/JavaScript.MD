@@ -4,7 +4,7 @@
 <h2>Refrencing it</h2>
   code example:
 
-```html
+```javascript
  //save the code as  file:test.html 
  <script type="text/javascript">
     document.write ( new Date() );
