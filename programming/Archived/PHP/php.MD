@@ -14,16 +14,21 @@
  </td>
 </tr></table>
 <b> Comments</b>  are like c++: ``` // و /*...*/ ```<br>       
-<table><tr><td>
+<table>
+ <tr>
+  <td>
 <b>print</b> a statement <br> use  Echo and PRINT
-        </td>
-        <td>
+  </td>
+ <td>
+         
 ````HTML
    <?php echo "i like it" ?>
    <?php print "I like it" ?>
 ````
      
-</td></tr></table>
+</td>
+</tr>
+</table>
 
 <b>Variables:</b>
  - Don`t need definition.Wherever used ,are known everafter.
