@@ -34,8 +34,8 @@
  <tr>
   <td>
 <b>Variables:</b>
- - Don`t need definition.Wherever used ,are known everafter.
- - Variable names must begin with $
+ - Don`t need definition.Wherever used ,are known everafter.<br>
+ - Variable names must begin with $ <br>
  - Are case sensitive
          </td>
          <td>
@@ -47,31 +47,79 @@
         ?>
 ```        
  </td></tr></table>
+ <table>
+ <tr>
+  <td>
  To combine Strings  variables in a statement use __dot(.)__
+         </td>
+         <td>
+                 
 ```php    
         print $like ." " .$num;
 ```        
+
+</td></tr></table>
+<table>
+ <tr>
+  <td>
  Even variable name can be dynamic:
+         </td>
+         <td>
+                 
 ```php    
         $test="success";
         $primary="test";
         $ID=${$primary};
         echo $ID;
 ```        
+</td></tr></table>
+
+<table>
+ <tr>
+  <td>
 ## Arrays :
+         </td>
+         <td>
+                 
 ```php
         $a=array{1,2,3,4,5};
         <?php f[0]="j";f[1]="a";f[2]="r"; 
 ```        
+
+</td></tr></table>
+
+<table>
+ <tr>
+  <td>
+
 ## Operators:
- are like c : + -/ * ....
+ are like c :
+ </td>
+ <td>
+ + -/ * ....
+ </td>
+ </table>
+ 
+ <table>
+ <tr>
+  <td>
 ## If 
  Is  like c
+         </td>
+         <td>
  ```php
         if ($arr){$price=0.90;}else{..}
 ```
+         </td>
+        </tr>
+        </table>
+<table>
+ <tr>
+  <td>
 ## Loops
  are like c
+         </td>
+         <td>
 ```php     
         <?php
             for($num=1;$num<=10;$num++)
@@ -79,10 +127,7 @@
                 print $num." ";
             }
             /*----------------*/
-            while($num<=10)
-            {
-                ...
-            }
+            while($num<=10)   {  ...   }
             /*---------------*/
             <$php
                 $a=array(1,2,3,4,5);
@@ -92,8 +137,17 @@
                 }
             ?>
  ```
+         </td>
+        </tr>
+        </table>
+ <table>
+ <tr>
+  <td>
  ## Functions 
- ```php
+         </td>
+         <td>
+                 
+```php
         <$php
             function examplefunc()
             {
@@ -105,6 +159,11 @@
             print $s;
         ?>
 ```        
+
+</td>
+</tr>
+</table>
+
  Passsing reference arguments to functions :
 ```php          
         function add_some(&$str1){...}
