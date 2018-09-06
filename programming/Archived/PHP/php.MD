@@ -1,10 +1,11 @@
-<table><tr>
-        <td>
-                <b> Where to write php code?</b><br>
-                1. in a php file with extention .php<br>
-                2. inside an html file:
-        </td>
-        <td>
+<table>
+ <tr>
+  <td>
+    <b> Where to write php code?</b><br>
+       1. in a php file with extention .php<br>
+       2. inside an html file:
+  </td>
+  <td>
 
 ```HTML
         <!DOCTYPE html><html><body>
@@ -14,6 +15,7 @@
  </td>
 </tr>
 </table>
+
 <table>
 <tr>
  <td>
