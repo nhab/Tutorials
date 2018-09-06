@@ -12,9 +12,16 @@
         </body></html> 
 ```  
  </td>
-</tr></table>
-<b> Comments</b>  are like c++: ``` // و /*...*/ ```<br>       
-<table>
+</tr>
+<tr>
+ <td>
+<b> Comments</b> <br>
+         are like c++:
+        </td>
+        <td>
+``` // و /*...*/
+        </td>
+</tr>
  <tr>
   <td>
 <b>print</b> a statement <br> use  Echo and PRINT
@@ -28,10 +35,7 @@
      
 </td>
 </tr>
-</table>
-
-<table>
- <tr>
+<tr>
   <td>
 <b>Variables:</b>
  - Don`t need definition.Wherever used ,are known everafter.<br>
@@ -46,7 +50,8 @@
             print $like;
         ?>
 ```        
- </td></tr></table>
+ </td></tr>
+ </table>
  <table>
  <tr>
   <td>
