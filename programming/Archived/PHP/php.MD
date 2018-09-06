@@ -1,7 +1,10 @@
-<b> Where to write php code?</b>
-1. in a php file with extention .php<br>
-2. inside an html file:
-
+<table><tr>
+        <td>
+                <b> Where to write php code?</b>
+                1. in a php file with extention .php<br>
+                2. inside an html file:
+        </td>
+        <td>
 ```HTML
         <!DOCTYPE html><html><body>
         <?php
@@ -9,6 +12,7 @@
         ?>
         </body></html> 
 ```  
+        </td>
 <b> Comments</b>  are like c++: ``` // و /*...*/ ```<br>        
 <b>print</b> a statement : use  Echo and PRINT
 ````HTML
