@@ -1,5 +1,5 @@
 <h3> Where to write php code?</h3>
-1. in pure php file with extention .php<br>
+1. in a php file with extention .php<br>
 2. inside an html file:
 
 ```HTML
