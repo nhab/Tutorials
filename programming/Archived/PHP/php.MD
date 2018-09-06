@@ -1,6 +1,7 @@
 <h3> Where to write php code?</h3>
 1. in pure php file with extention .php<br>
 2. inside an html file:
+
 ```HTML
         <!DOCTYPE html><html><body>
         <?php
@@ -8,6 +9,7 @@
         ?>
         </body></html> 
 ```  
+
 ## Comments  are like c++: ``` // و /*...*/ ```<br>        
 ## To print a statement : use  Echo and PRINT
 ````HTML
