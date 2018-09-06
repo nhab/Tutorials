@@ -13,6 +13,7 @@
         </body></html> 
 ```  
         </td>
+</tr></table>
 <b> Comments</b>  are like c++: ``` // و /*...*/ ```<br>        
 <b>print</b> a statement : use  Echo and PRINT
 ````HTML
