@@ -30,16 +30,23 @@
 </tr>
 </table>
 
+<table>
+ <tr>
+  <td>
 <b>Variables:</b>
  - Don`t need definition.Wherever used ,are known everafter.
  - Variable names must begin with $
  - Are case sensitive
+         </td>
+         <td>
+                 
 ```php
         <?php
             $like="I like it";
             print $like;
         ?>
 ```        
+ </td></tr></table>
  To combine Strings  variables in a statement use __dot(.)__
 ```php    
         print $like ." " .$num;
