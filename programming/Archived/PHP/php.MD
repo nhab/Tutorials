@@ -77,7 +77,7 @@
 <table>
  <tr>
   <td>
-## Arrays :
+          <b> Arrays </b>
          </td>
          <td>
                  
@@ -92,7 +92,7 @@
  <tr>
   <td>
 
-## Operators:
+<b>Operators<b><br>
  are like c :
  </td>
  <td>
@@ -103,23 +103,26 @@
  <table>
  <tr>
   <td>
-## If 
+    <b> If</b><br> 
  Is  like c
-         </td>
-         <td>
+  </td>
+   <td>
+           
  ```php
         if ($arr){$price=0.90;}else{..}
 ```
+
          </td>
         </tr>
         </table>
 <table>
  <tr>
   <td>
-## Loops
+          <b> Loops</b></br>
  are like c
          </td>
          <td>
+        
 ```php     
         <?php
             for($num=1;$num<=10;$num++)
@@ -137,6 +140,7 @@
                 }
             ?>
  ```
+ 
          </td>
         </tr>
         </table>
