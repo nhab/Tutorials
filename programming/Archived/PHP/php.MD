@@ -37,7 +37,7 @@
 </tr>
 <tr>
   <td>
-<b>Variables:</b>
+<b>Variables:</b><br>
  - Don`t need definition.Wherever used ,are known everafter.<br>
  - Variable names must begin with $ <br>
  - Are case sensitive
@@ -51,11 +51,10 @@
         ?>
 ```        
  </td></tr>
- </table>
- <table>
+ 
  <tr>
   <td>
- To combine Strings  variables in a statement use __dot(.)__
+ To combine Strings  variables : use __dot(.)__
          </td>
          <td>
                  
@@ -63,13 +62,13 @@
         print $like ." " .$num;
 ```        
 
-</td></tr></table>
-<table>
+</td></tr>
+
  <tr>
   <td>
- Even variable name can be dynamic:
-         </td>
-         <td>
+ variable name can be dynamic:
+  </td>
+  <td>
                  
 ```php    
         $test="success";
@@ -77,35 +76,29 @@
         $ID=${$primary};
         echo $ID;
 ```        
-</td></tr></table>
-
-<table>
- <tr>
+ </td>
+ </tr>
+<tr>
   <td>
-          <b> Arrays </b>
-         </td>
-         <td>
+    <b> Arrays </b>
+   </td>
+   <td>
                  
 ```php
         $a=array{1,2,3,4,5};
         <?php f[0]="j";f[1]="a";f[2]="r"; 
 ```        
 
-</td></tr></table>
-
-<table>
+</td></tr>
  <tr>
   <td>
-
-<b>Operators<b><br>
- are like c :
- </td>
- <td>
- + -/ * ....
- </td>
- </table>
- 
- <table>
+   <b>Operators<b><br>
+   are like c :
+  </td>
+  <td>
+  + -/ * ....
+  </td>
+ </tr>      
  <tr>
   <td>
     <b> If</b><br> 
@@ -116,17 +109,14 @@
  ```php
         if ($arr){$price=0.90;}else{..}
 ```
-
-         </td>
-        </tr>
-        </table>
-<table>
- <tr>
+  </td>
+  </tr>
+  <tr>
   <td>
           <b> Loops</b></br>
  are like c
-         </td>
-         <td>
+  </td>
+  <td>
         
 ```php     
         <?php
@@ -146,11 +136,9 @@
             ?>
  ```
  
-         </td>
-        </tr>
-        </table>
- <table>
- <tr>
+  </td>
+  </tr>
+  <tr>
   <td>
  ## Functions 
          </td>
@@ -171,21 +159,44 @@
 
 </td>
 </tr>
-</table>
-
+<tr>
+<td>
  Passsing reference arguments to functions :
+        </td>
+        <td>
 ```php          
         function add_some(&$str1){...}
-```                
+```         
+        </td>
+        </tr>
+ <tr>
+        <td>
   Default Argument in the function:
+        </td>
+        <td>
+                
 ```           
         function makeCoffe($types=array("cappuccino",$coffeMaker=Null)){..}
 ```        
+</td>
+</tr>
+<tr>
+        <td>
   Function to find IP of the Visitors:
+        </td>
+        <td>
+                
 ```php        
         Getenv("REMOTE_ADDR")
-```                
-## Uploading files
+```             
+</td>
+</tr>
+<tr>
+        <td>
+                <b> Uploading files</b>
+        </td>
+        <td>
+                
 ```php
         <form enctype="multipart/form-data" action="upload.php" method="post">
         Choose the file :
@@ -193,6 +204,10 @@
         <input type="submit" value="Upload" />
         </form>
 ```  
+</td>
+</tr>
+</tabe>
+
 ## Sessions
 __Session level variables__
 1. define them
