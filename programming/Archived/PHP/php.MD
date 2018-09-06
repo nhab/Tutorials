@@ -8,19 +8,23 @@
 
 ```HTML
         <!DOCTYPE html><html><body>
-        <?php
-        echo "My first PHP script!";
-        ?>
+        <?php        echo "My first PHP script!";        ?>
         </body></html> 
 ```  
-        </td>
+ </td>
 </tr></table>
-<b> Comments</b>  are like c++: ``` // و /*...*/ ```<br>        
-<b>print</b> a statement : use  Echo and PRINT
+<b> Comments</b>  are like c++: ``` // و /*...*/ ```<br>       
+<table><tr><td>
+<b>print</b> a statement <br> use  Echo and PRINT
+        </td>
+        <td>
 ````HTML
    <?php echo "i like it" ?>
    <?php print "I like it" ?>
 ````
+     
+</td></tr></table>
+
 <b>Variables:</b>
  - Don`t need definition.Wherever used ,are known everafter.
  - Variable names must begin with $
