@@ -1,4 +1,4 @@
-<h3> Where to write php code?</h3>
+<b> Where to write php code?</b>
 1. in a php file with extention .php<br>
 2. inside an html file:
 
