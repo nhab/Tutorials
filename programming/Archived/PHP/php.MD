@@ -9,14 +9,13 @@
         ?>
         </body></html> 
 ```  
-
-## Comments  are like c++: ``` // و /*...*/ ```<br>        
-## To print a statement : use  Echo and PRINT
+<b> Comments</b>  are like c++: ``` // و /*...*/ ```<br>        
+<b>print</b> a statement : use  Echo and PRINT
 ````HTML
    <?php echo "i like it" ?>
    <?php print "I like it" ?>
 ````
-## Variables:
+<b>Variables:</b>
  - Don`t need definition.Wherever used ,are known everafter.
  - Variable names must begin with $
  - Are case sensitive
@@ -26,7 +25,7 @@
             print $like;
         ?>
 ```        
- To combine Strings and variables in and statement use __dot(.)__
+ To combine Strings  variables in a statement use __dot(.)__
 ```php    
         print $like ." " .$num;
 ```        
