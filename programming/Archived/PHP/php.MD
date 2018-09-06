@@ -1,6 +1,6 @@
 <h3> Where to write php code?</h3>
-1. in pure php file with extention .php
-1. inside an html file:
+1. in pure php file with extention .php<br>
+2. inside an html file:
 ```HTML
         <!DOCTYPE html><html><body>
         <?php
@@ -8,16 +8,12 @@
         ?>
         </body></html> 
 ```  
-
-## Comments  are like c++: ``` // و /*...*/ ```<br>
-            
-
+## Comments  are like c++: ``` // و /*...*/ ```<br>        
 ## To print a statement : use  Echo and PRINT
 ````HTML
    <?php echo "i like it" ?>
    <?php print "I like it" ?>
 ````
-    
 ## Variables:
  - Don`t need definition.Wherever used ,are known everafter.
  - Variable names must begin with $
