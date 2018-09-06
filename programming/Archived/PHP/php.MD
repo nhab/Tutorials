@@ -141,8 +141,8 @@
   <tr>
   <td>
  ## Functions 
-         </td>
-         <td>
+  </td>
+  <td>
                  
 ```php
         <$php
@@ -159,43 +159,49 @@
 
 </td>
 </tr>
+</tr>
+</tabe>
+
 <tr>
 <td>
  Passsing reference arguments to functions :
-        </td>
-        <td>
+  </td>
+ <td>
 ```php          
         function add_some(&$str1){...}
 ```         
-        </td>
-        </tr>
+  </td>
+ </tr>
+ 
  <tr>
-        <td>
+   <td>
   Default Argument in the function:
-        </td>
-        <td>
+   </td>
+   <td>
                 
 ```           
-        function makeCoffe($types=array("cappuccino",$coffeMaker=Null)){..}
+  function makeCoffe($types=array("cappuccino",$coffeMaker=Null)){..}
 ```        
-</td>
+  </td>
 </tr>
+
 <tr>
-        <td>
+  <td>
   Function to find IP of the Visitors:
-        </td>
-        <td>
+  </td>
+  <td>
                 
 ```php        
         Getenv("REMOTE_ADDR")
 ```             
 </td>
 </tr>
+
 <tr>
-        <td>
-                <b> Uploading files</b>
-        </td>
-        <td>
+   <td>
+     <b> Uploading files</b>
+   </td>
+   <td>
                 
 ```php
         <form enctype="multipart/form-data" action="upload.php" method="post">
@@ -205,7 +211,7 @@
         </form>
 ```  
 </td>
-</tr>
+  </tr>
 </tabe>
 
 ## Sessions
